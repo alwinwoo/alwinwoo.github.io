@@ -1,2 +1,11 @@
 theme: jekyll-theme-tactile
 title: Alwin Woo
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - stocks.md
