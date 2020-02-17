@@ -1,5 +1,3 @@
-# Alwin's Homepage
-
 ## Pages
 - [Stocks](https://alwinwoo.github.io/stocks.md)
 
