@@ -1,6 +1,4 @@
-<header>
-  <title>Hello World</title>
-</header>
+# Hello World
 
 ## Pages
 - [Stocks](https://alwinwoo.github.io/stocks.md)
