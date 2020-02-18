@@ -2,7 +2,7 @@
 [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md)
 
 Codes            | Updated | Renko | Action  | Remarks
-:---:            | :---    | :---: | :---:   | :---
+:---             | :---    | :---: | :---:   | :---
 **Trade**        | 
 1288 ABC         | 18 Feb  | 1W    | Sell@3.41 | [details](https://alwinwoo.github.io/stocks/1288.html)
 **Confirm**      |
