@@ -9,7 +9,6 @@ Codes            | Updated | Renko | Action  | Remarks
 3988 BOC         | 17 Feb  | 1B    | 3.10 or 3.30  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=3988.HK) - [details](https://alwinwoo.github.io/stocks/3988.html)
 1622 RedCo       | 17 Feb  | 3W    | 3.50 or 3.90 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1622.HK) - [details](https://alwinwoo.github.io/stocks/1622.html)
 0008 PCCW        | 18 Feb  | 5W    | Buy @ 4.80  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=0008.HK) - [details](https://alwinwoo.github.io/stocks/0008.html)
-**Budget** |
 1199 COSCO Shipg | 17 Feb  | 4W    | 5.45 or 6.00 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1199.HK) - [details](https://alwinwoo.github.io/stocks/1199.html)
 **Review 24 Feb** |
 0257 China EB    | 17 Feb  | 1B    | 1W or 5.90   | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=0257.HK) - [details](https://alwinwoo.github.io/stocks/0257.html)
