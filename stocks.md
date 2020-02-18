@@ -5,8 +5,8 @@ Codes            | Updated | Renko | Action  | Remarks
 **Trade**        | 
 1288 ABC         | 18 Feb  | 1W    | 2.95 ~ 3.41 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1288.HK) - [details](https://alwinwoo.github.io/stocks/1288.html)
 1806 HuiFu       | 18 Feb  | 3W    | Buy@3.00  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1806.HK) - [details](https://alwinwoo.github.io/stocks/1806.html)
-**Confirm**      |
-1622 RedCo       | 17 Feb  | 3W    | Break 3.9 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1622.HK) - [details](https://alwinwoo.github.io/stocks/1622.html)
+**Break Resistance** |
+1622 RedCo       | 17 Feb  | 3W    | 3.5 or 3.9 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1622.HK) - [details](https://alwinwoo.github.io/stocks/1622.html)
 **Review 24 Feb** |
 3988 BOC         | 17 Feb  | 1B    | WaitSup  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=3988.HK) - [details](https://alwinwoo.github.io/stocks/3988.html)
 0257 China EB    | 17 Feb  | 1B    | WaitSup  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=0257.HK) - [details](https://alwinwoo.github.io/stocks/0257.html)
