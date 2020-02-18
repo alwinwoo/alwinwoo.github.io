@@ -1,7 +1,7 @@
 # Hello World
 
 ## Pages
-- [Stocks](https://alwinwoo.github.io/stocks.md)
+- [Stocks](https://alwinwoo.github.io/stocks.html)
 
 ## Edit
 - [Stocks](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md)
