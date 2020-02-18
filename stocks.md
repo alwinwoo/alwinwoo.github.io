@@ -1,6 +1,8 @@
 # Stocks
 
-[1288](https://alwinwoo.github.io/stocks/1288.html)
+## Trading
+- [1288](https://alwinwoo.github.io/stocks/1288.html)
+- [3988]
 
 | 1288   | 3.41  | Sup   | Res   | Remarks
 | ---:   | :---: | :---: | :---: | :--- 
