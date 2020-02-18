@@ -15,9 +15,8 @@ Codes            | Updated | Renko | Action  | Remarks
 **Trend**        |
 3988 BOC         | 17 Feb  | 1B    | nil    | [details](https://alwinwoo.github.io/stocks/3988.html)
 0257 China EB    | 17 Feb  | 1B    | nil    | [details](https://alwinwoo.github.io/stocks/0257.html)
-**Renko**        |
+**Revisit**        |
 1199 COSCO Shipg | 17 Feb  | 4W    | nil    | [details](https://alwinwoo.github.io/stocks/1199.html)
-0857 PetroChina  | 17 Feb  | 7B    | nil    | [details](https://alwinwoo.github.io/stocks/0857.html)
-**Screened**     |
+0857 PetroChina  | 17 Feb  | 7B    | Wait   | [details](https://alwinwoo.github.io/stocks/0857.html)
 
 [Back to Main Page](https://alwinwoo.github.io/)
