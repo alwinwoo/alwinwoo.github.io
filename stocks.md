@@ -8,7 +8,7 @@ Codes            | Updated | Renko | Action  | Remarks
 **Break Resistance** |
 1622 RedCo       | 17 Feb  | 3W    | 3.5 or 3.9 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1622.HK) - [details](https://alwinwoo.github.io/stocks/1622.html)
 **Review 24 Feb** |
-3988 BOC         | 17 Feb  | 1B    | WaitSup  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=3988.HK) - [details](https://alwinwoo.github.io/stocks/3988.html)
+3988 BOC         | 17 Feb  | 1B    | 3.10 or 3.30  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=3988.HK) - [details](https://alwinwoo.github.io/stocks/3988.html)
 0257 China EB    | 17 Feb  | 1B    | WaitSup  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=0257.HK) - [details](https://alwinwoo.github.io/stocks/0257.html)
 1778 Colour Life | 17 Feb  | 6W    | Px < 0.2 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1778.HK) - [details](https://alwinwoo.github.io/stocks/1778.html)
 1199 COSCO Shipg | 17 Feb  | 4W    | WaitSup  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1199.HK) - [details](https://alwinwoo.github.io/stocks/1199.html)
