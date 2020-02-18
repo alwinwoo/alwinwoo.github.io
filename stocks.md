@@ -1,5 +1,7 @@
 # Stocks
 
+[1288](https://alwinwoo.github.io/1288.html)
+
 | 1288   | 3.41  | Sup   | Res   | Remarks
 | ---:   | :---: | :---: | :---: | :--- 
 |        |       | 3.31  | 3.50  | R3.4, 3.5 
