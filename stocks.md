@@ -1,7 +1,4 @@
-# Stocks
-[edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md)
-
-[Renko](https://www.marketinout.com/chart/renko_chart.php)
+# Stocks | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md) | [Renko](https://www.marketinout.com/chart/renko_chart.php)
 
 Codes            | Updated | Renko | Action  | Remarks
 :---             | :---    | :---: | :---:   | :---
