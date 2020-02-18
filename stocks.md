@@ -4,7 +4,7 @@
 Codes            | Updated | Renko | Action  | Remarks
 :---:            | :---    | :---: | :---:   | :---
 **Trade**        | 
-1288 ABC         | 18 Feb  | 1W    | Sell @ | [details](https://alwinwoo.github.io/stocks/1288.html)
+1288 ABC         | 18 Feb  | 1W    | Sell@3.41 | [details](https://alwinwoo.github.io/stocks/1288.html)
 **Confirm**      |
 0008 PCCW        | 17 Feb  | 5W    | nil    | [details](https://alwinwoo.github.io/stocks/0008.html)
 1806 HuiFu       | 17 Feb  | 2W    | nil    | [details](https://alwinwoo.github.io/stocks/1806.html)
