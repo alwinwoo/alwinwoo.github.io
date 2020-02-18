@@ -17,6 +17,6 @@ Codes            | Updated | Renko | Action  | Remarks
 0257 China EB    | 17 Feb  | 1B    | nil    | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=0257.HK) - [details](https://alwinwoo.github.io/stocks/0257.html)
 **Revisit**        |
 1199 COSCO Shipg | 17 Feb  | 4W    | nil    | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1199.HK) - [details](https://alwinwoo.github.io/stocks/1199.html)
-0857 PetroChina  | 17 Feb  | 7B    | Buy@3.60  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=0857.HK) - [details](https://alwinwoo.github.io/stocks/0857.html)
+0857 PetroChina  | 17 Feb  | 7B    | Wait1B  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=0857.HK) - [details](https://alwinwoo.github.io/stocks/0857.html)
 
 [Back to Main Page](https://alwinwoo.github.io/)
