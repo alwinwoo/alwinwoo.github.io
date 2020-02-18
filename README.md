@@ -3,11 +3,8 @@
 ## Pages
 - [Stocks](https://alwinwoo.github.io/stocks.html)
 
-## Edit
-- [Stocks](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md)
-
 ## References
-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Jekyll](https://jekyllrb.com/)
 - [Github Basics](https://help.github.com/categories/github-pages-basics/)
 
