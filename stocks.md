@@ -16,6 +16,8 @@ Codes            | Analysed | <a href="https://www.marketinout.com/chart/renko_c
 0857 PetroChina  | 17 Feb  | 7B    | 3.36 or 1W   | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=0857.HK) - [details](https://alwinwoo.github.io/stocks/0857.html)
 **Grade 2** |
 1778 Colour Life | 18 Feb  | 6W    | Px < 0.2 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1778.HK) - [details](https://alwinwoo.github.io/stocks/1778.html)
-**Drop** |
 
-* [Renko](https://www.marketinout.com/chart/renko_chart.php)
+**Archived**
+
+Codes            | Analysed | <a href="https://www.marketinout.com/chart/renko_chart.php" target="_blank">Renko</a> | Action  | Links
+:---             | :---    | :---: | :---:   | :---
