@@ -1,9 +1,9 @@
-# Hello World [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/index.md)
+# Hello World | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/index.md)
 
 Hi, I'm Alwin and these are my pages:
 
-- [Stocks](https://alwinwoo.github.io/stocks.html)
 - [Ikigai](https://alwinwoo.github.io/ikigai.html)
+- [Stocks](https://alwinwoo.github.io/stocks.html)
 
 ## References
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
