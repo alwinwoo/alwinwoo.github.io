@@ -3,12 +3,12 @@
 
 ## Tracked
 
-Codes            | Analysed | <a href="https://www.marketinout.com/chart/renko_chart.php" target="_blank">Renko</a> | Action  | Links
+Codes            | Edited | <a href="https://www.marketinout.com/chart/renko_chart.php" target="_blank">Renko</a> | Action  | Links
 :---             | :---    | :---: | :---:   | :---
 **Trade**        | 
 [1288 ABC](https://alwinwoo.github.io/stocks/1288.html)         | 18 Feb  | 1W    | 3.14 ~ 3.41   | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=1288) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=1288.HK)
 [1806 HuiFu](https://alwinwoo.github.io/stocks/1806.html)       | 18 Feb  | 3W    | 3.00 >> 3.47  | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=1806) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=1806.HK)
-[1622 RedCo](https://alwinwoo.github.io/stocks/1622.html)       | 17 Feb  | 3W    | 4.00 >> 4.87  | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=1622) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=1622.HK)
+[1622 RedCo](https://alwinwoo.github.io/stocks/1622.html)       | 19 Feb  | 3W    | 4.00 >> 4.87  | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=1622) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=1622.HK)
 **Support** |
 [3988 BOC](https://alwinwoo.github.io/stocks/3988.html)         | 17 Feb  | 1B    | 3.10 or 3.30  | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=3988) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=3988.HK)
 [0008 PCCW](https://alwinwoo.github.io/stocks/0008.html)        | 18 Feb  | 5W    | 4.57 or 4.80  | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=8) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=0008.HK)
