@@ -1,4 +1,5 @@
-# Stocks | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md) | [Renko](https://www.marketinout.com/chart/renko_chart.php)
+# Stocks | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md)
+[back to main](https://alwinwoo.github.io)
 
 Codes            | Updated | Renko | Action  | Links
 :---             | :---    | :---: | :---:   | :---
@@ -17,4 +18,4 @@ Codes            | Updated | Renko | Action  | Links
 1778 Colour Life | 18 Feb  | 6W    | Px < 0.2 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1778.HK) - [details](https://alwinwoo.github.io/stocks/1778.html)
 **Drop** |
 
-[Back to Main Page](https://alwinwoo.github.io/)
+* [Renko](https://www.marketinout.com/chart/renko_chart.php)
