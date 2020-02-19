@@ -1,4 +1,5 @@
-# Ikigai
+# [Ikigai](https://alwinwoo.github.io/ikigai.html) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/ikigai.md)
+[back to main](https://alwinwoo.github.io/)
 
 * What is ikigai? 
 * Why is it important? 
@@ -26,4 +27,3 @@
 
 * Drawing / Media
 * Sports
-* 
