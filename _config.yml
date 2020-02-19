@@ -6,7 +6,9 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - index.md
   - README.md
+  - ikigai.md
   - stocks.md
   - stocks/0008.md
   - stocks/0257.md
