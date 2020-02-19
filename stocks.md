@@ -5,7 +5,7 @@
 Codes            | Analysed | <a href="https://www.marketinout.com/chart/renko_chart.php" target="_blank">Renko</a> | Action  | Links
 :---             | :---    | :---: | :---:   | :---
 **Trade**        | 
-1288 ABC         | 18 Feb  | 1W    | 2.95 ~ 3.41 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1288.HK) - [details](https://alwinwoo.github.io/stocks/1288.html)
+1288 ABC         | 18 Feb  | 1W    | 3.14 ~ 3.41 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1288.HK) - [details](https://alwinwoo.github.io/stocks/1288.html)
 1806 HuiFu       | 18 Feb  | 3W    | Buy@3.00  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1806.HK) - [details](https://alwinwoo.github.io/stocks/1806.html)
 **Break Resistance** |
 3988 BOC         | 17 Feb  | 1B    | 3.10 or 3.30  | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=3988.HK) - [details](https://alwinwoo.github.io/stocks/3988.html)
