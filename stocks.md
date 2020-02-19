@@ -1,6 +1,7 @@
 # [Stocks](https://alwinwoo.github.io/stocks.html) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md)
 [back to main](https://alwinwoo.github.io)
 
+## Tracked
 Codes            | Analysed | <a href="https://www.marketinout.com/chart/renko_chart.php" target="_blank">Renko</a> | Action  | Links
 :---             | :---    | :---: | :---:   | :---
 **Trade**        | 
@@ -17,7 +18,6 @@ Codes            | Analysed | <a href="https://www.marketinout.com/chart/renko_c
 **Grade 2** |
 1778 Colour Life | 18 Feb  | 6W    | Px < 0.2 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1778.HK) - [details](https://alwinwoo.github.io/stocks/1778.html)
 
-**Archived**
-
+## Archived
 Codes            | Analysed | <a href="https://www.marketinout.com/chart/renko_chart.php" target="_blank">Renko</a> | Action  | Links
 :---             | :---    | :---: | :---:   | :---
