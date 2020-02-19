@@ -1,7 +1,7 @@
 # [Stocks](https://alwinwoo.github.io/stocks.html) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md)
 [back to main](https://alwinwoo.github.io)
 
-Codes            | Updated | Renko | Action  | Links
+Codes            | Analysed | Renko | Action  | Links
 :---             | :---    | :---: | :---:   | :---
 **Trade**        | 
 1288 ABC         | 18 Feb  | 1W    | 2.95 ~ 3.41 | [mkt](https://www.marketinout.com/chart/stock_chart.php?symbol=1288.HK) - [details](https://alwinwoo.github.io/stocks/1288.html)
