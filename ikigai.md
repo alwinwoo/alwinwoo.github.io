@@ -1,4 +1,4 @@
-# [Ikigai](https://alwinwoo.github.io/ikigai.html)
+# [Ikigai](ikigai.html)
 [home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/ikigai.md)
 
 ## What is ikigai? 
