@@ -1,5 +1,5 @@
-# [Ikigai](https://alwinwoo.github.io/ikigai.html) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/ikigai.md)
-[back to main](https://alwinwoo.github.io/)
+# [Ikigai](https://alwinwoo.github.io/ikigai.html)
+[home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/ikigai.md)
 
 * What is ikigai? 
 * Why is it important? 
