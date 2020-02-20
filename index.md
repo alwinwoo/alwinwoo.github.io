@@ -1,4 +1,5 @@
-# [Hello World](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/index.md)
+# [Hello World](https://alwinwoo.github.io/)
+[edit page](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/index.md)
 
 Hi, I'm Alwin and these are my pages:
 
