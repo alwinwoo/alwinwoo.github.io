@@ -20,4 +20,4 @@ What I Love             | Mission                                 | What the Wor
 [E]: https://alwinwoo.github.io/pages/engineering.html "Engineering Mindset"
 [FX]: # "Forex Trading"
 [L]: # "Learning"
-[S]: https://alwinwoo.github.io/pages/stocks.html "Stocks"
+[S]: https://alwinwoo.github.io/stocks.html "Stocks"
