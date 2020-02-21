@@ -9,9 +9,9 @@ What I Love             | Mission                                 | What the Wor
 ---:                    | :---:                                   | :---
 [Food](#)<br>[Learning](#)<br>-[Forex](#)<br>-[Gamification](#)<br>-[Stocks][stocks] | | [World Peace](#)
 **Passion**             | **Ikigai** [<sup>(?)</sup>][ikigai]     | **Vocation**
-[Programming](#)<br>[Technology](#) | [Family](#)<br>[Public Service](#)      | [Minute Writing](#) 
+[Programming](#)<br>[Technology](#) | [Family](#)<br>[Public Service](#)      | [Clear Communications](#)<br>[Grounded Policies](#)<br>[Clear Minutes](#)<br>[Engaged Staff](#)
 **What I'm Good At**    | **Profession**                          | **What I'm Paid For**
-[Writing](#)            | [Project Mgmt](#)<br>[Change Mgmt](#)   | [Problem Solving](#)  
+[Systems Thinking](#)<br>[Listening](#)<br>[Data Analysis](#)<br>[Writing](#) | [Organisational Devt](#)<br>[Vision Deployment](#)<br>[Facilitation](#)<br>[Project Mgmt](#)<br>[Change Mgmt](#)<br>[Knowledge Mgmt](#) | [Visioning](#)<br>[Gap Analysis](#)<br>[Solutioning](#)<br>[Transforming Organisations](#)<br>[Changing Mindsets](#)<br>[Measuring Outcomes](#)<br>
 
 [<sub>Using Markdown on Github</sub>][github]
 
