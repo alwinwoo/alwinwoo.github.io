@@ -1,10 +1,17 @@
 # [Hello World](https://alwinwoo.github.io/)
 home | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/index.md)
 
-Hi, I'm Alwin and these are my pages:
+Hi, I'm Alwin and this is my ikigai:
 
-- [Ikigai](https://alwinwoo.github.io/ikigai.html)
-- [Stocks](https://alwinwoo.github.io/stocks.html)
+What I Love                                       | Mission               | What the World Needs
+---:                                              | :---:                 | :---
+Food                                              |                       |
+**Passion**                                       | [**Ikigai**](https://alwinwoo.github.io/ikigai.html)     | **Vocation**
+[Gamification](#)                                 |                       |
+[Programming](#)                                  |                       | 
+[Stocks](https://alwinwoo.github.io/stocks.html)  |                       |
+**What I'm Good At**                              | **Profession**        | **What I'm Paid For**
+[Writing](#)                                      | [Project Mgmt](#)     |                                                  
 
 ## References
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
