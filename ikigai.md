@@ -4,19 +4,15 @@
 
 ## What is ikigai? 
 
-What’s your reason for getting up in the morning? 
-
-In Japan, people who have discovered their ikigai (pronounced ick-ee-guy) jump out of bed every morning, knowing exactly what they need to do. On the Japanese island of Okinawa, where ikigai has its origins, is said to be home to the largest population of centenarians in the world. 
-
-## Why is it important? 
-
 Hector Garcia, the co-author of Ikigai: The Japanese Secret to a Long and Happy Life writes:
+> Your ikigai is at the intersection of what you are good at and what you love doing.
 
->    Your ikigai is at the intersection of what you are good at and what you love doing.
+What’s your reason for getting up in the morning? In Japan, people who have discovered their ikigai (pronounced ick-ee-guy) jump out of bed every morning, knowing exactly what they need to do. 
 
-Studies also show that not having an ikigai can have a detrimental effect on your life.
+## Why is knowing your ikigai important? 
 
->    Just as humans have lusted after objects and money since the dawn of time, other humans have felt dissatisfaction at the relentless pursuit of money and fame and have instead focused on something bigger than their own material wealth. This has over the years been described using many different words and practices, but always hearkening back to the central core of meaningfulness in life.
+Studies show that not having an ikigai can have a detrimental effect on your life.
+> Just as humans have lusted after objects and money since the dawn of time, other humans have felt dissatisfaction at the relentless pursuit of money and fame and have instead focused on something bigger than their own material wealth. This has over the years been described using many different words and practices, but always hearkening back to the central core of meaningfulness in life.
 
 ## How can I discover my ikigai? 
 
