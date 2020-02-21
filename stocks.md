@@ -1,5 +1,5 @@
-# [Stocks](https://alwinwoo.github.io/stocks.html) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md)
-[back to main](https://alwinwoo.github.io)
+# [Stocks](https://alwinwoo.github.io/stocks.html) 
+[home](https://alwinwoo.github.io) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md)
 
 ## Tracked
 
