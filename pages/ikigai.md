@@ -44,6 +44,8 @@ When this happens, you will find that pursuing your ikigai will bring you fulfil
 
 ![ikigai](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fchrismyers%2Ffiles%2F2018%2F02%2Fikigai-1.jpg)
 
+For a more in-depth concept similar to ikigai, see [kokorozashi].
+
 ## References
 - <https://medium.com/thrive-global/ikigai-the-japanese-secret-to-a-long-and-happy-life-might-just-help-you-live-a-more-fulfilling-9871d01992b7>
 - <https://www.forbes.com/sites/chrismyers/2018/02/23/how-to-find-your-ikigai-and-transform-your-outlook-on-life-and-business/#4feed0fc2ed4>
