@@ -19,6 +19,8 @@ Syntax highlighted code block
 [Link](url "title optional") 
 ![Image](src)
 
+Automatic link - <http://example.com/> or <me@mail.com>
+
 [id]: url "title optional"
 [example][id] or ![example][id] both work
 
