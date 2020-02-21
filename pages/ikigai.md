@@ -42,7 +42,7 @@ You will realise your ikigai when these four primary elements converge:
 
 When this happens, you will find that pursuing your ikigai will bring you fulfilment, happiness and make you want to live longer.
 
-![ikigai](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fchrismyers%2Ffiles%2F2018%2F02%2Fikigai-1.jpg)
+![ikigai](https://alwinwoo.github.io/img/ikigai.jpg)
 
 For a more in-depth concept similar to ikigai, see [kokorozashi].
 
