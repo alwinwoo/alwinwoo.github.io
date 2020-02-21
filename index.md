@@ -11,7 +11,7 @@ What I Love             | Mission                                 | What the Wor
 **Passion**             | **Ikigai** [<sup>(?)</sup>][ikigai]     | **Vocation**
 [Futuring](#)<br>[Technology](#)<br>[Programming](#)<br>[Data Visualisation](#)<br>[Web Design](#) | [Public Service](#)<br>      | [Grounded Policies](#)<br>[Clear Communications](#)<br>[Engaged Staff](#)<br>[Effective Teams](#)<br>[Healthy Individuals](#)
 **What I'm Good At**    | **Profession**                          | **What I'm Paid For**
-[Engineering Mindset][eng]<br>- [Systems Thinking](#)<br>[Deep Listening](#)<br>[Data Analysis](#)<br>[Writing](#)<br>[Multi-Sectoral Experience](#)<br> | [Organisational Devt](#)<br>[Vision Deployment](#)<br>[Facilitation](#)<br>[Project Mgmt](#)<br>- [Change Mgmt](#)<br>- [Knowledge Mgmt](#) | [Visioning](#)<br>[Gap Analysis](#)<br>[Solutioning](#)<br>- [Leading Teams](#)<br>- [Transforming Organisations](#)<br>- [Changing Mindsets](#)<br>[Measuring Outcomes](#)<br>
+[Engineering Mindset][eng]<br>- [Systems Thinking](#)<br>[Facilitation](#)<br>[Deep Listening](#)<br>[Data Analysis](#)<br>[Writing](#)<br>[Multi-Sectoral Experience](#)<br> | [Organisational Devt](#)<br>[Vision Deployment](#)<br>[Project Mgmt](#)<br>- [Change Mgmt](#)<br>- [Knowledge Mgmt](#) | [Visioning](#)<br>[Gap Analysis](#)<br>[Solutioning](#)<br>- [Leading Teams](#)<br>- [Transforming Organisations](#)<br>- [Changing Mindsets](#)<br>[Measuring Outcomes](#)<br>
 
 [<sub>Using Markdown on Github</sub>][GH]
 
