@@ -10,6 +10,7 @@ Hi, I'm Alwin and these are my pages:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Jekyll](https://jekyllrb.com/)
 - [Github Basics](https://help.github.com/categories/github-pages-basics/)
+- [Github Pages Tutorial](https://biodata-club.github.io/githubPagesTutorial/)
 
 ```markdown
 Syntax highlighted code block
