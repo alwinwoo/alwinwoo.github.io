@@ -1,5 +1,5 @@
-# [Github and Markdown](https://alwinwoo.github.io/)
-home | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/github.md)
+# [Github and Markdown](https://alwinwoo.github.io/github.html)
+[home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/github.md)
 
 ## Most Commonly Used
 
