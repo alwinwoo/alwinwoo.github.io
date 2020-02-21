@@ -15,9 +15,9 @@ What I Love             | Mission                                 | What the Wor
 
 [<sub>Using Markdown on Github</sub>][github]
 
-[github]: https://alwinwoo.github.io/github.html "Github"
-[ikigai]: https://alwinwoo.github.io/ikigai.html "Ikigai"
-[E]: # "Engineering Mindset"
+[github]: https://alwinwoo.github.io/pages/github.html "Github"
+[ikigai]: https://alwinwoo.github.io/pages/ikigai.html "Ikigai"
+[E]: # https://alwinwoo.github.io/pages/engineering.html "Engineering Mindset"
 [FX]: # "Forex Trading"
 [L]: # "Learning"
-[S]: https://alwinwoo.github.io/stocks.html "Stocks"
+[S]: https://alwinwoo.github.io/pages/stocks.html "Stocks"
