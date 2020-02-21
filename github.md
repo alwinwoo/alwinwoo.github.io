@@ -4,7 +4,7 @@ home | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/github.
 ## Most Commonly Used
 
 end a line with two or more spaces  
-Check if <span style="color:red">CSS</span> can be used
+If CSS is enabled, red will be "<span style="color:red">red</span>". 
 
 ```markdown
 Syntax highlighted code block
