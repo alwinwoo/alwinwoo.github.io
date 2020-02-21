@@ -1,7 +1,9 @@
 # [Stocks](https://alwinwoo.github.io/stocks.html) 
 [home](https://alwinwoo.github.io) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md)
 
-## Tracked
+This page shows the stocks that I'm currently tracking / trading on various markets right now.
+
+## Trading / Tracked
 
 Codes            | Edited | <a href="https://www.marketinout.com/chart/renko_chart.php" target="_blank">Renko</a> | Action  | Links
 :---             | :---    | :---: | :---:   | :---
