@@ -8,10 +8,7 @@ This is my ikigai matrix, by which this site is organised:
 What I Love             | Mission                                 | What the World Needs
 ---:                    | :---:                                   | :---
 [Food](#)               |                                         | [World Peace](#)
-[Learning](#)           |                                         |
-| - [Forex](#)          |                                         | 
-| - [Gamification](#)   |                                         |
-| - [Stocks][stocks]    |                                         |
+[Learning](#)<br>-[Forex](#)<br>-[Gamification](#)<br>-[Stocks][stocks]    |                                         |
 **Passion**             | **Ikigai** [<sup>(?)</sup>][ikigai]     | **Vocation**
 &nbsp;                  | [Family](#)                             | [Minute Writing](#) 
 [Programming](#)        | [Public Service](#)                     | 
