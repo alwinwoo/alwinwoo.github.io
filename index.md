@@ -9,34 +9,15 @@ What I Love                                       | Mission               | What
 ---:                                              | :---:                 | :---
 [Food](#)                                         |                       | [World Peace](#)
 **Passion**                                       | **Ikigai** [<sup>(?)</sup>](https://alwinwoo.github.io/ikigai.html)     | **Vocation**
-[Gamification](#)                                 |                       |
+[Gamification](#)                                 |                       | [Minute Writing](#) 
 [Programming](#)                                  |                       | 
 [Stocks](https://alwinwoo.github.io/stocks.html)  |                       |
 [Technology](#)                                   |                       |
 **What I'm Good At**                              | **Profession**        | **What I'm Paid For**
-[Writing](#)                                      | [Project Mgmt](#)     |                                               
+[Writing](#)                                      | [Project Mgmt](#)     |                                              
 
-## Github and Markdown
-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Jekyll](https://jekyllrb.com/)
-- [Github Basics](https://help.github.com/categories/github-pages-basics/)
-- [Github Pages Tutorial](https://biodata-club.github.io/githubPagesTutorial/)
+[<sub>Using Markdown on Github</sub>](github)
 
-```markdown
-Syntax highlighted code block
+[github]: https://alwinwoo.github.io/github.html "Github"
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
