@@ -1,19 +1,22 @@
 # [Hello World](https://alwinwoo.github.io/)
 home | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/index.md)
 
-Hi, I'm Alwin and this is my ikigai:
+Welcome adventurer to my little corner of cyberspace.
+
+This is my ikigai matrix, by which this site is organised:
 
 What I Love                                       | Mission               | What the World Needs
 ---:                                              | :---:                 | :---
-Food                                              |                       |
+[Food](#)                                         |                       | [World Peace](#)
 **Passion**                                       | [**Ikigai**](https://alwinwoo.github.io/ikigai.html)     | **Vocation**
 [Gamification](#)                                 |                       |
 [Programming](#)                                  |                       | 
 [Stocks](https://alwinwoo.github.io/stocks.html)  |                       |
+[Technology](#)                                   |                       |
 **What I'm Good At**                              | **Profession**        | **What I'm Paid For**
-[Writing](#)                                      | [Project Mgmt](#)     |                                                  
+[Writing](#)                                      | [Project Mgmt](#)     |                                               
 
-## References
+## Github and Markdown
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Jekyll](https://jekyllrb.com/)
 - [Github Basics](https://help.github.com/categories/github-pages-basics/)
