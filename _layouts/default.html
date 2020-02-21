@@ -14,13 +14,13 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-        <img src="https://alwinwoo.github.io/assets/img/logo.jpg">
-
+        <table>
+          <tr>
+            <td><img width:200px;height:200px; src="https://alwinwoo.github.io/assets/img/logo.jpg"></td>
+            <td>
+              <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>        
+            </td>
+        </table>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
