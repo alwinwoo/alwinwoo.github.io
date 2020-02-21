@@ -46,11 +46,11 @@ For horizontal lines, use ---, *** or - - - -
 
 ```
 
+For more tips, the internet is your friend.
+
 ## References
 
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Github Basics](https://help.github.com/categories/github-pages-basics/)
 - [Github Pages Tutorial](https://biodata-club.github.io/githubPagesTutorial/)
 - [Jekyll](https://jekyllrb.com/)
-
-For more tips, the internet is your friend.
