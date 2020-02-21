@@ -7,7 +7,7 @@ This is my [ikigai][ikigai] matrix, by which this site is organised:
 
 What I Love             | Mission                                 | What the World Needs
 :---                    | :---                                    | :---
-[Learning][Learn]<br>- [Forex][FX]<br>- [Gamification](Game)<br>- [Stocks][stocks]<br>[Food](food)<br> | [God](#)<br>[Family](#)<br> | [Love](#)<br>[Social Responsibility](#)<br>[World Peace](#)
+[Learning][Learn]<br>- [Forex][FX]<br>- [Gamification][Game]<br>- [Stocks][stocks]<br>[Food][food]<br> | [God](#)<br>- [Church](#)<br>- [Family](#)<br> | [Love](#)<br>[Social Responsibility](#)<br>[World Peace](#)
 **Passion**             | **Ikigai** [<sup>(?)</sup>][ikigai]     | **Vocation**
 [Futuring](#)<br>[Technology](#)<br>[Programming](#)<br>[Data Visualisation](#)<br>[Web Design](#) | [Public Service](#)<br>      | [Grounded Policies](#)<br>[Clear Communications](#)<br>[Engaged Staff](#)<br>[Effective Teams](#)<br>[Healthy Individuals](#)
 **What I'm Good At**    | **Profession**                          | **What I'm Paid For**
