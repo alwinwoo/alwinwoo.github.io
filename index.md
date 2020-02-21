@@ -8,7 +8,7 @@ This is my ikigai matrix, by which this site is organised:
 What I Love                                       | Mission               | What the World Needs
 ---:                                              | :---:                 | :---
 [Food](#)                                         |                       | [World Peace](#)
-**Passion**                                       | [Ikigai](https://alwinwoo.github.io/ikigai.html)     | **Vocation**
+**Passion**                                       | **Ikigai** [<sup>(?)</sup>](https://alwinwoo.github.io/ikigai.html)     | **Vocation**
 [Gamification](#)                                 |                       |
 [Programming](#)                                  |                       | 
 [Stocks](https://alwinwoo.github.io/stocks.html)  |                       |
