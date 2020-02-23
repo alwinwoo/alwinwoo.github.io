@@ -10,7 +10,7 @@ What I Love             | Mission                                 | What the Wor
 [Reading][]<br>[Learning][]<br>- [Forex][]<br>- [Games][]<br>- [Stocks][]<br>[Food][]<br> | [God][]<br>- [Church][]<br>- [Family][]<br> | [Love][]<br>
 **Passion**             | **Ikigai** [<sup>(?)</sup>][ikigai]     | **Vocation**
 [Futuring]<br>[Technology]<br>[Programming]<br>[Data Visualisation]<br>[Web Design] | [Public Service]<br> | [Grounded Policies]<br>[Clear Communications]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
-**What I'm Good At**    | **Profession**                          | **What I'm Paid For**
+**What I'm Good At**    | **[Profession][linked]** | **[What I'm Paid For][linked]**
 [Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing]<br>[Multi-Sectoral Experience]<br> | Organisation Devt<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
 
 ## Former Elements of My Ikigai Matrix
@@ -34,3 +34,5 @@ What I Love             | Mission                                 | What the Wor
 [ikigai]:   https://alwinwoo.github.io/pages/ikigai.html            "Ikigai"
 
 [eng]:      https://alwinwoo.github.io/pages/engineering.html       "Engineering Mindset"
+
+[linked]:   https://sg.linkedin.com/in/alwinwoo                     "My LinkedIn Account"
