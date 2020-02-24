@@ -8,8 +8,8 @@ This page shows the stocks that I'm currently tracking / trading on various mark
 Codes            | Edited | <a href="https://www.marketinout.com/chart/renko_chart.php" target="_blank">Renko</a> | Action  | Links
 :---             | :---    | :---: | :---:   | :---
 **Active**       | 
-[1288 ABC](https://alwinwoo.github.io/stocks/1288.html)         | 24 Feb  | 1W    | 3.08 ~ 3.41   | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=1288) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=1288.HK)
-[1622 RedCo](https://alwinwoo.github.io/stocks/1622.html)       | 24 Feb  | 3W    | 3.80 ~ 4.87   | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=1622) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=1622.HK)
+[1288 ABC](https://alwinwoo.github.io/stocks/1288.html)         | 24 Feb  | 3W    | 3.08 ~ 3.41   | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=1288) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=1288.HK)
+[1622 RedCo](https://alwinwoo.github.io/stocks/1622.html)       | 24 Feb  | 1B    | 3.80 ~ 4.87   | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=1622) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=1622.HK)
 **Confirm**      |
 [1806 HuiFu](https://alwinwoo.github.io/stocks/1806.html)       | 18 Feb  | 3W    | 3.1 LRC+      | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=1806) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=1806.HK)
 **LRC +ve**      |
