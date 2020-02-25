@@ -1,7 +1,7 @@
 # [Reading](https://alwinwoo.github.io/pages/reading.html)
 [home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/reading.md)
 
-![Reading](https://alwinwoo.github.com/assets/img/reading.jpg "Cultivate the Love for Reading")
+![Reading](https://alwinwoo.github.io/assets/img/reading.jpg "Cultivate the Love for Reading")
 
 > “A reader lives a thousand lives before he dies;<br>The man who never reads lives only one.”<br>- George R.R. Martin
 
