@@ -1,7 +1,7 @@
 # [Stocks](https://alwinwoo.github.io/stocks.html) 
 [home](https://alwinwoo.github.io) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/stocks.md)
 
-This page shows the stocks that I'm currently tracking / trading on various markets right now.
+This page shows the Hong Kong stocks that I'm currently tracking / trading right now.
 
 ## Trading / Tracked
 
