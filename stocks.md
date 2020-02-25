@@ -21,19 +21,19 @@ Codes            | Edited | <a href="https://www.marketinout.com/chart/renko_cha
 [0257 China EB](https://alwinwoo.github.io/stocks/0257.html)<sup>[M85]</sup>    | 25 Feb  | 4B    | 5.45 or 5.90  | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=257) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=0257.HK)
 [1199 COSCO Shipg](https://alwinwoo.github.io/stocks/1199.html)<sup>[M85]</sup> | 25 Feb  | 5B    | 5.45 or 6.00  | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=1199) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=1199.HK)
 **Pending** |
-[386 Sinopec](#)<sup>[M100]</sup>      |
-[3328 BankComm](#)<sup>[M100]</sup>    |
-[1398 ICBC](#)<sup>[M100]</sup>        |
-[371 BJ Ent Water](#)<sup>[M70]</sup>  |
-[817 China Jinmao](#)<sup>[M70]</sup>  | 
-[135 Kunlun Energy](#)<sup>[M85]</sup> |
-[788 China Tower](#)<sup>[M85]</sup>   |
-[1339 PICC](#)<sup>[M85]</sup>         |
-[728 China Telecom](#)<sup>[M85]</sup> |
-[998 CITIC](#)<sup>[M85]</sup>         |
-[1658 PSBC](#)<sup>[M85]</sup>         |
-[1766 CRRC](#)<sup>[M85]</sup>         |
-[1988 Minsheng](#)<sup>[M85]</sup>     |
+[0386 Sinopec](https://alwinwoo.github.io/stocks/0386.html)<sup>[M100]</sup>      |
+[3328 BankComm](https://alwinwoo.github.io/stocks/3328.html)<sup>[M100]</sup>    |
+[1398 ICBC](https://alwinwoo.github.io/stocks/1398.html)<sup>[M100]</sup>        |
+[0371 BJ Ent Water](https://alwinwoo.github.io/stocks/0371.html)<sup>[M70]</sup>  |
+[0817 China Jinmao](https://alwinwoo.github.io/stocks/0817.html)<sup>[M70]</sup>  | 
+[0135 Kunlun Energy](https://alwinwoo.github.io/stocks/0135.html)<sup>[M85]</sup> |
+[0788 China Tower](https://alwinwoo.github.io/stocks/0788.html)<sup>[M85]</sup>   |
+[1339 PICC](https://alwinwoo.github.io/stocks/1339.html)<sup>[M85]</sup>         |
+[0728 China Telecom](https://alwinwoo.github.io/stocks/0728.html)<sup>[M85]</sup> |
+[0998 CITIC](https://alwinwoo.github.io/stocks/0998.html)<sup>[M85]</sup>         |
+[1658 PSBC](https://alwinwoo.github.io/stocks/1658.html)<sup>[M85]</sup>         |
+[1766 CRRC](https://alwinwoo.github.io/stocks/1766.html)<sup>[M85]</sup>         |
+[1988 Minsheng](https://alwinwoo.github.io/stocks/1988.html)<sup>[M85]</sup>     |
 
 [Marginable HK Shares for DBS (M50/70/85/100%)](https://www.dbs.com.sg/iwov-resources/pdf/loan/secured-financing/share-financing/hongkong.pdf)  
 <sub>updated 25 Feb 2020</sub>
