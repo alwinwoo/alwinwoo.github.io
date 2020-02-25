@@ -1,6 +1,8 @@
 # [Reading](https://alwinwoo.github.io/pages/reading.html)
 [home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/reading.md)
 
+![Reading](https://alwinwoo.github.com/assets/img/reading.jpg "Cultivate the Love for Reading")
+
 > “A reader lives a thousand lives before he dies;<br>The man who never reads lives only one.”<br>- George R.R. Martin
 
 The habit of reading is one of the best qualities that a person can possess. If reading is a habit you’d like to get into, there are a number of ways to cultivate it.
