@@ -36,3 +36,8 @@ Here are some tips that I use to maintain a lifetime of reading habit:
 
 ## Become a Reading Champion
 14. **Read to your child**. If you have children, read to them. Creating the reading habit in your kids is the best way to ensure they’ll be readers when they grow up. Find some great children’s books and read to them. You’re developing the reading habit in yourself and spending quality time with your child at the same time.
+
+# References
+
+# Links to Digest
+https://medium.com/accelerated-intelligence/the-way-you-read-books-says-a-lot-about-your-intelligence-find-out-why-c2127b00eb03
