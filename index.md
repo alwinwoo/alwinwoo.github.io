@@ -11,7 +11,7 @@ What I Love             | Mission                                 | What the Wor
 **Passion** | **[Ikigai][]** [<sup>(?)</sup>][ikigai] | **[Vocation][linked]**
 [Futuring]<br>[Technology]<br>[Programming]<br>[Data Visualisation]<br>[Web Design] | [Public Service]<br> | [Grounded Policies]<br>[Clear Communications]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
 **What I'm Good At** | **[Profession][linked]** | **[What I'm Paid For][linked]**
-[Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing]<br>[Multi-Sectoral Experience]<br> | Organisation Devt<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
+[Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing][]<br>[Multi-Sectoral Experience]<br> | Organisation Devt<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
 
 ## Former Ikigai Elements
 - Photography
@@ -26,12 +26,12 @@ What I Love             | Mission                                 | What the Wor
 [games]:    https://alwinwoo.github.io/pages/games.html             "Games"
 [stocks]:   https://alwinwoo.github.io/stocks.html                  "Stocks"
 [food]:     https://alwinwoo.github.io/pages/food.html              "Food"
-[god]:     https://alwinwoo.github.io/pages/god.html                "God"
-[church]:     https://alwinwoo.github.io/pages/church.html          "Church"
-[family]:     https://alwinwoo.github.io/pages/family.html          "Family"
-[love]:     https://alwinwoo.github.io/pages/love.html              "Love"
-
-[ikigai]:   https://alwinwoo.github.io/pages/ikigai.html            "Ikigai"
+[god]:      https://alwinwoo.github.io/pages/god.html                "God"
+[church]:   https://alwinwoo.github.io/pages/church.html             "Church"
+[family]:   https://alwinwoo.github.io/pages/family.html             "Family"
+[love]:     https://alwinwoo.github.io/pages/love.html               "Love"
+[writing]:  https://alwinwoo.github.io/pages/writing.html            "Writing"
+[ikigai]:   https://alwinwoo.github.io/pages/ikigai.html             "Ikigai"
 
 [eng]:      https://alwinwoo.github.io/pages/engineering.html       "Engineering Mindset"
 
