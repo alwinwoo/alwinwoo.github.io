@@ -10,6 +10,8 @@ In Japan, people who have discovered their ikigai (pronounced ick-ee-guy) jump o
 
 What about you? What is your reason for getting up in the morning? 
 
+> The most important things in life are measured internally. Thinking about what matters to you is hard. Playing to someone else’s scoreboard is easy, that’s why a lot of people do it. But winning the wrong game is pointless and empty. You only have one life - play your own game. [[source]](https://fs.blog/2019/06/comparing-yourself-others/)
+
 ## Why is knowing your ikigai important? 
 
 One of the many mistakes people made in life is believing that money leads to fulfillment. If money is your ikigai, then good for you!
