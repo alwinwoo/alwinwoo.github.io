@@ -30,9 +30,18 @@ Here are some tips that I use to maintain a lifetime of reading habit:
 8. **Have a reading hour or reading day**. If you turn off the TV or Internet in the evening, you could have a set hour (perhaps just after dinner) when you and your family can read each night. Make it a day if you can.
 
 ## Writing It Down
-11. **Make a list**. Keep a list of all the great books you want to read. You can keep this in your journal, in a pocket notebook, on your personal home page, on your personal wiki, wherever. Be sure to add to it whenever you hear about a good book, online or in person. Keep a running list, and cross out the ones you read. Tech trick: create a Gmail account for your book list, and email the address every time you hear about a good book. Now your inbox will be your reading list. When you’ve read a book, file it under “Done”. If you want, you can even reply to the message (to the same address) with notes about the book, and those will be in the same conversation thread, so now your Gmail account is your reading log too.
+11. **Make a list**. Keep a list of all the great books you want to read. You can keep this in your journal, in a pocket notebook, on your personal home page, on your personal wiki, wherever. Be sure to add to it whenever you hear about a good book, online or in person. Keep a running list, and cross out the ones you read. 
+
+> Create an email (Gmail/Yahoo/whatever) account for your book list, and email the address every time you hear about a good book. 
+> Use your inbox will be your reading list. When you’ve read a book, file it under “Done”. 
+
 12. **Keep a log**. Similar to the reading list, this log should have not only the title and author of the books you read, but the dates you start and finish them if possible. Even better, put a note next to each with your thoughts about the book. It is extremely satisfying to go back over the log after a couple of months to see all the great books you’ve read.
+
+> Using the same email address, reply to the message with notes about the book, and those will be in the same conversation thread, so now your email account is your reading log too.
+
 13. **Blog it**. One of the best ways to form a habit is to put it on your blog. If you don’t have one, create one. Ask your family or friends to give you book suggestions and comment on the ones you’re reading. It keeps you accountable for your goals.
+
+> You can use github too, like me :)
 
 ## Become a Reading Champion
 14. **Read to your child**. If you have children, read to them. Creating the reading habit in your kids is the best way to ensure they’ll be readers when they grow up. Find some great children’s books and read to them. You’re developing the reading habit in yourself and spending quality time with your child at the same time.
