@@ -9,7 +9,7 @@ What I Love             | Mission                                 | What the Wor
 :---                    | :---                                    | :---
 [Reading][]<br>[Learning][]<br>- [Forex][]<br>- [Games][]<br>- [Stocks][]<br>[Food][]<br> | [God][]<br>- [Church][]<br>- [Family][]<br> | [Love][]<br>
 **Passion** | **[Ikigai][]** [<sup>(?)</sup>][ikigai] | **[Vocation][linked]**
-[Futuring]<br>[Technology]<br>[Programming]<br>[Data Visualisation]<br>[Web Design] | [Public Service]<br> | [Grounded Policies]<br>[Clear Communications]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
+[Futuring]<br>[Technology]<br>[Programming]<br>[Data Visualisation]<br>[Web Design] | [Public Service]<br>[Innovation][] | [Grounded Policies]<br>[Clear Communications]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
 **What I'm Good At** | **[Profession][linked]** | **[What I'm Paid For][linked]**
 [Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing][]<br>[Multi-Sectoral Experience]<br> | Organisation Devt<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
 
@@ -19,20 +19,20 @@ What I Love             | Mission                                 | What the Wor
 
 [<sub>Using Markdown on Github</sub>][GH]
 
-[GH]:       https://alwinwoo.github.io/pages/github.html            "GitHub and Markdown"
-[reading]:  https://alwinwoo.github.io/pages/reading.html           "Reading"
-[learning]: https://alwinwoo.github.io/pages/learning.html          "Learning"
-[forex]:    https://alwinwoo.github.io/pages/forex.html             "Forex"
-[games]:    https://alwinwoo.github.io/pages/games.html             "Games"
-[stocks]:   https://alwinwoo.github.io/stocks.html                  "Stocks"
-[food]:     https://alwinwoo.github.io/pages/food.html              "Food"
-[god]:      https://alwinwoo.github.io/pages/god.html                "God"
-[church]:   https://alwinwoo.github.io/pages/church.html             "Church"
-[family]:   https://alwinwoo.github.io/pages/family.html             "Family"
-[love]:     https://alwinwoo.github.io/pages/love.html               "Love"
-[writing]:  https://alwinwoo.github.io/pages/writing.html            "Writing"
-[ikigai]:   https://alwinwoo.github.io/pages/ikigai.html             "Ikigai"
-
-[eng]:      https://alwinwoo.github.io/pages/engineering.html       "Engineering Mindset"
+[church]:     https://alwinwoo.github.io/pages/church.html        "Church"
+[eng]:        https://alwinwoo.github.io/pages/engineering.html   "Engineering Mindset"
+[family]:     https://alwinwoo.github.io/pages/family.html        "Family"
+[food]:       https://alwinwoo.github.io/pages/food.html          "Food"
+[forex]:      https://alwinwoo.github.io/pages/forex.html         "Forex"
+[games]:      https://alwinwoo.github.io/pages/games.html         "Games"
+[GH]:         https://alwinwoo.github.io/pages/github.html        "GitHub and Markdown"
+[god]:        https://alwinwoo.github.io/pages/god.html           "God"
+[ikigai]:     https://alwinwoo.github.io/pages/ikigai.html        "Ikigai"
+[innovation]: https://alwinwoo.github.io/pages/innovation.html    "Innovation"
+[learning]:   https://alwinwoo.github.io/pages/learning.html      "Learning"
+[love]:       https://alwinwoo.github.io/pages/love.html          "Love"
+[reading]:    https://alwinwoo.github.io/pages/reading.html       "Reading"
+[stocks]:     https://alwinwoo.github.io/stocks.html              "Stocks"
+[writing]:    https://alwinwoo.github.io/pages/writing.html       "Writing"
 
 [linked]:   https://sg.linkedin.com/in/alwinwoo                     "My LinkedIn Account"
