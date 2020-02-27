@@ -10,7 +10,7 @@ In Japan, people who have discovered their ikigai (pronounced ick-ee-guy) jump o
 
 What about you? What is your reason for getting up in the morning? 
 
-> The most important things in life are measured internally. Thinking about what matters to you is hard. Playing to someone else’s scoreboard is easy, that’s why a lot of people do it. But winning the wrong game is pointless and empty. You only have one life - play your own game. [[source]](https://fs.blog/2019/06/comparing-yourself-others/)
+> The most important things in life are measured internally. Thinking about what matters to you is hard. Playing to someone else’s scoreboard is easy, that’s why a lot of people do it. But winning the wrong game is pointless and empty. You only have one life - play your own game.
 
 ## Why is knowing your ikigai important? 
 
@@ -49,5 +49,7 @@ When this happens, you will find that pursuing your ikigai will bring you fulfil
 For a more in-depth concept similar to ikigai, see [kokorozashi].
 
 ## References
-- <https://medium.com/thrive-global/ikigai-the-japanese-secret-to-a-long-and-happy-life-might-just-help-you-live-a-more-fulfilling-9871d01992b7>
-- <https://www.forbes.com/sites/chrismyers/2018/02/23/how-to-find-your-ikigai-and-transform-your-outlook-on-life-and-business/#4feed0fc2ed4>
+
+- https://medium.com/thrive-global/ikigai-the-japanese-secret-to-a-long-and-happy-life-might-just-help-you-live-a-more-fulfilling-9871d01992b7
+- https://www.forbes.com/sites/chrismyers/2018/02/23/how-to-find-your-ikigai-and-transform-your-outlook-on-life-and-business/#4feed0fc2ed4
+- https://fs.blog/2019/06/comparing-yourself-others/
