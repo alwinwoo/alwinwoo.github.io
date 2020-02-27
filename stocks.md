@@ -35,8 +35,7 @@ Codes            | Edited | <a href="https://www.marketinout.com/chart/renko_cha
 [1766 CRRC](https://alwinwoo.github.io/stocks/1766.html)<sup>[M85]</sup>         |
 [1988 Minsheng](https://alwinwoo.github.io/stocks/1988.html)<sup>[M85]</sup>     |
 
-[(M50/70/85/100%): Marginable HK Shares for DBS](https://www.dbs.com.sg/iwov-resources/pdf/loan/secured-financing/share-financing/hongkong.pdf)  
-<sub>updated 25 Feb 2020</sub>
+[(M50/70/85/100%): Marginable HK Shares for DBS](https://www.dbs.com.sg/iwov-resources/pdf/loan/secured-financing/share-financing/hongkong.pdf) - updated 25 Feb 2020
 
 ## Archived
 
