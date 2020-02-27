@@ -13,6 +13,8 @@ What I Love             | Mission                                 | What the Wor
 **What I'm Good At** | **[Profession][linked]** | **[What I'm Paid For][linked]**
 [Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing][]<br>[Multi-Sectoral Experience]<br> | Organisation Devt<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
 
+[Areas that I'm developing][learning]
+
 **Former Ikigai Elements**
 - Photography
 - Music
