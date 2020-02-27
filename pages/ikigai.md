@@ -14,9 +14,9 @@ What about you? What is your reason for getting up in the morning?
 
 ## Why is knowing your ikigai important? 
 
-One of the many mistakes people made in life is believing that money leads to fulfillment. If money is your ikigai, then good for you!
+One of the many mistakes people made in life is believing that money leads to fulfillment. 
 
-However for others, the pursuit of money may not be so:
+If money is your ikigai, then good for you! However for others, the pursuit of money may not be so:
 
 > Just as humans have lusted after objects and money since the dawn of time, other humans have felt dissatisfaction at the relentless pursuit of money and fame and have instead focused on something bigger than their own material wealth. This has over the years been described using many different words and practices, but always hearkening back to the central core of meaningfulness in life.
 
