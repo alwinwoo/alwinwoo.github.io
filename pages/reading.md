@@ -50,4 +50,5 @@ Here are some tips that I use to maintain a lifetime of reading habit:
 # References
 
 # Links to Digest
-https://medium.com/accelerated-intelligence/the-way-you-read-books-says-a-lot-about-your-intelligence-find-out-why-c2127b00eb03
+
+- https://medium.com/accelerated-intelligence/the-way-you-read-books-says-a-lot-about-your-intelligence-find-out-why-c2127b00eb03
