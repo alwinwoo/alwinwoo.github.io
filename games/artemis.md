@@ -3,6 +3,7 @@
 
 > THIS IS ARTEMIS
 
+- [Artemis Website Download](https://artemisspaceshipbridge.com/downloads)
 - [Star Wars Mod](https://artemis.forumchitchat.com/post/artemis-galaxy-star-wars-multibridge-artemis-mod-8258923)
 
 ## References
