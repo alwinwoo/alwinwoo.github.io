@@ -9,7 +9,7 @@ What I Love             | Mission                                 | What the Wor
 :---                    | :---                                    | :---
 [Reading][]<br>[Learning][]<br>- [Forex][]<br>- [Games][]<br>- [Stocks][]<br>[Food][]<br> | [God][]<br>- [Church][]<br>- [Family][]<br> | [Love][]<br>
 **Passion** | **[Ikigai][]** [<sup>(?)</sup>][ikigai] | **[Vocation][linked]**
-[Futuring]<br>[Technology]<br>[Programming]<br>[Data Visualisation]<br>[Web Design] | [Public Service]<br>[Innovation][] | [Grounded Policies]<br>[Clear Communications]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
+[Futuring]<br>[Technology]<br>[Programming]<br>[Data Visualisation]<br>[Web Design] | [Public Service]<br>[Innovation][] | [Grounded Policies]<br>[Clear Communications][comms]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
 **What I'm Good At** | **[Profession][linked]** | **[What I'm Paid For][linked]**
 [Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing][]<br>[Multi-Sectoral Experience]<br> | Organisation Devt<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
 
@@ -22,6 +22,7 @@ What I Love             | Mission                                 | What the Wor
 [<sub>Using Markdown on Github</sub>][GH]
 
 [church]:     https://alwinwoo.github.io/pages/church.html        "Church"
+[comms]:      https://alwinwoo.github.io/pages/comms.html         "Clear Communications"
 [eng]:        https://alwinwoo.github.io/pages/engineering.html   "Engineering Mindset"
 [family]:     https://alwinwoo.github.io/pages/family.html        "Family"
 [food]:       https://alwinwoo.github.io/pages/food.html          "Food"
