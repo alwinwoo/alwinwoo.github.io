@@ -20,3 +20,10 @@ Creating
 - security
 - maintenance
 - cron
+
+# Others
+
+- markdown scripts
+- teamspeak
+- remote view
+- VPS
