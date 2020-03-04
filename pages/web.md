@@ -5,6 +5,7 @@ Creating
 
 # Steps
 
+- determine objectives
 - Choose a domain name
 - Decide where to host your site
 - Considerations
