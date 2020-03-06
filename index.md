@@ -15,10 +15,6 @@ What I Love             | Mission                                 | What the Wor
 
 [Areas that I'm developing][learning]
 
-**Former Ikigai Elements**
-- Photography
-- Music
-
 [<sub>Using Markdown on Github</sub>][GH]
 
 [church]:     https://alwinwoo.github.io/pages/church.html        "Church"
