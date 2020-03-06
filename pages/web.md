@@ -28,8 +28,9 @@ Here are some steps that I have obtained from the Internet to help you along the
 
 ## Steps to set up your DIY server on Google Cloud
 - Hosting on the cloud
-  - Create a GCloud instance
-  - Obtain Static Address
+  - [Create a Gloud Account](https://cloud.google.com/gcp/getting-started)
+  - [Create a GCloud instance](https://cloud.google.com/compute/docs/instances/create-start-instance)
+  - [Reserve a Static IP Address](https://cloud.google.com/compute/docs/ip-addresses/reserve-static-external-ip-address)
 
 ## Steps to set up your server at home or in office
 - Static or Dynamic DNS
@@ -40,7 +41,10 @@ Here are some steps that I have obtained from the Internet to help you along the
 - Set up DNS on [CloudFlare](https://www.cloudflare.com)
 
 ## Setting up your DIY server
-- Installing server (Debian 9)
+- Installing your server OS 
+  - Debian 9/10, Ubuntu
+- Harden Server
+  - <https://github.com/pratiktri/server_init_harden>
 - Securing Access
   - Create SSH private and public keys
   ```code
