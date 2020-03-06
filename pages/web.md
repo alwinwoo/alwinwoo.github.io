@@ -1,7 +1,7 @@
 # [Web Administration & Design](https://alwinwoo.github.io/pages/web.html)
 [home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/web.md)
 
-Like having a baby, setting up a small piece of cyberspace with your own domain name, unique email address and doing radical stuff on your own server can be a lot of fun.
+Like having a baby, setting up your small corner of cyberspace using your own domain name with unique email address and doing radical stuff on your own server can be a lot of fun.
 
 Here are some steps that I have obtained from the Internet to help you along the way.
 
@@ -11,6 +11,8 @@ Here are some steps that I have obtained from the Internet to help you along the
 - Plan your site
   - what is your site about? what are you going to put on it?
   - what is your budget / technical expertise?
+    - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+    - <span style="color:red">if you don't understand half of the article above, you should proceed to DIY your own server with caution</span>
 - Choose a domain name
   - a name that represents your site
   - a name that is easy to remember, pronounce or spell
