@@ -34,7 +34,7 @@ Here are some steps that I have obtained from the Internet to help you along the
 - set up port forwarding rules for your router
 
 ## Pointing the Domain Name to your server
-- Set up DNS on CloudFlare
+- Set up DNS on [CloudFlare](https://www.cloudflare.com)
 
 ## Setting up the Basics
 - Allowing Access
@@ -76,7 +76,7 @@ Here are some steps that I have obtained from the Internet to help you along the
   sudo nano /etc/phpmyadmin/apache.conf
   ```
     - https://www.tecmint.com/change-secure-phpmyadmin-login-url-page/
-  - Hardening server security for PHPmyadmin
+- Hardening server security for PHPmyadmin
     ```code
     Secure phpmyadmin with .htaccess
     sudo nano /etc/apache2/conf-available/phpmyadmin.conf
@@ -92,9 +92,20 @@ Here are some steps that I have obtained from the Internet to help you along the
     sudo htpasswd -c /etc/phpmyadmin/.htpasswd username
     sudo htpasswd /etc/phpmyadmin/.htpasswd additionaluser
     ```
-    - https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-debian-9
+   - https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-debian-9
 
 ## Setting up other Stuff
+- Install SSL certificate
+  ```code
+  openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 3650 (self-signed)
+  sudo mv cert.pem /etc/ssl/certs/
+  sudo mv key.pem /etc/ssl/private/
+  sudo a2ensite default-ssl (enables website - a2dissite disables the site)
+  sudo nano /etc/apache2/sites-enabled/default-ssl.conf
+  sudo a2enmod ssl (enables modules)
+  sudo /etc/init.d/apache2 restart
+  ```
+  - https://www.sslshopper.com/apache-server-ssl-installation-instructions.html
 - Set up the email server
 - anti spam
 - maintenance
