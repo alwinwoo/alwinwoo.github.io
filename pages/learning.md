@@ -3,7 +3,11 @@
 
 > "Wisdom is not a product of schooling, but of the lifelong attempt to acquire it." - Albert Einstein
 
-# My Areas of Development
+Despite having mapped out my [ikigai](https://alwinwoo.github.io/pages/ikigai.html), I have realised that as you pursue your interests and passion, you always learn and evolve through the years. 
+
+As such, there will always be areas that you want to develop, to become better in.
+
+## Identified Areas of Development
 
 1. Public Speaking
 2. Facilitation
@@ -16,6 +20,13 @@ However, given one's limited time on earth to gain skills or knowledge, we need 
 2. You can be anything but you can’t be everything.
 3. There is one thing that you’re better at than other people: being you.
 4. If you want to compare, compare yourself against who you were yesterday.
+
+As such, given the lack of time, there have been areas of my life that I have decided to stop actively pursuing.
+
+## Former Ikigai Areas
+
+1. Music
+2. Photography
 
 # References
 
