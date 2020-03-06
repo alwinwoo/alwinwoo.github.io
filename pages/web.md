@@ -21,13 +21,12 @@ Here are some steps that I have obtained from the Internet to help you along the
   - <http://data.iana.org/TLD/tlds-alpha-by-domain.txt>
 - Decide the type of hosting
   - what is your budget and level of technical expertise?
-    - Again, I say: <span style="color:red">if you don't understand the article below, I suggest you proceed to DIY your own server with caution</span>  
+    - Again, I say: <span style="color:red">if you don't understand the article below, I suggest you proceed to DIY your server with caution</span>  
     - <https://github.com/imthenachoman/How-To-Secure-A-Linux-Server>
-  - shared or dedicated hosting
-  - Server on the cloud eg. Google Cloud, AWS
-  - Server in the office / at home
+  - DIY server on the cloud eg. Google Cloud, AWS
+  - DIY server in the office / at home
 
-## Steps to set up your server on Google Cloud
+## Steps to set up your DIY server on Google Cloud
 - Hosting on the cloud
   - Create a GCloud instance
   - Obtain Static Address
@@ -37,11 +36,12 @@ Here are some steps that I have obtained from the Internet to help you along the
 - buying new / using old computers / whatever is available
 - set up port forwarding rules for your router
 
-## Pointing the Domain Name to your server
+## Pointing the Domain Name to your DIY server
 - Set up DNS on [CloudFlare](https://www.cloudflare.com)
 
-## Setting up the Basics
-- Allowing Access
+## Setting up your DIY server
+- Installing server (Debian 9)
+- Securing Access
   - Create SSH private and public keys
   ```code
   ssh-keygen -f <ssh file names> -t rsa -b 4096    
@@ -52,8 +52,6 @@ Here are some steps that I have obtained from the Internet to help you along the
   - <https://www.ssh.com/ssh/keygen/>
   - <http://travistidwell.com/jsencrypt/demo/>
   - <https://wiki.filezilla-project.org/Howto/>
-
-- Installing server (Debian 9)
 - Install and setup common modules (Apache / PHP / mysql / openSSH / sshfs)
   ```code
   sudo apt-get update
@@ -98,6 +96,36 @@ Here are some steps that I have obtained from the Internet to help you along the
     ```
    - <https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-debian-9>
 
+## Maintaining your DIY server
+  - Add users with chroot
+    ```code
+    usermod -d /var/www/myApplication/ exampleuser
+    ```
+    - <https://www.tecmint.com/restrict-ssh-user-to-directory-using-chrooted-jail/>
+    - <https://askubuntu.com/questions/961231/how-to-change-default-ftp-directory-in-linux>
+  - Add users to sudoers
+    ```code
+    usermod -aG sudo <user name>
+    ```
+    - <https://linuxize.com/post/how-to-create-a-sudo-user-on-debian/>
+  - Reset mysql root password
+    ```code
+    sudo /etc/init.d/mysql stop
+    sudo mysqld_safe --skip-grant-tables &
+    mysql -uroot
+    use mysql;
+    update user set authentication_string=PASSWORD("mynewpassword") where User='root';
+    flush privileges;
+    quit
+    sudo /etc/init.d/mysql stop
+    sudo /etc/init.d/mysql start
+    mysql -u root -p
+    Enter your new password when prompted.
+    ```
+    - <https://support.rackspace.com/how-to/mysql-resetting-a-lost-mysql-root-password/>
+  - Change PHP upload directory
+    - edit /etc/php/7.0/apache2/php.ini
+
 ## Setting up other Stuff
 - Install SSL certificate
   ```code
@@ -111,9 +139,9 @@ Here are some steps that I have obtained from the Internet to help you along the
   ```
   - <https://www.sslshopper.com/apache-server-ssl-installation-instructions.html>
 - Set up the email server
-- anti spam
-- maintenance
-- cron
+- Set up anti spam
+- Set up FTP server (why would you want to do this?)
+  - <https://www.thomas-krenn.com/en/wiki/Setup_FTP_Server_under_Debian>
 - rsync to back-up your server to another remote server
 ```code
 rsync -avz --delete --exclude '.git' --info=progress2 -e "ssh -p <port number>" <your-domain-name>:/var/www/ /var/www
@@ -121,7 +149,9 @@ rsync -avz --delete --exclude '.git' --info=progress2 -e "ssh -p <port number>" 
 
 # Others
 
+- cron
+- git
 - markdown scripts
-- teamspeak
 - remote view
+- teamspeak
 - VPS
