@@ -18,12 +18,14 @@ Here are some steps that I have obtained from the Internet to help you along the
   - a name that is easy to remember, pronounce or spell
   - must it end with .com or something else?
   - a name that is available
-  - http://data.iana.org/TLD/tlds-alpha-by-domain.txt
+  - <http://data.iana.org/TLD/tlds-alpha-by-domain.txt>
 - Decide the type of hosting
   - what is your budget and level of technical expertise?
-  - shared / dedicated hosting
-  - DIY on the cloud
-  - DIY in the office / at home
+    - Again, I say: <span style="color:red">if you don't understand the article below, I suggest you proceed to DIY your own server with caution</span>  
+    - <https://github.com/imthenachoman/How-To-Secure-A-Linux-Server>
+  - shared or dedicated hosting
+  - Server on the cloud eg. Google Cloud, AWS
+  - Server in the office / at home
 
 ## Steps to set up your server on Google Cloud
 - Hosting on the cloud
@@ -47,9 +49,9 @@ Here are some steps that I have obtained from the Internet to help you along the
   Copy the ssh_key to subdirectory .ssh    
   ```  
   - Add public key into SSH server
-  - https://www.ssh.com/ssh/keygen/
-  - http://travistidwell.com/jsencrypt/demo/
-  - https://wiki.filezilla-project.org/Howto/
+  - <https://www.ssh.com/ssh/keygen/>
+  - <http://travistidwell.com/jsencrypt/demo/>
+  - <https://wiki.filezilla-project.org/Howto/>
 
 - Installing server (Debian 9)
 - Install and setup common modules (Apache / PHP / mysql / openSSH / sshfs)
@@ -58,9 +60,9 @@ Here are some steps that I have obtained from the Internet to help you along the
   sudo apt-get install apache2 php php-gd php7.0-gd mysql-server phpmyadmin mysql-client openssh-server sshfs
   sudo chown <user>:<user> /var/www -R
   ```
-  - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-debian
-  - https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd
-  - https://cloudkul.com/blog/lamp-installation-on-google-cloud/
+  - <https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-debian>
+  - <https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd>
+  - <https://cloudkul.com/blog/lamp-installation-on-google-cloud/>
 - Install PHPmyadmin for mysql
   ```code
   sudo mysql -u root -p
@@ -77,7 +79,7 @@ Here are some steps that I have obtained from the Internet to help you along the
 
   sudo nano /etc/phpmyadmin/apache.conf
   ```
-    - https://www.tecmint.com/change-secure-phpmyadmin-login-url-page/
+    - <https://www.tecmint.com/change-secure-phpmyadmin-login-url-page/>
 - Hardening server security for PHPmyadmin
     ```code
     Secure phpmyadmin with .htaccess
@@ -94,7 +96,7 @@ Here are some steps that I have obtained from the Internet to help you along the
     sudo htpasswd -c /etc/phpmyadmin/.htpasswd username
     sudo htpasswd /etc/phpmyadmin/.htpasswd additionaluser
     ```
-   - https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-debian-9
+   - <https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-debian-9>
 
 ## Setting up other Stuff
 - Install SSL certificate
@@ -107,7 +109,7 @@ Here are some steps that I have obtained from the Internet to help you along the
   sudo a2enmod ssl (enables modules)
   sudo /etc/init.d/apache2 restart
   ```
-  - https://www.sslshopper.com/apache-server-ssl-installation-instructions.html
+  - <https://www.sslshopper.com/apache-server-ssl-installation-instructions.html>
 - Set up the email server
 - anti spam
 - maintenance
@@ -123,7 +125,3 @@ rsync -avz --delete --exclude '.git' --info=progress2 -e "ssh -p <port number>" 
 - teamspeak
 - remote view
 - VPS
-
-# References
-
-
