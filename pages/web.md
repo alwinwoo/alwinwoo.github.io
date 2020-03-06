@@ -11,8 +11,8 @@ Here are some steps that I have obtained from the Internet to help you along the
 - Plan your site
   - what is your site about? what are you going to put on it?
   - what is your budget / technical expertise?
-    - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
-    - <span style="color:red">if you don't understand half of the article above, you should proceed to DIY your own server with caution</span>
+    - <span style="color:red">if you don't understand the article below, I suggest you proceed to DIY your own server with caution</span>  
+    - <https://github.com/imthenachoman/How-To-Secure-A-Linux-Server>
 - Choose a domain name
   - a name that represents your site
   - a name that is easy to remember, pronounce or spell
