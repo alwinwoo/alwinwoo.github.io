@@ -3,9 +3,7 @@
 
 > "The core of the engineering mind-set is what I call modular systems thinking. It’s not a singular talent, but a melange of techniques and principles. Systems-level thinking is more than just being systematic; rather, it’s about the understanding that in the ebb and flow of life, nothing is stationary and everything is linked. The relationships among the modules of a system give rise to a whole that cannot be understood by analyzing its constituent parts."<br>- Guru Madhavan
 
-I enjoyed engineering when I was in university.
-
-The subjects were dry and often too technical for my liking.
+I enjoyed engineering when I was in university, even though the subjects were dry and often too technical for my liking.
 
 However, the concepts that I developed during this period have helped me to become who I am today.
 
