@@ -163,3 +163,6 @@ Here are some steps that I have obtained from the Internet to help you along the
 - remote view
 - teamspeak
 - VPS
+
+- other CMSes
+  - <https://www.staticgen.com/>
