@@ -168,5 +168,11 @@ Here are some steps that I have obtained from the Internet to help you along the
   - <https://www.staticgen.com/>
 
 - Eleventy with NPM
+  ```code
+  sudo apt-get install curl
+  curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+  sudo apt-get install build-essential nodejs
+  
+  ```
   - https://linuxhint.com/install_npm_debian/
   - https://www.11ty.dev/docs/getting-started/
