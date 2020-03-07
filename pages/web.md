@@ -172,7 +172,13 @@ Here are some steps that I have obtained from the Internet to help you along the
   sudo apt-get install curl
   curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
   sudo apt-get install build-essential nodejs
-  
+  mkdir /home/user/eleventy
+  cd /home/user/eleventy
+  npm init -y
+  npm install --save-dev @11ty/eleventy
+  echo '<!doctype html><html><head><title>Page title</title></head><body><p>Hi</p></body></html>' > index.html
+  echo '# Page header' > README.md
+  npx @11ty/eleventy --serve --port=80 
   ```
   - https://linuxhint.com/install_npm_debian/
   - https://www.11ty.dev/docs/getting-started/
