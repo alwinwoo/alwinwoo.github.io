@@ -166,3 +166,7 @@ Here are some steps that I have obtained from the Internet to help you along the
 
 - other CMSes
   - <https://www.staticgen.com/>
+
+- Eleventy with NPM
+  - https://linuxhint.com/install_npm_debian/
+  - https://www.11ty.dev/docs/getting-started/
