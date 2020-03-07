@@ -147,14 +147,18 @@ Here are some steps that I have obtained from the Internet to help you along the
 - Set up FTP server (why would you want to do this?)
   - <https://www.thomas-krenn.com/en/wiki/Setup_FTP_Server_under_Debian>
 - rsync to back-up your server to another remote server
-```code
-rsync -avz --delete --exclude '.git' --info=progress2 -e "ssh -p <port number>" <your-domain-name>:/var/www/ /var/www
-```
+  ```code
+  rsync -avz --delete --exclude '.git' --info=progress2 -e "ssh -p <port number>" <your-domain-name>:/var/www/ /var/www
+  ```
 
 # Others
 
 - cron
 - git
+- lighttpd with pelican markdown
+  - <https://garyhall.org.uk/fast-blog-for-raspberry-pi.html>
+  - <https://linuxize.com/post/how-to-install-python-3-7-on-debian-9/>
+  - <https://pelican.readthedocs.io/en/3.2/getting_started.html>
 - markdown scripts
 - remote view
 - teamspeak
