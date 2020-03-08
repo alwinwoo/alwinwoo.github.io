@@ -156,29 +156,11 @@ Here are some steps that I have obtained from the Internet to help you along the
 - cron
 - git
 - lighttpd with pelican markdown
-  - <https://garyhall.org.uk/fast-blog-for-raspberry-pi.html>
-  - <https://linuxize.com/post/how-to-install-python-3-7-on-debian-9/>
-  - <https://pelican.readthedocs.io/en/3.2/getting_started.html>
-- markdown scripts
+  ```code
+  sudo apt-get install rubygems build-essential
+  gem install rack bluecloth ruby-fcgi
+  ```
+  - https://github.com/theirix/fcgi-markdown/blob/master/README.md
 - remote view
 - teamspeak
 - VPS
-
-- other CMSes
-  - <https://www.staticgen.com/>
-
-- Eleventy with NPM
-  ```code
-  sudo apt-get install curl
-  curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
-  sudo apt-get install build-essential nodejs
-  mkdir /home/user/eleventy
-  cd /home/user/eleventy
-  npm init -y
-  npm install --save-dev @11ty/eleventy
-  echo '<!doctype html><html><head><title>Page title</title></head><body><p>Hi</p></body></html>' > index.html
-  echo '# Page header' > README.md
-  npx @11ty/eleventy --serve --port=80 
-  ```
-  - https://linuxhint.com/install_npm_debian/
-  - https://www.11ty.dev/docs/getting-started/
