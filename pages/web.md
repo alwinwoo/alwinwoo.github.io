@@ -157,8 +157,9 @@ Here are some steps that I have obtained from the Internet to help you along the
 - git
 - lighttpd with pelican markdown
   ```code
-  sudo apt-get install rubygems build-essential
-  gem install rack bluecloth ruby-fcgi
+  sudo apt-get install rubygems build-essential ruby-dev fcgiwrap
+  sudo gem update --system
+  sudo gem install rack bluecloth ruby-fcgi
   ```
   - https://github.com/theirix/fcgi-markdown/blob/master/README.md
 - remote view
