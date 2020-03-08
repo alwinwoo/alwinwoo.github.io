@@ -157,9 +157,21 @@ Here are some steps that I have obtained from the Internet to help you along the
 - git
 - lighttpd with pelican markdown
   ```code
-  sudo apt-get install rubygems build-essential ruby-dev fcgiwrap
+  sudo apt-get install php cgi rubygems build-essential ruby-dev libfcgi-dev
   sudo gem update --system
   sudo gem install rack bluecloth ruby-fcgi
+  sudo wget https://raw.githubusercontent.com/theirix/fcgi-markdown/master/fcgi-markdown.fcgi
+  sudo lighttpd-enable-mod fastcgi fastcgi-php
+  sudo nano /etc/lighttpd/lighttpd.conf 
+  +++++
+  fastcgi.server = (".md" => ((
+    "bin-path" => "/var/www/fcgi-markdown.fcgi",
+    "kill-signal" => 10,
+    "port" => 1027))
+  )
+  +++++
+  sudo lighttpd-enable-mod cgi fastcgi
+  sudo service lighttpd reload
   ```
   - https://github.com/theirix/fcgi-markdown/blob/master/README.md
 - remote view
