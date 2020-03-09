@@ -1,3 +1,3 @@
 # Storage
 
-[TiddlyWiki Empty Template]()
+[TiddlyWiki Empty Template](empty.html)
