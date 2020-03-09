@@ -51,12 +51,8 @@ Here are some steps from the Internet that I have summarised to help you along t
   - <https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd>
   - <https://cloudkul.com/blog/lamp-installation-on-google-cloud/>
 - Securing Access
-  - Create SSH private and public keys
-  ```code
-  ssh-keygen -f <ssh file names> -t rsa -b 4096    
-  Copy the public key to the server    
-  Copy the ssh_key to subdirectory .ssh    
-  ```
+  - Create SSH private and public keys (puttygen?)
+  - Save the ppk file in a secure location
   - Add public key into SSH server
   - <https://www.ssh.com/ssh/keygen/>
   - <http://travistidwell.com/jsencrypt/demo/>
@@ -146,6 +142,7 @@ Here are some steps from the Internet that I have summarised to help you along t
   - <https://www.thomas-krenn.com/en/wiki/Setup_FTP_Server_under_Debian>
 - git
 - Remote view
+  - <https://linuxize.com/post/how-to-install-xrdp-on-ubuntu-18-04/>
 - rsync to back-up your server to another remote server
   ```code
   rsync -avz --delete --exclude '.git' --info=progress2 -e "ssh -p <port number>" <your-domain-name>:/var/www/ /var/www
