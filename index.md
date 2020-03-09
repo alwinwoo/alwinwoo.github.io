@@ -3,7 +3,7 @@ home | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/index.m
 
 Welcome adventurer to my little corner of cyberspace.
 
-This is my [ikigai][] matrix, by which this site is organised:
+This is my [ikigai](ikigai.md) matrix, by which this site is organised:
 
 What I Love             | Mission                                 | What the World Needs
 :---                    | :---                                    | :---
