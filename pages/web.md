@@ -105,7 +105,7 @@ Here are some steps from the Internet that I have summarised to help you along t
 ## Maintaining your DIY server
   - Add users and change passwords
     ```code
-    useradd <name>
+    adduser <name>
     passwd <name>
     ```
   - Add users with chroot
@@ -151,6 +151,7 @@ Here are some steps from the Internet that I have summarised to help you along t
   sudo apt install xfce4 xfce4-desktop xfce4-goodies xorg dbus-x11 x11-xserver-utils
   sudo apt install xrdp
     => check with 'sudo systemctl status xrdp'
+  sudo systemctl enable xrdp
   sudo adduser xrdp ssl-cert 
   sudo nano /etc/xrdp/xrdp.ini
     => add 'exec startxfce4' at end of file
