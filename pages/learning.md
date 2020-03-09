@@ -7,7 +7,9 @@ Despite having mapped out my [ikigai](https://alwinwoo.github.io/pages/ikigai.ht
 
 As such, there will always be areas that you want to develop, to become better in.
 
-## My Identified Areas of Development
+## What I Want to Learn
+
+To build up my profession and vocation areas, these are the areas that I need to work on:
 
 1. Public Speaking
 2. Facilitation
