@@ -3,7 +3,7 @@ home | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/index.m
 
 Welcome adventurer to my little corner of cyberspace.
 
-This is my [ikigai](ikigai.md) matrix, by which this site is organised:
+This is my [ikigai][] matrix, by which this site is organised:
 
 What I Love             | Mission                                 | What the World Needs
 :---                    | :---                                    | :---
@@ -26,7 +26,7 @@ What I Love             | Mission                                 | What the Wor
 [games]:      https://alwinwoo.github.io/pages/games.html         "Games"
 [GH]:         https://alwinwoo.github.io/pages/github.html        "GitHub and Markdown"
 [god]:        https://alwinwoo.github.io/pages/god.html           "God"
-[ikigai]:     https://alwinwoo.github.io/pages/ikigai.html        "Ikigai"
+[ikigai]:     pages/ikigai.md        "Ikigai"
 [innovation]: https://alwinwoo.github.io/pages/innovation.html    "Innovation"
 [learning]:   https://alwinwoo.github.io/pages/learning.html      "Learning"
 [love]:       https://alwinwoo.github.io/pages/love.html          "Love"
