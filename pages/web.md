@@ -159,6 +159,7 @@ Here are some steps from the Internet that I have summarised to help you along t
   => open port 3389 (GCloud is 'default-allow-rdp')
   ```
   - <https://linuxize.com/post/how-to-install-xrdp-on-ubuntu-18-04/>
+  - <https://linoxide.com/linux-how-to/xrdp-connect-ubuntu-linux-remote-desktop-via-rdp-from-windows/>
 - rsync to back-up your server to another remote server
   ```code
   rsync -avz --delete --exclude '.git' --info=progress2 -e "ssh -p <port number>" <your-domain-name>:/var/www/ /var/www
