@@ -41,18 +41,7 @@ Here are some steps from the Internet that I have summarised to help you along t
   - Debian 9/10, Ubuntu
 - Pointing the Domain Name to your DIY server
   - Set up DNS on [CloudFlare](https://www.cloudflare.com)
-- Securing Access
-  - Create SSH private and public keys
-  ```code
-  ssh-keygen -f <ssh file names> -t rsa -b 4096    
-  Copy the public key to the server    
-  Copy the ssh_key to subdirectory .ssh    
-  ```  
-  - Add public key into SSH server
-  - <https://www.ssh.com/ssh/keygen/>
-  - <http://travistidwell.com/jsencrypt/demo/>
-  - <https://wiki.filezilla-project.org/Howto/>
-- Install and setup common modules (Apache / PHP / mysql / openSSH / sshfs)
+- Install commonly-used modules (Apache / PHP / mysql / openSSH / sshfs)
   ```code
   sudo apt-get update
   sudo apt-get install apache2 php php-gd php7.0-gd mysql-server phpmyadmin mysql-client openssh-server sshfs
@@ -61,6 +50,22 @@ Here are some steps from the Internet that I have summarised to help you along t
   - <https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-debian>
   - <https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd>
   - <https://cloudkul.com/blog/lamp-installation-on-google-cloud/>
+- Securing Access
+  - Create SSH private and public keys
+  ```code
+  ssh-keygen -f <ssh file names> -t rsa -b 4096    
+  Copy the public key to the server    
+  Copy the ssh_key to subdirectory .ssh    
+  ```
+  - Add public key into SSH server
+  - <https://www.ssh.com/ssh/keygen/>
+  - <http://travistidwell.com/jsencrypt/demo/>
+  - <https://wiki.filezilla-project.org/Howto/>
+
+## Content Curation
+- MDwiki for markdown
+  - install lighttpd (or apache)
+  - <http://dynalon.github.io/mdwiki/#!index.md>
 
 ## Securing Your Server
 - One-stop Hardening - be careful though
