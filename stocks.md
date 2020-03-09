@@ -17,7 +17,7 @@ Codes            | Edited | <a href="https://www.marketinout.com/chart/renko_cha
 [0008 PCCW](https://alwinwoo.github.io/stocks/0008.html)<sup>[M85]</sup>        | 24 Feb  | 3W    | 4.57 or 4.80  | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=8) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=0008.HK)
 [0857 PetroChina](https://alwinwoo.github.io/stocks/0857.html)<sup>[M100]</sup>  | 25 Feb  | 9B    | 3.36 or 3.59  | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=857) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=0857.HK)
 **Pending** |
-[0386 Sinopec](https://alwinwoo.github.io/stocks/0386.html)<sup>[M100]</sup>      |
+[0386 Sinopec](https://alwinwoo.github.io/stocks/0386.html)<sup>[M100]</sup>      | 9 Mar |    |    | | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=386) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=0386.HK)
 [3328 BankComm](https://alwinwoo.github.io/stocks/3328.html)<sup>[M100]</sup>    |
 [1398 ICBC](https://alwinwoo.github.io/stocks/1398.html)<sup>[M100]</sup>        |
 [0371 BJ Ent Water](https://alwinwoo.github.io/stocks/0371.html)<sup>[M70]</sup>  |
