@@ -142,6 +142,16 @@ Here are some steps from the Internet that I have summarised to help you along t
   - <https://www.thomas-krenn.com/en/wiki/Setup_FTP_Server_under_Debian>
 - git
 - Remote view
+  ```code
+  sudo apt install xfce4 xfce4-goodies xorg dbus-x11 x11-xserver-utils
+  sudo apt install xrdp
+    => check with 'sudo systemctl status xrdp'
+  sudo adduser xrdp ssl-cert 
+  sudo nano /etc/xrdp/xrdp.ini
+    => add 'exec startxfce4' at end of file
+  sudo systemctl restart xrdp
+  => open port 3389 (GCloud is 'default-allow-rdp')
+  ```
   - <https://linuxize.com/post/how-to-install-xrdp-on-ubuntu-18-04/>
 - rsync to back-up your server to another remote server
   ```code
