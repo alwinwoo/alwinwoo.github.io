@@ -103,6 +103,11 @@ Here are some steps from the Internet that I have summarised to help you along t
 
 
 ## Maintaining your DIY server
+  - Add users and change passwords
+    ```code
+    useradd <name>
+    passwd <name>
+    ```
   - Add users with chroot
     ```code
     usermod -d /var/www/myApplication/ exampleuser
