@@ -58,12 +58,12 @@ Here are some steps from the Internet that I have summarised to help you along t
   - <http://travistidwell.com/jsencrypt/demo/>
   - <https://wiki.filezilla-project.org/Howto/>
 
-## Content Curation
+## 4. Content Curation
 - MDwiki for markdown
   - install lighttpd (or apache)
   - <http://dynalon.github.io/mdwiki/#!index.md>
 
-## Securing Your Server
+## 5. Securing Your Server
 - One-stop Hardening - be careful though
   - <https://github.com/pratiktri/server_init_harden>
 - Anti-Spam
@@ -101,8 +101,7 @@ Here are some steps from the Internet that I have summarised to help you along t
   ```
     - <https://www.tecmint.com/change-secure-phpmyadmin-login-url-page/>
 
-
-## Maintaining your DIY server
+## 6. Maintaining your DIY server
   - Add users and change passwords
     ```code
     adduser <name>
@@ -137,9 +136,7 @@ Here are some steps from the Internet that I have summarised to help you along t
   - Change PHP upload directory
     - edit /etc/php/7.0/apache2/php.ini
 
-
-
-# Others - Useful but may not be necessary
+# 7. Others - Useful but may not be necessary
 
 - cron
 - Email server
@@ -178,7 +175,7 @@ Here are some steps from the Internet that I have summarised to help you along t
 - teamspeak
 - VPS
 
-# Stuff I Have Trouble Getting It to Work
+# 8. Stuff I'm Trying 
 - lighttpd with markdown
   ```code
   sudo apt-get install php cgi rubygems build-essential ruby-dev libfcgi-dev
