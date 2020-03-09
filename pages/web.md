@@ -1,50 +1,46 @@
 # [Web Administration & Design](https://alwinwoo.github.io/pages/web.html)
 [home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/web.md)
 
-Like having a baby, setting up your small corner of cyberspace using your own domain name with unique email address and doing radical stuff on your own server can be a lot of fun.
+Like having a baby, setting up your small corner of cyberspace using your own domain name with a unique email address, doing radical stuff on your own server can be a lot of fun.
 
-Here are some steps that I have obtained from the Internet to help you along the way.
+Here are some steps from the Internet that I have summarised to help you along the way.
 
 # Steps
 
-## Preparations
+## 1. Preparations
 - Plan your site
   - what is your site about? what are you going to put on it?
-  - what is your budget / technical expertise?
-    - <span style="color:red">if you don't understand the article below, I suggest you proceed to DIY your own server with caution</span>  
+  - what is your budget / technical expertise? (<span style="color:red">if you don't understand the article below, I suggest you proceed with caution</span>)
     - <https://github.com/imthenachoman/How-To-Secure-A-Linux-Server>
 - Choose a domain name
   - a name that represents your site
-  - a name that is easy to remember, pronounce or spell
-  - must it end with .com or something else?
+  - a name that is easy to remember, pronounce or spell (must it end with .com or something else?)
   - a name that is available
-  - <http://data.iana.org/TLD/tlds-alpha-by-domain.txt>
+    - <http://data.iana.org/TLD/tlds-alpha-by-domain.txt>
 - Decide the type of hosting
   - what is your budget and level of technical expertise?
-    - Again, I say: <span style="color:red">if you don't understand the article below, I suggest you proceed to DIY your server with caution</span>  
-    - <https://github.com/imthenachoman/How-To-Secure-A-Linux-Server>
-  - DIY server on the cloud eg. Google Cloud, AWS
-  - DIY server in the office / at home
+    - DIY server on the cloud eg. Google Cloud, AWS
+    - DIY server in the office / at home
+      - Linux or Windows?
+      - <https://github.com/imthenachoman/How-To-Secure-A-Linux-Server>
 
-## Steps to set up your DIY server on Google Cloud
+## 2a. Steps to set up your DIY server on Google Cloud
 - Hosting on the cloud
-  - [Create a Gloud Account](https://cloud.google.com/gcp/getting-started)
+  - [Create a GCloud Account](https://cloud.google.com/gcp/getting-started)
   - [Create a GCloud instance](https://cloud.google.com/compute/docs/instances/create-start-instance)
   - [Reserve a Static IP Address](https://cloud.google.com/compute/docs/ip-addresses/reserve-static-external-ip-address)
-
-## Steps to set up your server at home or in office
+  - Set up port forwarding rules
+  
+## 2b. Steps to set up your DIY server at home or in office
 - Static or Dynamic DNS
 - buying new / using old computers / whatever is available
 - set up port forwarding rules for your router
 
-## Pointing the Domain Name to your DIY server
-- Set up DNS on [CloudFlare](https://www.cloudflare.com)
-
-## Setting up your DIY server
+## 3. Basic Setup
 - Installing your server OS 
   - Debian 9/10, Ubuntu
-- Harden Server
-  - <https://github.com/pratiktri/server_init_harden>
+- Pointing the Domain Name to your DIY server
+  - Set up DNS on [CloudFlare](https://www.cloudflare.com)
 - Securing Access
   - Create SSH private and public keys
   ```code
@@ -65,24 +61,12 @@ Here are some steps that I have obtained from the Internet to help you along the
   - <https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-debian>
   - <https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd>
   - <https://cloudkul.com/blog/lamp-installation-on-google-cloud/>
-- Install PHPmyadmin for mysql
-  ```code
-  sudo mysql -u root -p
-  create user 'username'@'localhost' identified by 'password';
-  (SUPER USER RIGHTS) grant all privileges on *.* to 'username'@'localhost' with grant option;
-  sudo /etc/init.d/apache2 restart
-  sudo /etc/init.d/mysql restart
-  sudo ln -s /usr/share/phpmyadmin /var/www/html
-  <set up the rest of the users on <url/phpMyAdmin>
-  SET PASSWORD FOR 'admin'@'localhost' = PASSWORD('newpassword'); (Change Password)
-  Phpmyadmin config files are located in /etc/apache2/conf-enabled and /etc/phpmyadmin/
-  $cfg['Servers'][$i]['controluser'] = 'pma'; 
-  $cfg['Servers'][$i]['controlpass'] = '';
 
-  sudo nano /etc/phpmyadmin/apache.conf
-  ```
-    - <https://www.tecmint.com/change-secure-phpmyadmin-login-url-page/>
-- Hardening server security for PHPmyadmin
+## Securing Your Server
+- One-stop Hardening - be careful though
+  - <https://github.com/pratiktri/server_init_harden>
+- Anti-Spam
+- .htaccess for PHPmyadmin
     ```code
     Secure phpmyadmin with .htaccess
     sudo nano /etc/apache2/conf-available/phpmyadmin.conf
@@ -99,6 +83,23 @@ Here are some steps that I have obtained from the Internet to help you along the
     sudo htpasswd /etc/phpmyadmin/.htpasswd additionaluser
     ```
    - <https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-debian-9>
+- login URL for PHPmyadmin
+  ```code
+  sudo mysql -u root -p
+  create user 'username'@'localhost' identified by 'password';
+  (SUPER USER RIGHTS) grant all privileges on *.* to 'username'@'localhost' with grant option;
+  sudo /etc/init.d/apache2 restart
+  sudo /etc/init.d/mysql restart
+  sudo ln -s /usr/share/phpmyadmin /var/www/html
+  <set up the rest of the users on <url/phpMyAdmin>
+  SET PASSWORD FOR 'admin'@'localhost' = PASSWORD('newpassword'); (Change Password)
+  Phpmyadmin config files are located in /etc/apache2/conf-enabled and /etc/phpmyadmin/
+  $cfg['Servers'][$i]['controluser'] = 'pma'; 
+  $cfg['Servers'][$i]['controlpass'] = '';
+  sudo nano /etc/phpmyadmin/apache.conf
+  ```
+    - <https://www.tecmint.com/change-secure-phpmyadmin-login-url-page/>
+
 
 ## Maintaining your DIY server
   - Add users with chroot
@@ -130,8 +131,21 @@ Here are some steps that I have obtained from the Internet to help you along the
   - Change PHP upload directory
     - edit /etc/php/7.0/apache2/php.ini
 
-## Setting up other Stuff
-- Install SSL certificate
+
+
+# Others - Useful but may not be necessary
+
+- cron
+- Email server
+- FTP server (why would you want to do this if you have SSH?)
+  - <https://www.thomas-krenn.com/en/wiki/Setup_FTP_Server_under_Debian>
+- git
+- Remote view
+- rsync to back-up your server to another remote server
+  ```code
+  rsync -avz --delete --exclude '.git' --info=progress2 -e "ssh -p <port number>" <your-domain-name>:/var/www/ /var/www
+  ```
+- SSL certificate
   ```code
   openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 3650 (self-signed)
   sudo mv cert.pem /etc/ssl/certs/
@@ -142,20 +156,11 @@ Here are some steps that I have obtained from the Internet to help you along the
   sudo /etc/init.d/apache2 restart
   ```
   - <https://www.sslshopper.com/apache-server-ssl-installation-instructions.html>
-- Set up the email server
-- Set up anti spam
-- Set up FTP server (why would you want to do this?)
-  - <https://www.thomas-krenn.com/en/wiki/Setup_FTP_Server_under_Debian>
-- rsync to back-up your server to another remote server
-  ```code
-  rsync -avz --delete --exclude '.git' --info=progress2 -e "ssh -p <port number>" <your-domain-name>:/var/www/ /var/www
-  ```
+- teamspeak
+- VPS
 
-# Others
-
-- cron
-- git
-- lighttpd with pelican markdown
+# Stuff I Have Trouble Getting It to Work
+- lighttpd with markdown
   ```code
   sudo apt-get install php cgi rubygems build-essential ruby-dev libfcgi-dev
   sudo gem update --system
@@ -174,6 +179,3 @@ Here are some steps that I have obtained from the Internet to help you along the
   sudo service lighttpd reload
   ```
   - https://github.com/theirix/fcgi-markdown/blob/master/README.md
-- remote view
-- teamspeak
-- VPS
