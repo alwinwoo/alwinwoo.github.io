@@ -26,7 +26,7 @@ What I Love             | Mission                                 | What the Wor
 [games]:      https://alwinwoo.github.io/pages/games.html         "Games"
 [GH]:         https://alwinwoo.github.io/pages/github.html        "GitHub and Markdown"
 [god]:        https://alwinwoo.github.io/pages/god.html           "God"
-[ikigai]:     pages/ikigai.md        "Ikigai"
+[ikigai]:     https://alwinwoo.github.io/pages/ikigai.html        "Ikigai"
 [innovation]: https://alwinwoo.github.io/pages/innovation.html    "Innovation"
 [learning]:   https://alwinwoo.github.io/pages/learning.html      "Learning"
 [love]:       https://alwinwoo.github.io/pages/love.html          "Love"
