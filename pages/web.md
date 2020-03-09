@@ -148,7 +148,7 @@ Here are some steps from the Internet that I have summarised to help you along t
 - git
 - Remote view
   ```code
-  sudo apt install xfce4 xfce4-goodies xorg dbus-x11 x11-xserver-utils
+  sudo apt install xfce4 xfce4-desktop xfce4-goodies xorg dbus-x11 x11-xserver-utils
   sudo apt install xrdp
     => check with 'sudo systemctl status xrdp'
   sudo adduser xrdp ssl-cert 
