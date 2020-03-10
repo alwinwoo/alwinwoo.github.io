@@ -8,7 +8,7 @@ Stocks are falling around the world with the oil prices, coronavirus outbreak st
 
 # Archived Entries (Consolidated)
 
-- [2019](https://alwinwoo.github.io/blog_2019)
-- [2018](https://alwinwoo.github.io/blog_2018)
-- [2017](https://alwinwoo.github.io/blog_2017)
-- [before 2017](https://alwinwoo.github.io/blog_legacy)
+- [2019](https://alwinwoo.github.io/blog/blog_2019)
+- [2018](https://alwinwoo.github.io/blog/blog_2018)
+- [2017](https://alwinwoo.github.io/blog/blog_2017)
+- [before 2017](https://alwinwoo.github.io/blog/blog_legacy)
