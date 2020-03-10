@@ -1,5 +1,5 @@
 # [Hello World](https://alwinwoo.github.io/)
-[Blog](blog.md) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/index.md)
+[Blog](https://alwinwoo.github.io/blog) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/index.md)
 
 Welcome adventurer to my little corner of cyberspace.
 
