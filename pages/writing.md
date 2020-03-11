@@ -5,7 +5,7 @@
 
 # Wizard of Leyond 
 
-I started a website [Wizard.SG](www.wizard.sg) with the intention to build up my writing skills. 
+I started a website [Wizard.SG](https://www.wizard.sg) with the intention to build up my writing skills. 
 
 # References
 
