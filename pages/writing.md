@@ -3,7 +3,13 @@
 
 > “I write because I don’t know what I think until I read what I say.”<br>- Flannery O’Connor
 
-Joseph Campbell - Hero with a Thousand Faces
+# Wizard of Leyond 
+
+I started a website [Wizard.SG](www.wizard.sg) with the intention to build up my writing skills. 
+
+# References
+
+* Joseph Campbell - Hero with a Thousand Faces
 
 # Links to Digest
 
