@@ -3,9 +3,11 @@
 
 > “I write because I don’t know what I think until I read what I say.”<br>- Flannery O’Connor
 
-# Wizard of Leyond 
+# World of Leyond 
 
-I started a website [Wizard.SG](https://www.wizard.sg) with the intention to build up my writing skills. 
+I created a website [Wizard.SG](https://www.wizard.sg) with the intention to build up my writing skills. 
+
+[Latest Chapter](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/leyond.md)
 
 # References
 
