@@ -5,9 +5,11 @@
 
 # World of Leyond 
 
-I created a website [Wizard.SG](https://www.wizard.sg) with the intention to build up my writing skills. 
+I created a website [Wizard.SG](https://www.wizard.sg) with the aim of developing my writing skills. 
 
-[Latest Chapter](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/leyond.md)
+If you were lucky enough to reach this page, you can see the latest chapter / story that I'm working on in its gestation stage.
+
+[Latest Writeup](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/leyond.md)
 
 # References
 
