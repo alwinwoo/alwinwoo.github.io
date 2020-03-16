@@ -10,7 +10,6 @@ Codes            | Edited | <a href="https://www.marketinout.com/chart/renko_cha
 **Active**       | 
 [1288 ABC](https://alwinwoo.github.io/stocks/1288.html)                         | 24 Feb  | 3W    | 3.08 ~ 3.41   | [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=T82U.SI)
 [T82U Suntec](https://alwinwoo.github.io/stocks/t82u.html)<sup>[M85]</sup>      | 16 Mar  | xx    | 1.50 ~ ?   | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=1288) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=1288.HK)
-
 **Watching**      |
 [3988 BOC](https://alwinwoo.github.io/stocks/3988.html)<sup>[M100]</sup>         | 24 Feb  | 2W    | 3.10 or 3.30  | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=3988) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=3988.HK)
 [0257 China EB](https://alwinwoo.github.io/stocks/0257.html)<sup>[M85]</sup>    | 25 Feb  | 4B    | 5.45 or 5.90  | [AA](http://www.aastocks.com/en/stocks/quote/detailchart.aspx?symbol=257) - [MK](https://www.marketinout.com/chart/stock_chart.php?symbol=0257.HK)
