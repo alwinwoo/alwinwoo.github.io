@@ -11,6 +11,30 @@
 * Eat that Frog (do the biggest task first)
 * Know when to ask for help
 
-## Articles to Digest
+Value = perceived benefits - perceived costs / Pain vs Pleasure
 
-https://fs.blog/2019/05/bezos-business-success/
+* Time
+* Effort
+* Status
+* Money
+* Service (compulsory?)
+
+* Functional
+* Social
+* Emotional
+* Novelty
+* Contextual
+
+Successful Companies      | Value
+:---                      | :---
+Amazon / Alibaba / Taobao | Time + Effort + Money (Service?)
+Apple                     | Status + Service / Emotional
+AirBNB / Google / Grab    | Time + Effort / Functional + Contextual
+Facebook / Instagram      | Time + Effort / Social + Emotional
+
+## References
+
+* https://fs.blog/2019/05/bezos-business-success/
+* http://douglasvigliotti.com/blog/heres-what-people-really-want
+* https://courses.lumenlearning.com/cerritos-smallbusmgmt-1/chapter/2-1-defining-the-customers-concept-of-value-2/
+
