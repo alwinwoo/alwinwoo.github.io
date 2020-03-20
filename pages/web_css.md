@@ -46,7 +46,7 @@ To enable w3-CSS, need to add in the following into your HTML or php file in the
 # W3.CSS Responsive Layout
 * w3-row or w3-row-padding (8px LR padding)
   * w3-half, third, twothird, quarter, threequarter
-  * w3-rest (used best with fixed px in same w3-row -> it will occupy the rest)
+  * w3-rest (used best with fixed px in same w3-row -> it will occupy the rest - must be the last element)
   * w3-col (add -s, m or l for different screen sizes, 1 to 12 max per w3-row eg. w3-col1)
 
 ```css
