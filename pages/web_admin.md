@@ -1,5 +1,5 @@
-# [Web Administration & Design](https://alwinwoo.github.io/pages/web.html)
-[home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/web.md)
+# [Web Administration & Design](https://alwinwoo.github.io/pages/web_admin.html)
+[home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/web_admin.md)
 
 Like having a baby, setting up your small corner of cyberspace using your own domain name with a unique email address, doing radical stuff on your own server can be a lot of fun.
 
