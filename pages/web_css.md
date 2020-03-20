@@ -7,11 +7,9 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3/css/4/w3.css">
 ```
 
-# W3.CSS Basics
+# W3.CSS Colors
 
-* w3-container for div, header, footer, article, section, blockquote, form etc.
-![](https://bitsofco.de/img/blog/divsectionarticle.jpg)
-* w3-<color> for bakground
+* w3-<color> for background
 * w3-text-<color> for text
 * w3-hover-<color> for color change
 * w3-hover-text-<color> for hover change
@@ -28,21 +26,49 @@
 </div>
 ```
 
-* w3-card for nice cards
+# W3.CSS Sectioning
+
+* w3-container for div, header, footer, article, section, blockquote, form etc.
+
+* w3-panel for notes, quotes, alerts (16px top-bottom margin, 16px left-right padding)
+```css
+<div class="w3-panel w3-red w3-text-white">
+  <h3>Warning</h3>
+</div>
+
+- w3-border / add (-left, right, top, bottom or 0)
+- w3-border-<color>
+- w3-hover-border-<color>
+- w3-leftbar / rightbar / topbar / bottombar (no spacing)
+- w3-xxlarge (?)
+- w3-serif   (serif font)
+
+<div class="w3-panel w3-blue w3-card-4 w3-round-xlarge">
+  <p>text</p>
+</div>
+
+- w3-round (add -small, large, xlarge, xxlarge to change size)
+```
+
+* w3-card for nice cards (add -2 or 4 for 2/4 bordered shadow)
+
+* w3-hover-shadow
+
 ```css
 <div class="w3-card-4">
-  <img src="blah blah">
+  <header class="w3-container w3-blue">
+    My name
+  </header>
+    <img src="blah blah">
   <div class="w3-container w3-center">
     <p>text</p>
   </div>
+  <footer class="w3-container w3-gray">
+    Contact Me
+  </footer>
 </div>
 ```
-* w3-panel for notes, quotes, alerts
-```css
-<div class="w3-panel w3-yellow">
-  <h3>Warning</h3>
-</div>
-```
+
 * w3-table for tables
 ```css
 <table class="w3-table w3-striped w3-border">
@@ -68,6 +94,14 @@
 * w3-input for forms
 
 * css filters to search within a list, table, dropdown
+
+* to close a panel
+```css
+<div class="w3-panel w3-display-container">
+  <span onclick="this.parentElement.style.display='none'" class="w3-button w3-display-topright">X</span>
+  <p>Click on the X to close the panel</p>
+</div>
+```
 
 # For Pictures
 
@@ -100,3 +134,4 @@
 # References
 
 * https://www.w3schools.com/w3css/default.asp
+* https://bitsofco.de/sectioning-content-in-html5/
