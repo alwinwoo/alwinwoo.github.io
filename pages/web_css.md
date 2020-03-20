@@ -46,8 +46,11 @@ To enable w3-CSS, need to add in the following into your HTML or php file in the
 # W3.CSS Responsive Layout
 * w3-row or w3-row-padding (8px LR padding)
   * w3-half, third, twothird, quarter, threequarter
+  * use style="width:xx%" possible as well
   * w3-rest (used best with fixed px in same w3-row -> it will occupy the rest - must be the last element)
-  * w3-col (add -s, m or l for different screen sizes, 1 to 12 max per w3-row eg. w3-col1)
+    * use w3-left, right, center (to align within the container)
+    * otherwise can use nested divs
+  * w3-col (add -s, m or l for different screen sizes, 1 to 12 max per w3-row eg. w3-col1 or w3-col s4 m6)
 
 ```css
 <div class="w3-row">
@@ -117,6 +120,42 @@ To enable w3-CSS, need to add in the following into your HTML or php file in the
 * w3-tooltip
 
 * css filters to search within a list, table, dropdown
+
+```javascript
+<div class="w3-container">
+  <h2>Filter List</h2>
+  <p>Search for a name in the input field.</p>
+
+  <input class="w3-input w3-border w3-padding" type="text" placeholder="Search for names.." id="myInput" onkeyup="myFunction()">
+  <ul class="w3-ul w3-margin-top" id="myUL">
+    <li>Adele</li>
+    <li>Agnes</li>
+    <li>Billy</li>
+    <li>Bob</li>
+    <li>Calvin</li>
+    <li>Christina</li>
+    <li>Cindy</li>
+  </ul>
+</div>
+
+<script>
+function myFunction() {
+  var input, filter, ul, li, a, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("myUL");
+  li = ul.getElementsByTagName("li");
+  for (i = 0; i < li.length; i++) {
+    txtValue = li[i].textContent || li[i].innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
+</script>
+```
 
 * w3-modal for pop-up dialog in HTML
 * to close a panel
