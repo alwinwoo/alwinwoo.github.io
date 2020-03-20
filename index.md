@@ -9,7 +9,7 @@ What I Love             | Mission                                 | What the Wor
 :---                    | :---                                    | :---
 [Reading][]<br>[Learning][]<br>- [Forex][]<br>- [Games][]<br>- [Stocks][]<br>[Food][]<br> | [God][]<br>- [Church][]<br>- [Family][]<br> | [Love][]<br>
 **Passion** | **[Ikigai][]** [<sup>(?)</sup>][ikigai] | **[Vocation][linked]**
-[Futuring]<br>[Technology]<br>[Programming]<br>[Data Visualisation]<br>[Web Admin & Design][web] | [Public Service]<br>[Innovation][] | [Grounded Policies]<br>[Clear Communications][comms]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
+[Futuring]<br>[Technology]<br>[Programming]<br>[Data Visualisation]<br>[Web Admin][web_admin]<br>[Website Design][web_css] | [Public Service]<br>[Innovation][] | [Grounded Policies]<br>[Clear Communications][comms]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
 **What I'm Good At** | **[Profession][linked]** | **[What I'm Paid For][linked]**
 [Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing][]<br>[Multi-Sectoral Experience]<br> | Organisation Devt<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
 
@@ -32,7 +32,8 @@ What I Love             | Mission                                 | What the Wor
 [love]:       https://alwinwoo.github.io/pages/love.html          "Love"
 [reading]:    https://alwinwoo.github.io/pages/reading.html       "Reading"
 [stocks]:     https://alwinwoo.github.io/stocks.html              "Stocks"
-[web]:        https://alwinwoo.github.io/pages/web.html           "Web Administration and Design"
+[web_admin]:  https://alwinwoo.github.io/pages/web_admin.html     "Web Administration / Server"
+[web_css]:    https://alwinwoo.github.io/pages/web_css.html       "Web Design ie. CSS"
 [writing]:    https://alwinwoo.github.io/pages/writing.html       "Writing"
 
 [linked]:   https://sg.linkedin.com/in/alwinwoo                     "My LinkedIn Account"
