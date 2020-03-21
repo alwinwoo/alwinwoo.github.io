@@ -186,7 +186,7 @@ function myFunction() {
 * Open Graph - https://ogp.me/
 * Laravel - https://hackernoon.com/how-to-fetch-open-graph-metadata-in-laravel-2d5d674904d7
 * PHP OG extractor (old) - https://github.com/scottmac/opengraph
-
+* Automating OG with PHP - https://computermentor.net/makingawebsite/tutorials-php/automating-open-graph.php
 
 # References
 
