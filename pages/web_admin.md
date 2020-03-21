@@ -138,6 +138,15 @@ Here are some steps from the Internet that I have summarised to help you along t
 
 # 7. Others - Useful but may not be necessary
 
+- curl (for downloading of external urls)
+  ```code
+  Locate your PHP.ini file
+  Open the PHP.ini in notepad.
+  Search or find the following : ';extension=php_curl.dll'
+  Uncomment this by removing the semi-colon ';' before it.
+  Save and Close PHP.ini.
+  Restart Apache.
+  ```
 - cron
 - Email server
 - FTP server (why would you want to do this if you have SSH?)
