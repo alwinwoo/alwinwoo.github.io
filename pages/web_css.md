@@ -181,6 +181,13 @@ function myFunction() {
 * w3-sidebar
 * w3 page pagination
 
+# For Social
+
+* Open Graph - https://ogp.me/
+* Laravel - https://hackernoon.com/how-to-fetch-open-graph-metadata-in-laravel-2d5d674904d7
+* PHP OG extractor (old) - https://github.com/scottmac/opengraph
+
+
 # References
 
 * https://www.w3schools.com/w3css/default.asp
