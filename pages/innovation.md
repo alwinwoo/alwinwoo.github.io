@@ -25,6 +25,19 @@ Value = perceived benefits - perceived costs / Pain vs Pleasure
 * Novelty
 * Contextual
 
+# customer needs
+
+* people living longer
+* declining birth rates
+* local vs regional vs global needs
+* online entertainment
+* micro transactions
+
+* helping businesses identify potential clients
+
+
+# copying from the "best"
+
 Successful Companies      | Value
 :---                      | :---
 Amazon / Alibaba / Taobao | Time + Effort + Money (Service?)
