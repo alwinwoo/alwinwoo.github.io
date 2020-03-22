@@ -188,6 +188,8 @@ function myFunction() {
 * PHP OG extractor (old) - https://github.com/scottmac/opengraph
 * Automating OG with PHP - https://computermentor.net/makingawebsite/tutorials-php/automating-open-graph.php
 
+* extract metadata (working) - https://github.com/baj84/MetaData/blob/master/metadata.class.php
+
 # References
 
 * https://www.w3schools.com/w3css/default.asp
