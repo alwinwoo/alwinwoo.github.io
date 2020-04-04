@@ -81,7 +81,17 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   wget -qO- https://ubuntu.bigbluebutton.org/bbb-install.sh | bash -s -- -v xenial-220 -s <your-domain-name> -e <your-email-address> -a -g
   wait for 10-15 minutes
   ```
-  - <https://github.com/bigbluebutton/bbb-install>
+- Install Greenlight Accounts
+  ```code
+  cd greenlight/
+  Default Admin: docker exec greenlight-v2 bundle exec rake admin:create
+  Admin: docker exec greenlight-v2 bundle exec rake user:create["name","email","password","admin"]
+  User: docker exec greenlight-v2 bundle exec rake user:create["name","email","password","user"]
+  ```
+- Setup BBB
+  - go to organiszation settings with admin account and change Site Settings as desired
+    - Branding image, Registration Method, Authentication, Number of Rooms
+- <https://github.com/bigbluebutton/bbb-install>
 
 ## 4. Content Curation
 - MDwiki for markdown
