@@ -41,12 +41,12 @@ Here are some steps from the Internet that I have summarised to help you along t
   - Debian 9/10, Ubuntu
 - Pointing the Domain Name to your DIY server
   - Set up DNS on [CloudFlare](https://www.cloudflare.com)
-  ```code
-  NS - ara.ns.cloudflare.com
-  NS - pablo.ns.cloudflare.com
-  A - domain name - ip address - Auto - Proxied (or DNS only)
-  A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
-  ```
+    ```code
+    NS - ara.ns.cloudflare.com
+    NS - pablo.ns.cloudflare.com
+    A - domain name - ip address - Auto - Proxied (or DNS only)
+    A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
+    ```
 - Install commonly-used modules (Apache / PHP / mysql / openSSH / sshfs)
   ```code
   sudo apt-get update
@@ -66,12 +66,20 @@ Here are some steps from the Internet that I have summarised to help you along t
 
 ## 3b. Setup as bigbluebutton server
 - Create instance server (Ubuntu 16.04 LTS) 4 core 8GB memory w 100GB storage
+  - assign static address
+  - add firewall rules (I use bigblue) 
+    - TCP/IP port 22 (for SSH)
+    - TCP/IP ports 80/443 (for HTTP/HTTPS)
+    - UDP ports in the range 16384 - 32768 (for FreeSWITCH/HTML5 client RTP streams)
 - create domain name that you want to use the server in cloudflare (requires SSL for mic and video)
+```code
+A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
+```
 - Install bigbluebutton
- ```code
- sudo -s
- wget -qO- https://ubuntu.bigbluebutton.org/bbb-install.sh | bash -s -- -v xenial-220 -s <your-domain-name> -e <your-email-address> -a -g
- wait for 10-15 minutes
+  ```code
+  sudo -s
+  wget -qO- https://ubuntu.bigbluebutton.org/bbb-install.sh | bash -s -- -v xenial-220 -s <your-domain-name> -e <your-email-address> -a -g
+  wait for 10-15 minutes
   ```
   - <https://github.com/bigbluebutton/bbb-install>
 
