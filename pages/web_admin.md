@@ -41,6 +41,12 @@ Here are some steps from the Internet that I have summarised to help you along t
   - Debian 9/10, Ubuntu
 - Pointing the Domain Name to your DIY server
   - Set up DNS on [CloudFlare](https://www.cloudflare.com)
+  ```code
+  NS - ara.ns.cloudflare.com
+  NS - pablo.ns.cloudflare.com
+  A - domain name - ip address - Auto - Proxied (or DNS only)
+  A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
+  ```
 - Install commonly-used modules (Apache / PHP / mysql / openSSH / sshfs)
   ```code
   sudo apt-get update
