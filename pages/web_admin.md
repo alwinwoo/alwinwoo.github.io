@@ -36,7 +36,7 @@ Here are some steps from the Internet that I have summarised to help you along t
 - buying new / using old computers / whatever is available
 - set up port forwarding rules for your router
 
-## 3. Basic Setup
+## 3a. Basic Setup
 - Installing your server OS 
   - Debian 9/10, Ubuntu
 - Pointing the Domain Name to your DIY server
@@ -57,6 +57,17 @@ Here are some steps from the Internet that I have summarised to help you along t
   - <https://www.ssh.com/ssh/keygen/>
   - <http://travistidwell.com/jsencrypt/demo/>
   - <https://wiki.filezilla-project.org/Howto/>
+
+## 3b. Setup as bigbluebutton server
+- Create instance server (Ubuntu 16.04 LTS) 4 core 8GB memory w 100GB storage
+- create domain name that you want to use the server in cloudflare (requires SSL for mic and video)
+- Install bigbluebutton
+ ```code
+ sudo -s
+ wget -qO- https://ubuntu.bigbluebutton.org/bbb-install.sh | bash -s -- -v xenial-220 -s <your-domain-name> -e <your-email-address> -a -g
+ wait for 10-15 minutes
+  ```
+  - <https://github.com/bigbluebutton/bbb-install>
 
 ## 4. Content Curation
 - MDwiki for markdown
