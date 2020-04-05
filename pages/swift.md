@@ -24,6 +24,21 @@ print(7 / 4) not the same as print (7.0 / 4.0), the first will show whole number
 when multiplying, variables must be same type ie. int, float or double
 ```
 
+* Arrays
+
+```code
+var movies = ["Move 1","DC"]
+var movie : [Any] = [.... ] (accepts anything, if declare String)
+
+movie[0] shows first "Move 1", same as PHP
+
+movie.append("Batman")        // adds to the end of the array
+movie.insert("Batman", at: 0) // inserts into the start of the array
+movie.remove(at: 0)           // removes from the start of the array
+
+movie.count                   // count number of items in array
+```
+
 * If.. else... or statements
 
 ```code
@@ -44,16 +59,30 @@ if loseweight {
 }
 ```
 
-* Arrays
+* For Loop
 
 ```code
-var movies = ["Move 1","DC"]
-var movie : [Any] = [.... ] (accepts anything, if declare String)
 
-movie[0] shows first "Move 1", same as PHP
+for _ in 1...10 {
+  print("Hello")
+}
 
-movie.append("Batman")        // adds to the end of the array
-movie.insert("Batman", at: 0) // inserts into the start of the array
-movie.remove(at: 0)           // removes from the start of the array
+for number in 1...10 {
+  print(number)
+}
 
-movie.count                   // count number of items in array
+for movie in movies {
+  print(movie)        // print in the array
+}
+
+var rank = 1
+luckynumbers = [5,12,134,134134,135135,31513134]
+
+for number in luckynumbers {
+  print("\(rank). \(number)")
+  rank += 1
+}
+
+for x in 0..luckynumbers.count {
+  print("\(x+1). \(luckynumbers[x]")
+}
