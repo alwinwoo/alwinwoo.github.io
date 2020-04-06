@@ -95,7 +95,7 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 
 ## 4. Content Curation
 - client-side MD markdown
-- <http://strapdownjs.com/>
+  - <http://strapdownjs.com/>
 
 - MDwiki for markdown
   - install lighttpd (or apache)
