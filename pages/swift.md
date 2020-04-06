@@ -133,11 +133,13 @@ var luckynumbers : Set = [134,345,1315,13,135,13,513,5135]
 
 // dictionaries have keys and values, case sensitive
 
+```code
 var words = ["bang":"boys are not good"]      // like php keys
 print(words["bang"])                          // will show the value
 
 words["knock"] = "hit on the head"            // will add a new entry into words
 words.removeValue(forKey:"bang")              // will remove "bang" key and value
+```
 
 # Functions
 
