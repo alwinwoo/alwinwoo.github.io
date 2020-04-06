@@ -98,6 +98,17 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   - install lighttpd (or apache)
   - <http://dynalon.github.io/mdwiki/#!index.md>
 
+- PHP for Nginx
+  ```code
+  sudo apt-get install php-fpm
+  // confirm fpm is loaded 
+  sudo systemctl status php7.0-fpm.service
+  find / \( -iname "php.ini" -o -name "www.conf" \)
+  
+  ** incomplete **
+  ```
+  - <https://www.linode.com/docs/web-servers/nginx/serve-php-php-fpm-and-nginx/>
+
 ## 5. Securing Your Server
 - One-stop Hardening - be careful though
   - <https://github.com/pratiktri/server_init_harden>
