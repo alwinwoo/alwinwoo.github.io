@@ -93,6 +93,10 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
     - Branding image, Registration Method, Authentication, Number of Rooms
 - <https://github.com/bigbluebutton/bbb-install>
 
+## 3c. Node.JS and Socket.IO (Websockets)
+- <https://tecadmin.net/install-latest-nodejs-npm-on-debian/>
+- <https://socket.io/get-started/chat>
+
 ## 4. Content Curation
 - client-side MD markdown
   - <http://strapdownjs.com/>
