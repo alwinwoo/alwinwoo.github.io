@@ -63,18 +63,24 @@ if loseweight {
 
 ```code
 
+// print 10 Hellos
 for _ in 1...10 {
   print("Hello")
 }
 
+// print 1 to 10
 for number in 1...10 {
   print(number)
 }
 
+// print name of movies
+var movies = ["Batman", "Spiderman","Ali-baba"]
+
 for movie in movies {
-  print(movie)        // print in the array
+  print(movie)
 }
 
+// print array of lucky numbers
 var rank = 1
 luckynumbers = [5,12,134,134134,135135,31513134]
 
@@ -86,3 +92,15 @@ for number in luckynumbers {
 for x in 0..luckynumbers.count {
   print("\(x+1). \(luckynumbers[x]")
 }
+
+// create array of random numbers
+var str ="["
+
+for _ in 1.. 100 {
+  str += "\(Int.random(in: 0...10_000)),"
+}
+
+str += "]"
+
+print(str)
+```
