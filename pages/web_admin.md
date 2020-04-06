@@ -105,9 +105,25 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   sudo systemctl status php7.0-fpm.service
   find / \( -iname "php.ini" -o -name "www.conf" \)
   
-  ** incomplete **
+  // with file paths, edit webserver details in /etc/nginx/sites-available
+  
+  location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+  }
+
+  location ~ \.php$ {
+        incude snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/run/php/php7.1-fpm.sock;
+  }
+  
+  sudo nginx -t
+  sudo service nginx reload
+
+  check with phpinfo()
+  
   ```
   - <https://www.linode.com/docs/web-servers/nginx/serve-php-php-fpm-and-nginx/>
+  - <https://serversforhackers.com/c/php-fpm-and-nginx>
 
 ## 5. Securing Your Server
 - One-stop Hardening - be careful though
