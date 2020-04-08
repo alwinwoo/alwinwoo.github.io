@@ -228,6 +228,22 @@ func getDirections(whichWay : Compass) {
 getDirections(whichWay : .East)
 ```
 
+# Switch
+
+```code
+
+switch age {
+  age 0..10:
+    print("something")
+  age 11..20:
+    print("something")
+  age 21..30:
+    print("something")
+  default:
+    print("something else")
+}
+```
+
 # Developing for Apple Apps
 
 ```code
