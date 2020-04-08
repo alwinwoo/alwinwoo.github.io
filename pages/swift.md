@@ -181,6 +181,28 @@ if let age = Int(age) { // age returns nil if creating the constant fails
 
 # Classes
 
+```code
+class Dog {
+  var name  = ""
+  var color = ""
+  var age   = 0
+
+  func bark() {
+    print ("Woof! My name is \(name) and I am \(age) years old")
+  }
+
+}
+
+var myDog = Dog()
+
+myDog.name = "Fido"
+
+print(myDog.name)
+myDog.bark()
+
+```
+
+
 # Developing for Apple Apps
 
 ```code
