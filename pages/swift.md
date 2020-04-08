@@ -179,7 +179,7 @@ if let age = Int(age) { // age returns nil if creating the constant fails
   print("Invalid age")
 }
 
-# Classes
+# Classes and Structs
 
 ```code
 class Dog {
@@ -200,8 +200,33 @@ myDog.name = "Fido"
 print(myDog.name)
 myDog.bark()
 
+Structs are similar to classes, but you don't need to put in the initial values first
+But when you create one you will need to declare the values.
+If Dog() is a struct and set as a constant, you will not be able to change the values, but if Dog() is a var, you can still change the values
 ```
+# Enums
 
+Limits the selection to whatever is declared in the cases:
+
+```code
+Enum Compass {
+  case North
+  case South
+  case East
+  case West
+}
+
+var direction = Compass.North
+var direction : Compass = .North
+
+func getDirections(whichWay : Compass) {
+  if whichWay == .East {
+    print("Turn right")
+  }
+}
+
+getDirections(whichWay : .East)
+```
 
 # Developing for Apple Apps
 
