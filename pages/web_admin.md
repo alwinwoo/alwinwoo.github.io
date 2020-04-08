@@ -188,11 +188,11 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
     ```
     - <https://linuxize.com/post/how-to-create-a-sudo-user-on-debian/>
 
-    - File Permissions on Linux
-      - for files served on the web, it is best for your user account to be part of the www-data (if apache or nginx is running with that account) so that you can use 775 instead of 666 or 777.
-      - depending on what you need, not only do you need to set permissions for the files themselves, you need to set permissions for the DIRECTORY that the files are in as well, otherwise you will not be able to write or delete files
+  - File Permissions on Linux
+    - for files served on the web, it is best for your user account to be part of the www-data (if apache or nginx is running with that account) so that you can use 775 instead of 666 or 777.
+    - depending on what you need, not only do you need to set permissions for the files themselves, you need to set permissions for the DIRECTORY that the files are in as well, otherwise you will not be able to write or delete files
 
-    - Reset mysql root password
+  - Reset mysql root password
     ```code
     sudo /etc/init.d/mysql stop
     sudo mysqld_safe --skip-grant-tables &
