@@ -38,7 +38,10 @@ Here are some steps from the Internet that I have summarised to help you along t
 
 ## 3a. Basic Setup
 - Installing your server OS 
-  - Debian 9/10, Ubuntu
+  - Debian 9 Stretch
+  - Debian 10 Buster
+  - Ubuntu Server 18.04.4 LTS
+  - Ubuntu Server 19.10
 - Pointing the Domain Name to your DIY server
   - Set up DNS on [CloudFlare](https://www.cloudflare.com)
     ```code
