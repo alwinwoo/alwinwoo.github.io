@@ -1,6 +1,9 @@
 # [Swift Programming](https://alwinwoo.github.io/pages/swift.html)
 [home](https://alwinwoo.github.io/) | [Project](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/swift_project.md) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/swift.md)
 
+#Links
+- <https://www.programiz.com/swift-programming/basic-input-output>
+
 # Basics
 
 ```swift
