@@ -249,3 +249,27 @@ switch age {
 ```code
 import UIKit
 ```
+
+
+# My Project
+
+```swift
+import Foundation
+
+enum character_class {
+    case fighter
+    case cleric
+    case thief
+    case mage
+}
+
+struct character {
+    var name      : String
+    var charclass : character_class 
+    var hp        : Int
+    var max_hp    : Int
+    var XP        : Int
+}
+
+var my_character = character(name:"Nozomi",charclass:.fighter,hp:10,max_hp:10,XP:0)
+```
