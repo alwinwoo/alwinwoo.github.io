@@ -1,15 +1,38 @@
 # [Swift Programming](https://alwinwoo.github.io/pages/swift.html)
 [home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/swift.md)
 
+# My Project
+
+```swift
+import Foundation
+
+enum character_class {
+    case fighter
+    case cleric
+    case thief
+    case mage
+}
+
+struct character {
+    var name      : String
+    var charclass : character_class 
+    var hp        : Int
+    var max_hp    : Int
+    var XP        : Int
+}
+
+var my_character = character(name:"Nozomi",charclass:.fighter,hp:10,max_hp:10,XP:0)
+```
+
 # Basics
 
-```code
+```swift
 import Foundation
 ```
 
 * Variables, Constants, Boolean, Comments, Print
 
-```code
+```swift
 // similar to PHP, C etc. just no semi-colon at the end
 
 var age = 30 (int variable)
@@ -32,7 +55,7 @@ when multiplying, variables must be same type ie. int, float or double
 
 * Arrays
 
-```code
+```swift
 var movies = ["Move 1","DC"]
 var movie : [Any] = [.... ] (accepts anything, if declare String)
 
@@ -47,7 +70,7 @@ movie.count                   // count number of items in array
 
 * If.. else... or statements
 
-```code
+```swift
 if fat == true {
   print("you need to lose weight")
 } else {
@@ -67,7 +90,7 @@ if loseweight {
 
 * For Loop
 
-```code
+```swift
 
 // print 10 Hellos
 for _ in 1...10 {
@@ -113,7 +136,7 @@ print(str)
 
 * Tuples and Sets
 
-```code
+```swift
 var dog = ("Fido",8)                  // Tuple
 var dog = (String,Int) = ("Fido",8)   // fixes type
 print(dog.0)                          // displays Fido
@@ -133,7 +156,7 @@ var luckynumbers : Set = [134,345,1315,13,135,13,513,5135]
 
 // dictionaries have keys and values, case sensitive
 
-```code
+```swift
 var words = ["bang":"boys are not good"]      // like php keys
 print(words["bang"])                          // will show the value
 
@@ -143,7 +166,7 @@ words.removeValue(forKey:"bang")              // will remove "bang" key and valu
 
 # Functions
 
-```code
+```swift
 func hello(person : String) {
   print("Hello \(person)!")
 }
@@ -157,10 +180,11 @@ func addTwoNumbers(num1 : Int, num2 : Int) -> Int {
 
 var num3 = addTwoNumbers(num1 : 1, num2 : 8)
 var num4 = addTwoNumbers(num1 : num3, num2 : addTwoNumbers(num1 : 1, num2 : 8))
-
 ```
 
 # Optionals
+
+```swift
 
 // either have a value or nil
 
@@ -181,7 +205,7 @@ if let age = Int(age) { // age returns nil if creating the constant fails
 
 # Classes and Structs
 
-```code
+```swift
 class Dog {
   var name  = ""
   var color = ""
@@ -204,11 +228,12 @@ Structs are similar to classes, but you don't need to put in the initial values 
 But when you create one you will need to declare the values.
 If Dog() is a struct and set as a constant, you will not be able to change the values, but if Dog() is a var, you can still change the values
 ```
+
 # Enums
 
 Limits the selection to whatever is declared in the cases:
 
-```code
+```swift
 Enum Compass {
   case North
   case South
@@ -226,11 +251,12 @@ func getDirections(whichWay : Compass) {
 }
 
 getDirections(whichWay : .East)
+
 ```
 
 # Switch
 
-```code
+```swift
 
 switch age {
   age 0..10:
@@ -246,30 +272,6 @@ switch age {
 
 # Developing for Apple Apps
 
-```code
-import UIKit
-```
-
-
-# My Project
-
 ```swift
-import Foundation
-
-enum character_class {
-    case fighter
-    case cleric
-    case thief
-    case mage
-}
-
-struct character {
-    var name      : String
-    var charclass : character_class 
-    var hp        : Int
-    var max_hp    : Int
-    var XP        : Int
-}
-
-var my_character = character(name:"Nozomi",charclass:.fighter,hp:10,max_hp:10,XP:0)
+import UIKit
 ```
