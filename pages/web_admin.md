@@ -136,6 +136,9 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 - One-stop Hardening - be careful though
   - <https://github.com/pratiktri/server_init_harden>
 - Anti-Spam
+- Secure fail2ban and Cloudflare
+  - <https://guides.wp-bullet.com/integrate-fail2ban-Cloudflare-api-v4-guide/>
+  - <https://serverfault.com/questions/285256/how-to-unban-an-ip-properly-with-fail2ban>
 - .htaccess for PHPmyadmin
     ```code
     Secure phpmyadmin with .htaccess
