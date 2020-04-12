@@ -246,12 +246,12 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 
 - curl (for downloading of external urls)
   ```code
-  Locate your PHP.ini file
+  Locate your PHP.ini file (php -i | grep 'php.ini')
   Open the PHP.ini in notepad.
   Search or find the following : ';extension=php_curl.dll'
   Uncomment this by removing the semi-colon ';' before it.
   Save and Close PHP.ini.
-  Restart Apache.
+  Restart Apache (sudo systemctl restart apache)
   ```
 - cron
 - Email server
