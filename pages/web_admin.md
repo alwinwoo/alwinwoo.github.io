@@ -36,6 +36,23 @@ Here are some steps from the Internet that I have summarised to help you along t
 - buying new / using old computers / whatever is available
 - set up port forwarding rules for your router
 
+- Install share folders on VBox
+  ```code
+  1. Start up server
+  2. Check kernel VERSION with 'uname -a'
+  3. Install dependencies with 'sudo apt-get -y install dkms build-essential linux-headers-VERSION'
+  4. Reboot server
+  5. "Devices -> Insert Guest Additions CD image"
+  6. If there is an error, copy the VBoxLinuxAdditions.run file onto the server
+  7. Make it executable (chmod -x) and run it with root privileges (sudo sh ./VBoxLinuxAdditions.run -nox11)
+  8. Create mount location eg. /home/drive
+  9. Mount drive with 'sudo mount -t vboxsf <shared name> /home/drive"
+  ```
+
+  - https://serverfault.com/questions/674974/how-to-mount-a-virtualbox-shared-folder
+  - https://docs.bitnami.com/virtual-machine/faq/configuration/install-virtualbox-guest-additions/
+  
+
 ## 3a. Basic Setup
 - Installing your server OS 
   - Debian 9 Stretch
