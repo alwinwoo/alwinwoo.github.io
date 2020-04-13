@@ -11,10 +11,12 @@
   - Sprint Backlog  (breakdown of release backlog into short sprints)
     - to have features for testing
   - Burndown Charts (monitor amount of work left in the sprint backlog)
+    - burndown velocity = avg rate of productivity per day
+    - est completion date
+    - project rate of productivity from required completion date
   - Scrum meetings  (ensuring everything is on track)
   - retrospective meeting (fine-tune)
-
-- <https://www.youtube.com/watch?v=XU0llRltyFM>
+  - <https://www.youtube.com/watch?v=XU0llRltyFM>
 
 ## Scrum Tips
 1. Be Clear on Desired Outcomes
