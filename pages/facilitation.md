@@ -1,6 +1,11 @@
 # [Facilitation Techniques](https://alwinwoo.github.io/pages/facilitation.html)
 [home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/facilitation.md)
 
+# Common Questions
+  -	What are some ways to facilitate effectively on virtual platforms? 
+  - What are some key things you should look out for? 
+  -	How do you keep participants engaged online? 
+
 # Facilitation in a Virtual Environment
 
 IAF Virtual Facilitation Techniques - 02/04/20
