@@ -52,6 +52,10 @@ The Facilitation Agenda Flow:
   7.  “ROTI” (Return on Time Invested) was used to express if the team thought the1.5 hours spent in the program level retrospective was worth it. The scale was 0 (No value) to 4 (high value). The majority of the feedback was in 3 or 4, and all of the sticky notes in the 2 category were because they wanted MORE time!  
   - <https://www.agilealliance.org/resources/experience-reports/facilitation-ftw-a-surprising-tool-in-an-agile-transformation/>
   
+ # Agile Retrospective - Sailboat Exercise
+   - Sailboat (us), island (where we want to go), weather/wind(environment), anchor (what is hindering us), rocks (things that will sink us)  
+   - <https://www.youtube.com/watch?v=n9B0Wki_HNE>
+  
  # Getting Feedback
    - Return on Time Invested (ROTI)
    (What was great? What can I do better?)
