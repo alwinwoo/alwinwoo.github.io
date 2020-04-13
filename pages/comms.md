@@ -1,6 +1,21 @@
 # [Clear Communications](https://alwinwoo.github.io/pages/comms.html)
 [home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/comms.md)
 
+## Scrum in less than 10 minutes
+
+  - Product Backlog (list / wishlist of features called User-Stories)
+  - Release Backlog (breakdown of product backlog into different releases)
+    - prioritise user-stories and estimate amount of work involved
+    - estimate in hours (1/2/4/8h for 1 day, 2/3/5/10 days, 1/2/3/6 mths - need to breakdown)
+    - total amount of time = completion time
+  - Sprint Backlog  (breakdown of release backlog into short sprints)
+    - to have features for testing
+  - Burndown Charts (monitor amount of work left in the sprint backlog)
+  - Scrum meetings  (ensuring everything is on track)
+  - retrospective meeting (fine-tune)
+
+- <https://www.youtube.com/watch?v=XU0llRltyFM>
+
 ## Scrum Tips
 1. Be Clear on Desired Outcomes
     - clarity on purpose of project and what is to be achieved
