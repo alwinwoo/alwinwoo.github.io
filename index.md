@@ -9,7 +9,7 @@ What I Love             | Mission                                 | What the Wor
 :---                    | :---                                    | :---
 [Reading][]<br>[Learning][]<br>- [Forex][]<br>- [Games][]<br>- [Stocks][]<br>[Food][]<br> | [God][]<br>- [Church][]<br>- [Family][]<br> | [Love][]<br>
 **Passion** | **[Ikigai][]** [<sup>(?)</sup>][ikigai] | **[Vocation][linked]**
-[Futuring]<br>[Technology]<br>[Programming][]<br>[Data Visualisation]<br>[Web Admin][web_admin]<br>[Website Design][web_css] | [Public Service]<br>[Innovation][] | [Grounded Policies]<br>[Clear Communications][comms]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
+[Futuring]<br>[Technology]<br>[Programming][]<br>[Data Visualisation]<br>[Web Admin][web_admin]<br>[Website Design][web_css] | [Public Service]<br>[Innovation][] | [Grounded Policies]<br>[Agile / Scrum][agile]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
 **What I'm Good At** | **[Profession][linked]** | **[What I'm Paid For][linked]**
 [Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing][]<br>[Multi-Sectoral Experience]<br> | Organisation Devt<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt<br>- [Facilitation][]<br> | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
 
@@ -17,8 +17,8 @@ What I Love             | Mission                                 | What the Wor
 
 [<sub>Using Markdown on Github</sub>][GH]
 
+[agile]:        https://alwinwoo.github.io/pages/Agile.html         "Agile / Scrum"
 [church]:       https://alwinwoo.github.io/pages/church.html        "Church"
-[comms]:        https://alwinwoo.github.io/pages/comms.html         "Clear Communications"
 [eng]:          https://alwinwoo.github.io/pages/engineering.html   "Engineering Mindset"
 [facilitation]: https://alwinwoo.github.io/pages/facilitation.html  "Facilitation"
 [family]:       https://alwinwoo.github.io/pages/family.html        "Family"
