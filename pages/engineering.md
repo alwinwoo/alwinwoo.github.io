@@ -19,5 +19,5 @@ I am glad I had been trained in engineering.
 
 # References
 
-https://fs.blog/2015/06/the-engineering-mind-set
+<https://fs.blog/2015/06/the-engineering-mind-set>
 
