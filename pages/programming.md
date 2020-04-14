@@ -9,23 +9,28 @@ Here's a glimpse of the various areas of programming that one can explore or dab
 
 # [Software on Server - Linux](https://alwinwoo.github.io/pages/web_admin.html)
 * code telling the computer what to do eg. set up a web server (on PCs/laptops/embedded devices/single-board computers eg. raspberry pi)
-* install necessary code for hosting web services, anti-virus, 
+* install necessary code for hosting web services, anti-virus, databases etc.
 * securing the server against unauthorised access
 
 # [Running a Website - HTML and CSS](https://alwinwoo.github.io/pages/web_css.html)
 * setting up a website
-* 
+* displaying content in a visually appealing way
 
-# [Programming for Interactivity - PHP and Javascript]
+# Programming for Interactivity - PHP and Javascript
 * coding for interactive websites
 * server vs client processing
 
 # [Programming for Apple - Swift](https://alwinwoo.github.io/pages/swift.html)
+* Applications on Apple Store
 
-# [Python]
+# Programming for Android
+* Applications on Google Play
+
+# Python
+* data analysis
 * 
 
-There are other older languages which I had learnt in the past but have faded into memory. These were:
+There are other older languages that I had learnt in the past but have faded into memory. These were:
 
 * Assembly
 * Basic
