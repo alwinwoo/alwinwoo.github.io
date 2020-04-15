@@ -190,6 +190,26 @@ function myFunction() {
 
 * extract metadata (working) - https://github.com/baj84/MetaData/blob/master/metadata.class.php
 
+# Embed video / music into website
+
+  - Video
+  ```code
+  <div style="position: fixed; z-index: -99; width: 100%; height: 100%">
+    <iframe frameborder="0" height="100%" width="100%"
+      src="https://youtube.com/embed/ID?autoplay=1&controls=0&showinfo=0&autohide=1">
+    </iframe>
+  </div>
+  ```
+
+  - Music
+  ```code
+  <embed height="0" width="0"
+    src="http://youtube.googleapis.com/v/VIDEO_ID&autoplay=1&loop=1" />
+  ```
+
+  - <https://www.labnol.org/internet/youtube-video-background/27933/>
+
+
 # References
 
 * https://www.w3schools.com/w3css/default.asp
