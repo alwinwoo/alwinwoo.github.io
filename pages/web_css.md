@@ -203,8 +203,7 @@ function myFunction() {
 
   - Music
   ```code
-  <embed height="0" width="0"
-    src="http://youtube.googleapis.com/v/VIDEO_ID&autoplay=1&loop=1" />
+  <embed height="0" width="0" src="http://youtube.googleapis.com/v/VIDEO_ID&autoplay=1&loop=1" />
   ```
 
   - <https://www.labnol.org/internet/youtube-video-background/27933/>
