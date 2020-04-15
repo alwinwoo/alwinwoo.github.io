@@ -28,7 +28,7 @@ However, given one's limited time on earth to gain skills or knowledge, we need 
 As such given the lack of time, these are the areas that I have decided to stop actively pursuing:
 
 1. Music
-2. Photography
+2. [Photography][]
 
 ## Areas Explored that are NOT my Ikigai
 
