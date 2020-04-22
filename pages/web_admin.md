@@ -276,6 +276,20 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   ```code
   rsync -avz --delete --exclude '.git' --info=progress2 -e "ssh -p <port number>" <your-domain-name>:/var/www/ /var/www
   ```
+- smb server for ios / windows network sharing
+  ```code
+  sudo apt-get install samba smbclient
+  sudo cp /etc/samba/smb.conf /etc/samba/smb.conf_backup
+  sudo grep -v -E "^#|^;" /etc/samba/smb.conf_backup | grep . > /etc/samba/smb.conf
+  sudo systemctl restart smbd
+  
+  // add users to samba
+  sudo smbpasswd -a <username>
+  
+  // edit smb.conf to allow home directories and sharing
+  
+  ```
+  - <https://linuxconfig.org/how-to-configure-samba-server-share-on-debian-9-stretch-linux>
 - SSL certificate
   ```code
   openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 3650 (self-signed)
