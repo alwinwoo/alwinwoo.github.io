@@ -123,6 +123,17 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 - <https://github.com/bigbluebutton/bbb-install>
 
 ## 3c. Node.JS and Socket.IO (Websockets)
+  ```code
+  sudo apt-get install 
+  sudo apt-get update
+  sudo apt-get install git-core curl build-essential openssl libssl-dev python
+  git clone https://github.com/nodejs/node.git
+  cd node
+  ./configure
+  make
+  sudo make install
+  ```
+- <https://www.devroom.io/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/>
 - <https://tecadmin.net/install-latest-nodejs-npm-on-debian/>
 - <https://socket.io/get-started/chat>
 
