@@ -150,6 +150,7 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   - <https://www.devroom.io/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/>
   - <https://tecadmin.net/install-latest-nodejs-npm-on-debian/>
   - <https://socket.io/get-started/chat>
+```
 
 ## 4. Content Curation
 - client-side MD markdown
