@@ -127,31 +127,38 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   ```code
   sudo apt-get install 
   sudo apt-get update
-  sudo apt-get install git-core curl build-essential openssl libssl-dev python
+  sudo apt-get install git-core curl build-essential openssl libssl1.0-dev python
 
   // install and check nodejs
 
   curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
   // close and reopen the terminal
   nvm --version
-  nvm install node
+  nvm install 9     // install stable version 32-bit...
   node --version
-  
-  // Install latest LTS and 8.10.0 versions
-  nvm install --lts
-  nvm install 8.10.0
+    
+  // if error occurs
+  nvm cache clear
   
   // list installed versions
   nvm ls
-  
+  ```
   - <https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/>
   - <https://github.com/nodejs/help/issues/1040>
-  
-  // others which don't work
-  - <https://www.devroom.io/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/>
-  - <https://tecadmin.net/install-latest-nodejs-npm-on-debian/>
+
+
+  ```code
+  npm install -g node-gyp
+  npm install -g socket.io
+  ```
   - <https://socket.io/get-started/chat>
-```
+
+  webserver with express
+  <https://www.npmjs.com/package/express>
+  
+  npm list -g --depth=0         // list packages  -g is to install globally (good to use)
+  npm uninstall <package-name>  // uninstall
+
 
 ## 4. Content Curation
 - client-side MD markdown
