@@ -127,11 +127,19 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   sudo apt-get install 
   sudo apt-get update
   sudo apt-get install git-core curl build-essential openssl libssl-dev python
+  
+  // install and check nodejs
   git clone https://github.com/nodejs/node.git
   cd node
   ./configure
   make
   sudo make install
+  node -v
+  
+  // install and check npm
+  curl -L https://npmjs.org/install.sh | sudo sh
+  npm -v
+  
   ```
 - <https://www.devroom.io/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/>
 - <https://tecadmin.net/install-latest-nodejs-npm-on-debian/>
