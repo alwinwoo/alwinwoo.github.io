@@ -123,27 +123,33 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 - <https://github.com/bigbluebutton/bbb-install>
 
 ## 3c. Node.JS and Socket.IO (Websockets)
+
   ```code
   sudo apt-get install 
   sudo apt-get update
   sudo apt-get install git-core curl build-essential openssl libssl-dev python
-  
+
   // install and check nodejs
-  git clone https://github.com/nodejs/node.git
-  cd node
-  ./configure
-  make
-  sudo make install
-  node -v
+
+  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
+  // close and reopen the terminal
+  nvm --version
+  nvm install node
+  node --version
   
-  // install and check npm
-  curl -L https://npmjs.org/install.sh | sudo sh
-  npm -v
+  // Install latest LTS and 8.10.0 versions
+  nvm install --lts
+  nvm install 8.10.0
   
-  ```
-- <https://www.devroom.io/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/>
-- <https://tecadmin.net/install-latest-nodejs-npm-on-debian/>
-- <https://socket.io/get-started/chat>
+  // list installed versions
+  nvm ls
+  
+  - <https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/>
+
+  // others which don't work
+  - <https://www.devroom.io/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/>
+  - <https://tecadmin.net/install-latest-nodejs-npm-on-debian/>
+  - <https://socket.io/get-started/chat>
 
 ## 4. Content Curation
 - client-side MD markdown
