@@ -145,7 +145,8 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   nvm ls
   
   - <https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/>
-
+  - <https://github.com/nodejs/help/issues/1040>
+  
   // others which don't work
   - <https://www.devroom.io/2011/10/24/installing-node-js-and-npm-on-ubuntu-debian/>
   - <https://tecadmin.net/install-latest-nodejs-npm-on-debian/>
