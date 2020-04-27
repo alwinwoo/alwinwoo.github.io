@@ -148,9 +148,9 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 
 
   ```code
-  npm install -g node-gyp
-  npm install -g socket.io
+  npm install -g node-gyp express socket.io uuid
   ```
+  - <https://dev.to/paolodelia99/build-a-simple-chat-app-with-node-js-and-socket-io-apk>
   - <https://socket.io/get-started/chat>
 
   webserver with express
