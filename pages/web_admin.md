@@ -165,8 +165,16 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   // to enable proxy, go to apache site .conf file
   add the following before </VirtualHost>
   ProxyRequests on
-  ProxyPass /where-node.js-runs/ http://localhost:port/
+  ProxyPass         /where-index.js-runs/ http://localhost:port/
+  ProxyPassReverse  /where-index.js-runs/ http://localhost:port/
+  ProxyPass         /nodejs              http://localhost:port/
+  ProxyPassReverse  /nodejs              http://localhost:port/
+  ProxyPass         /socket.io/          http://localhost:port/socket.io/
+  ProxyPassReverse  /socket.io/          http://localhost:port/socket.io/
+  ProxyPass         /socket.io/          ws://localhost:port/socket.io
+  ProxyPassReverse  /socket.io/          ws://localhost:port/socket.io
   
+  // the following modules need to be active for proxying
   sudo a2enmod proxy
   sudo a2enmod proxy_http
   sudo a2enmod proxy_balancer
