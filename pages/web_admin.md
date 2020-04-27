@@ -161,6 +161,18 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   npm uninstall <package-name>  // uninstall
 
   combine apache2 server with node
+  ```code
+  // to enable proxy, go to apache site .conf file
+  add the following before </VirtualHost>
+  ProxyRequests on
+  ProxyPass /where-node.js-runs/ http://localhost:port/
+  
+  sudo a2enmod proxy
+  sudo a2enmod proxy_http
+  sudo a2enmod proxy_balancer
+  sudo a2enmod lbmethod_byrequests
+  sudo systemctl restart apache2
+  ```
   - <https://blog.cloudboost.io/get-apache-and-node-working-together-on-the-same-domain-with-javascript-ajax-requests-39db51959b79>
 
 ## 4. Content Curation
