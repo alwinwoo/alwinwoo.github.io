@@ -150,15 +150,18 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   ```code
   npm install -g node-gyp express socket.io uuid
   ```
+  - <https://www.tutorialspoint.com/socket.io/socket.io_chat_application.htm>
   - <https://dev.to/paolodelia99/build-a-simple-chat-app-with-node-js-and-socket-io-apk>
   - <https://socket.io/get-started/chat>
 
   webserver with express
-  <https://www.npmjs.com/package/express>
+  - <https://www.npmjs.com/package/express>
   
   npm list -g --depth=0         // list packages  -g is to install globally (good to use)
   npm uninstall <package-name>  // uninstall
 
+  combine apache2 server with node
+  - <https://blog.cloudboost.io/get-apache-and-node-working-together-on-the-same-domain-with-javascript-ajax-requests-39db51959b79>
 
 ## 4. Content Curation
 - client-side MD markdown
