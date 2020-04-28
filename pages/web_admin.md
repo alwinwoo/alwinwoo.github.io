@@ -124,14 +124,19 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 
 ## 3c. Node.JS and Socket.IO (Websockets)
 
+  Socket.IO is not the same as websockets
+  - <https://www.educba.com/websocket-vs-socket-io/>
+  - <https://socket.io/docs/>
+
   ```code
+
+  // install and check nodejs
   sudo apt-get install 
   sudo apt-get update
   sudo apt-get install git-core curl build-essential openssl libssl1.0-dev python
-
-  // install and check nodejs
-
+  
   curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
+  
   // close and reopen the terminal
   nvm --version
   nvm install 9     // install stable version 32-bit...
@@ -146,19 +151,18 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   - <https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/>
   - <https://github.com/nodejs/help/issues/1040>
 
-
   ```code
   npm install -g node-gyp express socket.io uuid
   ```
-  - <https://www.tutorialspoint.com/socket.io/socket.io_chat_application.htm>
-  - <https://dev.to/paolodelia99/build-a-simple-chat-app-with-node-js-and-socket-io-apk>
-  - <https://socket.io/get-started/chat>
-
-  webserver with express
-  - <https://www.npmjs.com/package/express>
-  
   npm list -g --depth=0         // list packages  -g is to install globally (good to use)
   npm uninstall <package-name>  // uninstall
+
+  # Socket.IO Tutorials
+  
+  - <https://www.tutorialspoint.com/socket.io/socket.io_chat_application.htm>
+  - <https://www.html5rocks.com/en/tutorials/websockets/basics/>
+  - <https://socket.io/get-started/chat>
+  - <https://dev.to/paolodelia99/build-a-simple-chat-app-with-node-js-and-socket-io-apk>
 
   combine apache2 server with node
   ```code
