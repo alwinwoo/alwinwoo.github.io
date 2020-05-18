@@ -11,7 +11,7 @@ What I Love             | Mission                                 | What the Wor
 **Passion** | **[Ikigai][]** [<sup>(?)</sup>][ikigai] | **[Vocation][linked]**
 [Futuring]<br>[Technology]<br>[Programming][]<br>[Data Visualisation]<br>[Web Admin][web_admin]<br>[Website Design][web_css] | [Public Service]<br>[Innovation][] | [Grounded Policies]<br>[Agile / Scrum][agile]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
 **What I'm Good At** | **[Profession][linked]** | **[What I'm Paid For][linked]**
-[Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing][]<br>[Multi-Sectoral Experience]<br> | Organisation Devt<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt<br>- [Facilitation][]<br> | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
+[Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing][]<br>[Multi-Sectoral Experience]<br> | Organisation Devt<br>- [People]<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt<br>- [Facilitation][]<br> | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
 
 [Areas that I'm developing][learning]
 
@@ -31,6 +31,7 @@ What I Love             | Mission                                 | What the Wor
 [innovation]:   https://alwinwoo.github.io/pages/innovation.html    "Innovation"
 [learning]:     https://alwinwoo.github.io/pages/learning.html      "Learning"
 [love]:         https://alwinwoo.github.io/pages/love.html          "Love"
+[people]:       https://alwinwoo.github.io/pages/people.html        "People"
 [programming]:  https://alwinwoo.github.io/pages/programming.html   "Programming"
 [reading]:      https://alwinwoo.github.io/pages/reading.html       "Reading"
 [stocks]:       https://alwinwoo.github.io/stocks.html              "Stocks"
