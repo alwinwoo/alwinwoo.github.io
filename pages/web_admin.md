@@ -32,6 +32,7 @@ Here are some steps from the Internet that I have summarised to help you along t
   - Set up port forwarding rules
 - Hosting on IBM
   - [Dashboard](https://cloud.ibm.com/)
+  - Set up Security Groups
   
 ## 2b. Steps to set up your DIY server at home or in office
 - Static or Dynamic DNS
