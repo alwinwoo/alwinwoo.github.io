@@ -96,6 +96,12 @@ Here are some steps from the Internet that I have summarised to help you along t
   - <http://travistidwell.com/jsencrypt/demo/>
   - <https://wiki.filezilla-project.org/Howto/>
 
+  - Change Server Timezone
+  ```code
+  sudo rm /etc/localtime 
+  sudo ln -s /usr/share/zoneinfo/Singapore /etc/localtime 
+  ```
+  
 ## 3b. Setup as bigbluebutton server
 - Create instance server (Ubuntu 16.04 LTS) 4 core 8GB memory w 100GB storage
   - assign static address
