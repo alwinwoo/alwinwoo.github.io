@@ -315,7 +315,12 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   Restart Apache (sudo systemctl restart apache)
   ```
 - cron
-- Email server
+- Email (STMP / IMAP) server
+  ```code
+  
+  - https://www.linuxbabe.com/mail-server/setup-basic-postfix-mail-sever-ubuntu
+  - https://www.linuxbabe.com/mail-server/secure-email-server-ubuntu-16-04-postfix-dovecot
+  ```
 - FTP server (why would you want to do this if you have SSH?)
   - <https://www.thomas-krenn.com/en/wiki/Setup_FTP_Server_under_Debian>
 - git
