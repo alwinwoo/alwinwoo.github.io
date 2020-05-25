@@ -328,12 +328,12 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   Check and set-up domain
   hostname -f (check host name)
   sudo hostnamectl set-hostname your-fqdn
-  
-  MX record @ mail.domain.com
-  A record mail.domain.com to IP address
-  AAAA record mail.domain.com to IPv6-address
-  
-  
+
+  Mailgun settings for SMTP credentials
+  (check setup - to modify DNS records)
+  - login postmaster@domain.com + password
+  stmp.mailgun.org
+
   Install postfix and dovecot for mail server
   sudo apt-get install apache2 php7
   sudo apt-get install postfix
@@ -352,14 +352,11 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   sudo mv /var/www/html/squirrelmail-webmail-1.4.22/ /var/www/html/squirrelmail
   sudo perl /var/www/html/squirrelmail/config/conf.pl
   (edit server settings - 2)
+  -> use smtp.mailgun.org, use port 465 for secure TLS, smtp login (with custom username and password)
   (allow "server-side sorting - general options 3 - true)
+ 
   access email by going to domain.com/squirrelmail
-  
-  Mailgun settings for SMTP credentials
-  (check setup - to modify DNS records)
-  - login postmaster@domain.com + password
-  stmp.mailgun.org
-  
+    
   Create Mail Users
   sudo useradd username
   sudo passwd username
