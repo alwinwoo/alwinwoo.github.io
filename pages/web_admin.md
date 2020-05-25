@@ -24,12 +24,14 @@ Here are some steps from the Internet that I have summarised to help you along t
       - Linux or Windows?
       - <https://github.com/imthenachoman/How-To-Secure-A-Linux-Server>
 
-## 2a. Steps to set up your DIY server on Google Cloud
+## 2a. Steps to set up your DIY server on Google / IBM Cloud
 - Hosting on the cloud
   - [Create a GCloud Account](https://cloud.google.com/gcp/getting-started)
   - [Create a GCloud instance](https://cloud.google.com/compute/docs/instances/create-start-instance)
   - [Reserve a Static IP Address](https://cloud.google.com/compute/docs/ip-addresses/reserve-static-external-ip-address)
   - Set up port forwarding rules
+- Hosting on IBM
+  - [Dashboard](https://cloud.ibm.com/)
   
 ## 2b. Steps to set up your DIY server at home or in office
 - Static or Dynamic DNS
