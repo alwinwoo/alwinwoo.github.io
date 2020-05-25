@@ -308,6 +308,10 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 
 # 7. Others - Useful but may not be necessary
 
+- bash for terminal (allow up and down arrows as history)
+  ```code
+  chsh -s /bin/bash
+  ```
 - curl (for downloading of external urls)
   ```code
   Locate your PHP.ini file (php -i | grep 'php.ini')
@@ -321,6 +325,52 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 - Email (STMP / IMAP) server
   ```code
   
+  Check and set-up domain
+  hostname -f (check host name)
+  sudo hostnamectl set-hostname your-fqdn
+  
+  MX record @ mail.domain.com
+  A record mail.domain.com to IP address
+  AAAA record mail.domain.com to IPv6-address
+  
+  
+  Install postfix and dovecot for mail server
+  sudo apt-get install apache2 php7
+  sudo apt-get install postfix
+  (choose internet site)
+  (enter domain name)
+  sudo service postfix restart
+  sudo apt-get install dovecot-imapd dovecot-pop3d
+  sudo service dovecot restart
+  
+  install web-based email client eg. squirrelmail
+  wget https://sourceforge.net/projects/squirrelmail/files/stable/1.4.22/squirrelmail-webmail-1.4.22.zip
+  unzip squirrelmail-webmail-1.4.22.zip
+  sudo mv squirrelmail-webmail-1.4.22 /var/www/html/
+  sudo chown -R www-data:www-data /var/www/html/squirrelmail-webmail-1.4.22/
+  sudo chmod 755 -R /var/www/html/squirrelmail-webmail-1.4.22/
+  sudo mv /var/www/html/squirrelmail-webmail-1.4.22/ /var/www/html/squirrelmail
+  sudo perl /var/www/html/squirrelmail/config/conf.pl
+  (edit server settings - 2)
+  (allow "server-side sorting - general options 3 - true)
+  access email by going to domain.com/squirrelmail
+  
+  Mailgun settings for SMTP credentials
+  (check setup - to modify DNS records)
+  - login postmaster@domain.com + password
+  stmp.mailgun.org
+  
+  Create Mail Users
+  sudo useradd username
+  sudo passwd username
+  sudo mkdir -p /var/www/html/user_directory
+  usermod -m -d /var/www/html/user_directory username
+  sudo chown -R username:username /var/www/html/user_directory
+  
+  
+  
+  
+  - https://www.tecmint.com/setup-postfix-mail-server-in-ubuntu-debian/
   - https://www.linuxbabe.com/mail-server/setup-basic-postfix-mail-sever-ubuntu
   - https://www.linuxbabe.com/mail-server/secure-email-server-ubuntu-16-04-postfix-dovecot
   ```
