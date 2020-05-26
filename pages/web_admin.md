@@ -360,9 +360,11 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   (edit server settings - 2)
   -> use smtp.mailgun.org, use port 465 for secure TLS, smtp login (with custom username and password)
   (allow "server-side sorting - general options 3 - true)
- 
   access email by going to domain.com/squirrelmail
-    
+
+  Install RoundCube Web Client
+  https://www.digitalocean.com/community/tutorials/how-to-install-your-own-webmail-client-with-roundcube-on-ubuntu-16-04
+
   Create Mail Users
   sudo useradd username
   sudo passwd username
