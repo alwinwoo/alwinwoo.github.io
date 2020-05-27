@@ -362,9 +362,6 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   (allow "server-side sorting - general options 3 - true)
   access email by going to domain.com/squirrelmail
 
-  Install RoundCube Web Client
-  https://www.digitalocean.com/community/tutorials/how-to-install-your-own-webmail-client-with-roundcube-on-ubuntu-16-04
-
   Create Mail Users
   sudo useradd username
   sudo passwd username
@@ -372,13 +369,21 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   usermod -m -d /var/www/html/user_directory username
   sudo chown -R username:username /var/www/html/user_directory
   
-  
-  
-  
   - https://www.tecmint.com/setup-postfix-mail-server-in-ubuntu-debian/
   - https://www.linuxbabe.com/mail-server/setup-basic-postfix-mail-sever-ubuntu
   - https://www.linuxbabe.com/mail-server/secure-email-server-ubuntu-16-04-postfix-dovecot
   ```
+  
+- install Axigen Mail Server
+  ```code
+  download Axigen and install
+  open the admin page as instructed
+  Go to WebAdmin → Security and Filtering
+  under router settings, put in the SMTP settings from mailgun 
+  check DNS settings are correct
+  send email to mail-tester.com to see how spammy is the email (change if need be) 
+  ```
+  - <https://www.axigen.com/documentation/installing-axigen-on-linux-p1409126>
 - FTP server (why would you want to do this if you have SSH?)
   - <https://www.thomas-krenn.com/en/wiki/Setup_FTP_Server_under_Debian>
 - git
