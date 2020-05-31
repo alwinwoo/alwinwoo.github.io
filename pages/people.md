@@ -33,3 +33,10 @@
 # Teams
 
   - Belbin Team Roles
+  
+# Difference between Coaching, Mentoring, Consulting, Training and Counselling
+  - Coaching: Partnering in a thought-provoking and creative process to maximize personal and professional potential. The ‘client’ and the respective ‘goal’ for coaching could be at individual, group, team or organizational levels.  
+  - Mentoring:  Offering guidance from one's own experience or in a specific area of career development.   
+  - Consulting:  Assessing an organization's practices and recommending solutions for improvement based on expertise in a specific area. 
+  - Training: Working toward achievement of specific learning objectives based on a set curriculum.
+  - Counselling:  Healing pain, dysfunction or conflict in service of improved emotional or feeling states. 
