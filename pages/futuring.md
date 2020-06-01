@@ -1,0 +1,6 @@
+# [Futuring](https://alwinwoo.github.io/pages/futuring.html)
+[home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/futuring.md)
+
+- https://www.seatrade-maritime.com/opinions-analysis/overarching-global-trends-due-and-post-covid-19
+- https://www.straitstimes.com/business/economy/post-pandemic-biggest-changes-will-be-at-workplace
+- https://knowledge.wharton.upenn.edu/article/post-covid-19-world-will-less-global-less-urban/
