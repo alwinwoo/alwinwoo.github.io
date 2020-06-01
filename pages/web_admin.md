@@ -434,5 +434,12 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 - VPS
 
 # 8. Stuff I'm Trying 
-- Telegram and stock
-  - <https://www.instructables.com/id/Transform-Raspberry-Pi-Into-a-Stock-Exchange-Monit/>
+  - Telegram and stock
+    - <https://www.instructables.com/id/Transform-Raspberry-Pi-Into-a-Stock-Exchange-Monit/>
+  
+  - Log SSH details
+    - <https://hackernoon.com/how-ive-captured-all-passwords-trying-to-ssh-into-my-server-d26a2a6263ec>
+    ```code
+    sudo apt install build-essential gcc zlib1g-dev libssl-dev
+    ```
+
