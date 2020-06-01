@@ -438,8 +438,35 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
     - <https://www.instructables.com/id/Transform-Raspberry-Pi-Into-a-Stock-Exchange-Monit/>
   
   - Log SSH details
-    - <https://hackernoon.com/how-ive-captured-all-passwords-trying-to-ssh-into-my-server-d26a2a6263ec>
+
     ```code
     sudo apt install build-essential gcc zlib1g-dev libssl-dev
+    
+    Compile the new SSH server
+    OPENSSH=/opt/openssh2
+    mkdir -p /opt/openssh2/dist/
+    cd ${OPENSSH}
+    wget http://zlib.net/zlib-1.2.11.tar.gz
+    tar xvfz zlib-1.2.11.tar.gz
+    cd zlib-1.2.11
+    ./configure --prefix=${OPENSSH}/dist/ && make && make install
+    cd ${OPENSSH}
+    wget http://www.openssl.org/source/openssl-1.0.1e.tar.gz
+    tar xvfz openssl-1.0.1e.tar.gz
+    cd openssl-1.0.1e
+    ./config --prefix=${OPENSSH}/dist/ && make && make install_sw
+    cd ${OPENSSH}
+    wget https://ftp.eu.openbsd.org/pub/OpenBSD/OpenSSH/portable/openssh-6.2p1.tar.gz
+    tar xvfz openssh-6.2p1.tar.gz
+    cd openssh-6.2p1
+    sed -e 's/struct passwd \* pw = authctxt->pw;/logit("Honey: Username: %s Password: %s", authctxt->user, password);\nstruct passwd \* pw = authctxt->pw;/' -i auth-passwd.c
+    ./configure --prefix=${OPENSSH}/dist/ --with-zlib=${OPENSSH}/dist --with-ssl-dir=${OPENSSH}/dist/ && make && make install
+    
+    Start server
+    /opt/openssh2/dist/sbin/sshd -f /opt/openssh2/dist/etc/sshd_config (remember to change away from port 22)
+    grep -i honey /var/log/auth.log
+    
+    - <https://hackernoon.com/how-ive-captured-all-passwords-trying-to-ssh-into-my-server-d26a2a6263ec>
+
     ```
 
