@@ -438,7 +438,6 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
     - <https://www.instructables.com/id/Transform-Raspberry-Pi-Into-a-Stock-Exchange-Monit/>
   
   - Log SSH details
-
     ```code
     sudo apt install build-essential gcc zlib1g-dev libssl-dev
     
