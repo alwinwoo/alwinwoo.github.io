@@ -6,8 +6,13 @@ Here's a glimpse of the various areas of programming that one can explore or dab
 # Software on Hardware
 * firmware/code that makes the hardware work
 * one of the languages I used to learn was Assembly - it was tough
-* Arduino
+
+# Arduino
+  * need to download arduino IDE
   * Digispark ATtiny85
+    * open Arduino ide and then go to preferences and then in additional board magae url paste this given url for Digispark :-
+    * http://digistump.com/package_digistump_index.json
+    * Now go to boards manager and download the Digispark boards
     * <https://digistump.com/wiki/digispark/tutorials/connecting>
   * ESP8266 wifi module
     * <https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html>
