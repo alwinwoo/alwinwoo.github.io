@@ -18,6 +18,7 @@ Here's a glimpse of the various areas of programming that one can explore or dab
     * <https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html>
     * <https://randomnerdtutorials.com/esp8266-web-server/>
   * Projects
+    * <http://arduinolearning.com/digispark/basic-digispark-example.php>
     * <https://www.raspberry-pi-geek.com/Archive/2014/03/Adding-analog-input-to-the-Pi-using-the-Digispark>
 
 # [Software on Server - Linux](https://alwinwoo.github.io/pages/web_admin.html)
