@@ -17,6 +17,8 @@ Here's a glimpse of the various areas of programming that one can explore or dab
   * ESP8266 wifi module
     * <https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html>
     * <https://randomnerdtutorials.com/esp8266-web-server/>
+  * Projects
+    * <https://www.raspberry-pi-geek.com/Archive/2014/03/Adding-analog-input-to-the-Pi-using-the-Digispark>
 
 # [Software on Server - Linux](https://alwinwoo.github.io/pages/web_admin.html)
 * code telling the computer what to do eg. set up a web server (on PCs/laptops/embedded devices/single-board computers eg. raspberry pi)
