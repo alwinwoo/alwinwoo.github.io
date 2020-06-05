@@ -85,6 +85,7 @@
 
 # ESP8266 wifi module
   - <https://www.instructables.com/id/Control-ESP8266-Over-the-Internet-from-Anywhere/>
+    - <https://cdn.instructables.com/ORIG/FFD/AL3D/IN3EI5D1/FFDAL3DIN3EI5D1.txt>
   - <https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html>
   - <https://randomnerdtutorials.com/esp8266-web-server/>
   - <https://www.arduino.cc/reference/en/>
