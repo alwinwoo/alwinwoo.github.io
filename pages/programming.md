@@ -7,7 +7,7 @@ Here's a glimpse of the various areas of programming that one can explore or dab
 * firmware/code that makes the hardware work
 * one of the languages I used to learn was Assembly - it was tough
 
-# Arduino
+# [Arduino](https://alwinwoo.github.io/pages/arduino.html)
   * need to download arduino IDE
   * Digispark ATtiny85
     * open Arduino ide and then go to preferences and then in additional board magae url paste this given url for Digispark :-
