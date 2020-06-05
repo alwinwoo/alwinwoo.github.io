@@ -5,6 +5,8 @@
   - need to download arduino IDE
   - switching analog pins in close temporal proximity may cause electrical noise and introduce jitter in the analog system. It may be desirable, after manipulating analog pins (in digital mode) to add a short delay before using analogRead() to read other analog pins.
   - (Board dependent?)
+  - using millis instead of delay
+    - <https://www.programmingelectronics.com/arduino-sketch-with-millis-instead-of-delay/>
 
 # Code Example
   ```code
@@ -64,6 +66,7 @@
   
   ```
   - <https://www.arduino.cc/reference/en/>
+  - <https://www.programmingelectronics.com/category/programming-based/>
 
 # Digispark ATtiny85
   - open Arduino ide and then go to preferences and then in additional board manager, paste this given url for Digispark :-
