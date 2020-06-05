@@ -39,7 +39,7 @@
     delay(1000);                // waits for a second
     
     val2 = analogRead(analogPin);  // read the analog input pin
-    Serial.println(val2);          // prints the value
+    Serial.println(val2);          // prints the value to be viewed on the IDE serial monitor (Tools)
     analogWrite(ledPin, val2 / 4); // analogRead values go from 0 to 1023, analogWrite values from 0 to 255    
   }
   
@@ -65,8 +65,6 @@
   ```
   - <https://www.arduino.cc/reference/en/>
 
-# 
-
 # Digispark ATtiny85
   - open Arduino ide and then go to preferences and then in additional board manager, paste this given url for Digispark :-
     - <http://digistump.com/package_digistump_index.json>
@@ -74,6 +72,13 @@
     - <https://digistump.com/wiki/digispark/tutorials/connecting>
   - Window / Linux drivers are required to communicate with the Digispark in USB
     - <https://github.com/digistump/DigistumpArduino/releases>
+
+  # Digispark Keyboard
+    ```code
+    #include <DigiKeyboard.h>             // include the library to print text
+    DigiKeyboard.delay(1000);             // delay for 1 second
+    DigiKeyboard.println("Hello World");  // print text like a keyboard
+    ```
 
 # ESP8266 wifi module
   - <https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html>
