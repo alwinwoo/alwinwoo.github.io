@@ -464,7 +464,8 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
     Start server
     /opt/openssh2/dist/sbin/sshd -f /opt/openssh2/dist/etc/sshd_config (remember to change away from port 22)
     grep -i honey /var/log/auth.log
-        ```
+    ```
+    
     - <https://hackernoon.com/how-ive-captured-all-passwords-trying-to-ssh-into-my-server-d26a2a6263ec>
 
   - Virtual Host for Nginx
