@@ -9,6 +9,7 @@ Here's a glimpse of the various areas of programming that one can explore or dab
   
 # Kubernetes
   * [What is Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+  * [Kubernetes on Ubuntu](https://phoenixnap.com/kb/install-kubernetes-on-ubuntu/)
   * [Kubernetes on Pis](https://opensource.com/article/20/6/kubernetes-raspberry-pi/)
 
 # [Arduino](https://alwinwoo.github.io/pages/arduino.html)
