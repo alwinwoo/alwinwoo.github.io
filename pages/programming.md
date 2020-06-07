@@ -11,6 +11,7 @@ Here's a glimpse of the various areas of programming that one can explore or dab
   * [What is Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
   * [Kubernetes on Ubuntu](https://phoenixnap.com/kb/install-kubernetes-on-ubuntu/)
   * [Kubernetes on Pis](https://opensource.com/article/20/6/kubernetes-raspberry-pi/)
+  * [Kubernetes Security 101](https://www.stackrox.com/post/2020/05/kubernetes-security-101/)
 
 # [Arduino](https://alwinwoo.github.io/pages/arduino.html)
   * Open-source electronic prototyping platform enabling users to create interactive electronic objects.
