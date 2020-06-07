@@ -6,7 +6,10 @@ Here's a glimpse of the various areas of programming that one can explore or dab
 # Software on Hardware
   * firmware/code that makes the hardware work
   * one of the languages I used to learn was Assembly - it was tough
-  * [Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+  
+# Kubernetes
+  * [What is Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+  * [Kubernetes on Pis](https://opensource.com/article/20/6/kubernetes-raspberry-pi/)
 
 # [Arduino](https://alwinwoo.github.io/pages/arduino.html)
   * Open-source electronic prototyping platform enabling users to create interactive electronic objects.
