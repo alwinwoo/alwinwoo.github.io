@@ -470,3 +470,6 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 
   - Virtual Host for Nginx
     - <https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04>
+    
+  - Security Tools
+    - <https://geekflare.com/online-scan-website-security-vulnerabilities/>
