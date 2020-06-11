@@ -83,7 +83,15 @@
     DigiKeyboard.println("Hello World");  // print text like a keyboard
     ```
 
-# ESP8266 wifi module
+# ESP8266 wifi nodemcu module
+  ```code
+  - download the nodemcu drivers on https://github.com/nodemcu/nodemcu-devkit/tree/master/Drivers
+  - open Arduino IDE and add http://arduino.esp8266.com/stable/package_esp8266com_index.json
+  - Go to Boards Manager and install the nodeMCU Board
+  - Go to Tools->Board and select NodeMCU (probably 1.0 ESP-12E Module)
+  - Pick an example from File->Example eg. HelloServer and load it in the Board
+  ```
+  - <https://www.marginallyclever.com/2017/02/setup-nodemcu-drivers-arduino-ide/>
   - <https://www.instructables.com/id/Control-ESP8266-Over-the-Internet-from-Anywhere/>
     - <https://cdn.instructables.com/ORIG/FFD/AL3D/IN3EI5D1/FFDAL3DIN3EI5D1.txt>
   - <https://www.electronicshub.org/connect-esp8266-to-wifi/>
