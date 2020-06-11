@@ -85,12 +85,18 @@
 
 # ESP8266 wifi nodemcu module
   ```code
-  - download the nodemcu drivers on https://github.com/nodemcu/nodemcu-devkit/tree/master/Drivers
+  - Download driver
+    - download the nodemcu drivers on https://github.com/nodemcu/nodemcu-devkit/tree/master/Drivers
+  - Optional (?): flash the nodeMCU
+    - <https://www.instructables.com/id/Getting-Started-With-ESP8266LiLon-NodeMCU-V3Flashi/>
   - open Arduino IDE and add http://arduino.esp8266.com/stable/package_esp8266com_index.json
-  - Go to Boards Manager and install the nodeMCU Board
-  - Go to Tools->Board and select NodeMCU (probably 1.0 ESP-12E Module)
-  - Pick an example from File->Example eg. HelloServer and load it in the Board
+    - Go to Boards Manager and install the nodeMCU Board
+    - Go to Tools->Board and select NodeMCU (probably 1.0 ESP-12E Module)
+    - Pick an example from File->Example eg. HelloServer and load it in the Board
   ```
+  - sometimes the poor quality of soldering can cause problems eg. timeout due to solder bw S1 and SC
+    - <https://github.com/espressif/esptool/issues/366>
+
   - <https://www.marginallyclever.com/2017/02/setup-nodemcu-drivers-arduino-ide/>
   - <https://www.instructables.com/id/Control-ESP8266-Over-the-Internet-from-Anywhere/>
     - <https://cdn.instructables.com/ORIG/FFD/AL3D/IN3EI5D1/FFDAL3DIN3EI5D1.txt>
