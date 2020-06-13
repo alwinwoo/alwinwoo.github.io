@@ -97,6 +97,10 @@
   - sometimes the poor quality of soldering can cause problems eg. timeout due to solder bw S1 and SC
     - <https://github.com/espressif/esptool/issues/366>
 
+
+  - controlling multiple oleds
+    - <https://www.instructables.com/id/OLED-I2C-Display-ArduinoNodeMCU-Tutorial/>
+
   - <https://www.marginallyclever.com/2017/02/setup-nodemcu-drivers-arduino-ide/>
   - <https://www.instructables.com/id/Control-ESP8266-Over-the-Internet-from-Anywhere/>
     - <https://cdn.instructables.com/ORIG/FFD/AL3D/IN3EI5D1/FFDAL3DIN3EI5D1.txt>
