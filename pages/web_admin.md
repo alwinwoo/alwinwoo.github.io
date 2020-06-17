@@ -55,9 +55,8 @@ Here are some steps from the Internet that I have summarised to help you along t
   7. Make it executable (chmod -x) and run it with root privileges (sudo sh ./VBoxLinuxAdditions.run --nox11)
   8. Reboot server
   9. Create mount location eg. /home/drive
-  10. Mount drive with 'sudo mount -t vboxsf <shared name> /home/drive"
-
-  To make mount persistent (make sure to do a snapshot before continuing)
+  10. Mount drive with 'sudo mount -t vboxsf <shared name> /home/drive'
+      To make mount persistent (make sure to do a snapshot before continuing)
   11. sudo nano /etc/fstab
   12. Add the following line to fstab (separated by tabs) and press Ctrl+O to Save.
     <shared folder>	<guest mount>	vboxsf	defaults	0	0
@@ -65,7 +64,6 @@ Here are some steps from the Internet that I have summarised to help you along t
     add vboxsf to the file and save
   14. reboot server
   ```
-
   - https://serverfault.com/questions/674974/how-to-mount-a-virtualbox-shared-folder
   - https://docs.bitnami.com/virtual-machine/faq/configuration/install-virtualbox-guest-additions/
   
