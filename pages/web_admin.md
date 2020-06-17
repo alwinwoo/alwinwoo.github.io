@@ -42,10 +42,15 @@ Here are some steps from the Internet that I have summarised to help you along t
 - Install share folders on VBox
   ```code
   1. Start up server
-  2. Check kernel VERSION with 'uname -a'
+  2. Check kernel VERSION with 'uname -r'
+  - search for headers using 'apt search linux-headers-$(uname -r)'
   3. Install dependencies with 'sudo apt-get -y install dkms build-essential linux-headers-VERSION'
   4. Reboot server
   5. "Devices -> Insert Guest Additions CD image"
+  - mkdir /mnt/cdrom
+  - mount /dev/cdrom /mnt/cdrom
+  - cd /mnt/cdrom
+  - sh ./VBoxLinuxAdditions.run --nox11
   6. If there is an error, copy the VBoxLinuxAdditions.run file onto the server
   7. Make it executable (chmod -x) and run it with root privileges (sudo sh ./VBoxLinuxAdditions.run --nox11)
   8. Reboot server
