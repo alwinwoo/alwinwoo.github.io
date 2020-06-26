@@ -420,6 +420,18 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
   
   // edit smb.conf to allow home directories and sharing
   
+  for full access - edit /etc/samba/smb.conf
+  
+  [public]
+  comment = public anonymous access
+  path = /var/samba/
+  browsable =yes
+  create mask = 0660
+  directory mask = 0771
+  writable = yes
+  guest ok = yes
+  
+  save and restart samba
   ```
   - <https://linuxconfig.org/how-to-configure-samba-server-share-on-debian-9-stretch-linux>
 - SSL certificate
