@@ -488,3 +488,6 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
     
   - Security Tools
     - <https://geekflare.com/online-scan-website-security-vulnerabilities/>
+    
+  - Termux for Android Note 9
+    - <https://wiki.termux.com/wiki/FAQ>
