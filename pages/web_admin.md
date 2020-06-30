@@ -491,3 +491,7 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
     
   - Termux for Android Note 9
     - <https://wiki.termux.com/wiki/FAQ>
+    - install ssh server
+      - <https://wiki.termux.com/wiki/Remote_Access>
+      - termux user = u0_a176
+      - use 'passwd' to change password
