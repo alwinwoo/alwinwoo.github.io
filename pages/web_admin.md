@@ -495,3 +495,5 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
       - <https://wiki.termux.com/wiki/Remote_Access>
       - termux user = u0_a176
       - use 'passwd' to change password
+    - Node JS
+      - <https://steemit.com/utopian-io/@faisalamin/how-to-run-java-script-language-node-js-on-comman-line-andoid-termux-also-work-for-non-rooted-devices>
