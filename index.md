@@ -17,7 +17,7 @@ What I Love             | Mission                                 | What the Wor
 
 [<sub>Using Markdown on Github</sub>][GH]
 
-[agile]:        https://alwinwoo.github.io/pages/Agile.html         "Agile / Scrum"
+[agile]:        pages/Agile.html         "Agile / Scrum"
 [church]:       https://alwinwoo.github.io/pages/church.html        "Church"
 [eng]:          https://alwinwoo.github.io/pages/engineering.html   "Engineering Mindset"
 [facilitation]: https://alwinwoo.github.io/pages/facilitation.html  "Facilitation"
