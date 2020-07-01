@@ -202,6 +202,8 @@ A - sub-domain  - ip address (can be different) - Auto - Proxied (or DNS only)
 ## 4. Content Curation
 - client-side MD markdown
   - <http://strapdownjs.com/>
+  - searching on a markdown page
+    - http://naereen.github.io/StrapDown.js/example7.html
 
 - MDwiki for markdown
   - install lighttpd (or apache)
