@@ -166,6 +166,11 @@ function myFunction() {
 </div>
 ```
 
+# Markdown / Strapdown.JS
+  - <https://strapdownjs.com/>
+  - Markdown Syntax
+  <https://ndossougbe.github.io/strapdown/demos/plugin_demo.html>
+
 # For Pictures
 
 * image slideshows
