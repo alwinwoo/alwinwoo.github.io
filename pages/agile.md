@@ -1,4 +1,4 @@
-# [Agile / Scrum](https://alwinwoo.github.io/pages/comms.html)
+# [Agile / Scrum](https://alwinwoo.github.io/pages/agile.html)
 [home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/agile.md)
 
 ## Scrum in less than 10 minutes
