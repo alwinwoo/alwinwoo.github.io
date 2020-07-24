@@ -17,14 +17,14 @@ What I Love             | Mission                                 | What the Wor
 
 [<sub>Using Markdown on Github</sub>][GH]
 
-[agile]:        pages/Agile.html         "Agile / Scrum"
+[agile]:        pages/agile.html         "Agile / Scrum"
 [church]:       pages/church.html        "Church"
 [eng]:          pages/engineering.html   "Engineering Mindset"
 [facilitation]: pages/facilitation.html  "Facilitation"
 [family]:       pages/family.html        "Family"
 [food]:         pages/food.html          "Food"
 [forex]:        pages/forex.html         "Forex"
-[futuring]:     pages/futuring.html         "Futuring"
+[futuring]:     pages/futuring.html      "Futuring"
 [games]:        pages/games.html         "Games"
 [GH]:           pages/github.html        "GitHub and Markdown"
 [god]:          pages/god.html           "God"
