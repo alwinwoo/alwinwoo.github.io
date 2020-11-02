@@ -9,7 +9,7 @@ As such, there will always be areas that you want to develop, to become better i
 
 ## What I Want to Learn
 
-To build up my profession and vocation areas, these are the areas that I need to work on:
+To build up my profession and vocation areas, these are the areas that I need to continue working on:
 
 1. Public Speaking
 2. Facilitation
