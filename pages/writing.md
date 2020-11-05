@@ -41,11 +41,11 @@ A story with no surprises is boring. You knew this already (because you’re alr
 
 # World of Leyond 
 
-I created a website [Wizard.SG](https://www.wizard.sg) with the aim of developing my writing skills. 
+I started creating a fantasy world with the aim of developing my writing skills. 
 
 If you were determined enough to reach this page, you can see the latest chapter / story that I'm working on in its gestation stage.
 
-[Latest Writeup](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/leyond.md)
+[Latest Writeup](https://alwinwoo.github.io/pages/leyond.html)
 
 # References
 
