@@ -4,12 +4,7 @@
 ## What is kokorozashi? 
 
 
-
-## Why is knowing your ikigai important? 
-
-
-
-## How can I discover my ikigai? 
+## What's the difference between kokorozashi and ikigai? 
 
 
 
