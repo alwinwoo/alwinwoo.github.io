@@ -46,7 +46,7 @@ When this happens, you will find that pursuing your ikigai will bring you fulfil
 
 ![ikigai](https://alwinwoo.github.io/assets/img/ikigai.png)
 
-For a more in-depth concept similar to ikigai, see [kokorozashi].
+For a more in-depth concept similar to ikigai, see [kokorozashi](https://alwinwoo.github.io/pages/kokorozashi.html).
 
 ## References
 
