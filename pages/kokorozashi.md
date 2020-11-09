@@ -3,7 +3,7 @@
 
 ## What is kokorozashi? 
 
-(https://ikigaitribe.com/wp-content/uploads/2019/11/kokorozashi-big.png "Kokorozashi")
+![kokorozashi](https://ikigaitribe.com/wp-content/uploads/2019/11/kokorozashi-big.png "Kokorozashi")
 
 Kokorozashi is a Japanese leadership philosophy used in business by business leaders and company managers. Translated as the “leader’s mind” – spirited commitments, the intensions, willpower, or primary motivations of a leader. Kokorozashi also possesses the energy to creat enthusiasm. Unless a leader possesses kokorozashi, he or she will not be able to achieve individual or organizational goals, visions, or dreams. 
 
