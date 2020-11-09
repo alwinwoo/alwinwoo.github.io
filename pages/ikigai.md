@@ -5,7 +5,9 @@
 
 ![ikigai](https://kokugo.jitenon.jp/eyecatch/2150.png)
 
-Ikigai (pronounced “eye-ka-guy”) is, above all else, a lifestyle that strives to balance the spiritual with the practical. This balance is found at the intersection where your passions and talents converge with the things that the world needs and is willing to pay for. Hector Garcia, the co-author of Ikigai: The Japanese Secret to a Long and Happy Life writes this:
+Ikigai (pronounced “eye-ka-guy”) is, above all else, a lifestyle that strives to balance the spiritual with the practical. This balance is found at the intersection where your passions and talents converge with the things that the world needs and is willing to pay for. 
+
+Hector Garcia, the co-author of Ikigai: The Japanese Secret to a Long and Happy Life writes this:
 > Your ikigai is at the intersection of what you are good at and what you love doing.
 
 In Japan, people who have discovered their ikigai (pronounced ick-ee-guy) jump out of bed every morning, knowing exactly what they need to do. 
