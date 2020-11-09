@@ -1,17 +1,19 @@
 # [Futuring](https://alwinwoo.github.io/pages/futuring.html)
 [home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/futuring.md)
 
-Strategy is a fundamental necessity of organizational behavior. One of the most popular models used to assist an organization with strategy development is entitled SWOT (acronym for Strengths, Weaknesses, Opportunities, and Threats). “It begins with situational analysis: the process of finding a strategic fit between external opportunities and internal strengths while working around external threats and internal weaknesses” (Wheelen and Hunger 2010, 176).
+* Strategy is a fundamental necessity of organizational behavior. One of the most popular models used to assist an organization with strategy development is entitled SWOT (acronym for Strengths, Weaknesses, Opportunities, and Threats). “It begins with situational analysis: the process of finding a strategic fit between external opportunities and internal strengths while working around external threats and internal weaknesses” (Wheelen and Hunger 2010, 176).
 
 A new, recently introduced model provides a much greater focus on the positive. It has been labeled SOAR (acronym for Strengths, Opportunities, Aspirations, and Results). “SOAR and SWOT have a ‘both/and’ relationship because SOAR leverages the strengths and opportunities from SWOT as a foundation and then adds aspirations and results” (Stavros and Hendricks, 10). Both approaches can be leveraged effectively depending on the specific situation.
 
-SWOT (Strengths, Weaknesses, Opportunities, & Threats)
+![SOAR](https://online.visual-paradigm.com/repository/images/69d562d6-e9a7-4b4c-bf69-3afe23dde89a.png)
+
+* SWOT (Strengths, Weaknesses, Opportunities, & Threats)
 
 SWOT is a very helpful tool for organizations. “SWOT analysis has proven to be the most enduring analytical technique used in strategic management” (Wheelen and Hunger, 176). It can help an organization understand potential challenges, consider how prepared they may be, and whether or not they have the capability to react/respond to these potential challenges. “Although SWOT can be used at any level of an organization, it is traditionally employed at the senior management level” (Stavros and Hendricks, 10).
 
 SWOT has strong potential to slow down, or even halt, forward momentum during the strategic analysis process. Based on the structure of the SWOT model, half of the time will be spent focused on the negatives (weaknesses and threats). This is one of the most popular criticisms towards using the SWOT method for strategic planning. “SWOT analysis should not only result in the identification of a corporation’s distinctive competencies – the particular capabilities and resources that a firm possesses and the superior way in which they are used – but also in the identification of opportunities that the firm is not currently able to take advantage of due to a lack of appropriate resources” (Wheelen and Hunger, 176).
 
-SOAR (Strengths, Opportunities, Aspirations, & Results)
+* SOAR (Strengths, Opportunities, Aspirations, & Results)
 
 “SOAR is a strategic planning framework with an approach that focuses on strengths and seeks to understand the whole system by including the voices of relevant stakeholders” (Stavros and Hendricks, 6). SOAR represents a more positive model to utilize during an organization’s strategic planning process, as it can help identify the internal desires of an organization’s employees, what they want to achieve, and even how they will accomplish the goals. “SOAR helps people connect their purpose and values to their work through the strategic conversations” (Stavros and Hendricks, 14).
 
