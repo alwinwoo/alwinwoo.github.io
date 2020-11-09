@@ -18,9 +18,6 @@
           <tr>
             <td style="min-width:150px"><img style="width:100px; height:100px" src="https://alwinwoo.github.io/assets/img/logo.jpg"></td>
             <td><h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1></td>
-            <td><h1><a href="#"</a>Ikigai</h1></td>
-            <td><h1><a href="#"</a>xxx</h1></td>
-            <td><h1><a href="#"</a>Programming</h1></td>
         </table>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -31,6 +28,11 @@
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <p class="view"><a href="#">Topics of Interest</a></p>
+        <p class="view"><a href="#">Ikigai</a></p>
+        <p class="view"><a href="#">Programming</a></p>
+        <p class="view"><a href="#">Stocks</a></p>
+        <p class="view"><a href="#">Writing</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
