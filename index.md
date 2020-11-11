@@ -11,7 +11,7 @@ What I Love             | Mission                                 | What the Wor
 **Passion** | **[Ikigai][ikigai]** | **[Vocation][linked]**
 [Futuring][]<br>[Technology]<br>[Programming][]<br>[Data Visualisation]<br>[Web Admin][web_admin]<br>[Website Design][web_css] | [Public Service]<br>[Innovation][] | [Grounded Policies]<br>[Agile / Scrum][agile]<br>[Engaged Staff]<br>[Effective Teams]<br>[Healthy Individuals]
 **What I'm Good At** | **[Profession][linked]** | **[What I'm Paid For][linked]**
-[Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing][]<br>[Multi-Sectoral Experience]<br> | [Org Design & Devt][org_design_devt]<br>- [People]<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt<br>- [Facilitation][]<br> | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
+[Engineering Mindset][eng]<br>- [Systems Thinking]<br>[Facilitation]<br>[Deep Listening]<br>[Data Analysis]<br>[Writing][]<br>[Multi-Sectoral Experience]<br> | - [Org Design & Devt][odd]<br>- [People]<br>Vision Deployment<br>Project Mgmt<br>- Change Mgmt<br>- Knowledge Mgmt<br>- [Facilitation][]<br> | Visioning<br>Gap Analysis<br>Solutioning<br>- Leading Teams<br>- Transforming Organisations<br>- Changing Mindsets<br>Measuring Outcomes<br>
 
 [Areas that I'm developing][learning]
 
