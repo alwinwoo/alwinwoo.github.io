@@ -1,6 +1,8 @@
 # [Ikigai](https://alwinwoo.github.io/pages/ikigai.html)
 [home](https://alwinwoo.github.io/) | [edit](https://github.com/alwinwoo/alwinwoo.github.io/edit/master/pages/ikigai.md)
 
+> It’s not enough to have lived. We should be determined to live for something. - Winston S. Churchill
+
 ## What is ikigai? 
 
 ![ikigai](https://kokugo.jitenon.jp/eyecatch/2150.png)
@@ -57,3 +59,4 @@ For a more in-depth concept similar to ikigai, see [kokorozashi](https://alwinwo
 - https://medium.com/thrive-global/ikigai-the-japanese-secret-to-a-long-and-happy-life-might-just-help-you-live-a-more-fulfilling-9871d01992b7
 - https://www.forbes.com/sites/chrismyers/2018/02/23/how-to-find-your-ikigai-and-transform-your-outlook-on-life-and-business/#4feed0fc2ed4
 - https://fs.blog/2019/06/comparing-yourself-others/
+- https://medium.com/the-post-grad-survival-guide/how-to-live-a-life-of-purpose-8f8760b21f21
