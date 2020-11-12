@@ -13,6 +13,6 @@
 
 # PHP - Managing UTF-8 Characters
  
-  * putenv('LANG=en_US.UTF-8'); 
-		* $command = escapeshellcmd("wget -O ".$output_file." ".$url);
-		* $output = shell_exec($command);
+  * putenv('LANG=en_US.UTF-8');
+  * $command = escapeshellcmd("wget -O ".$output_file." ".$url);
+  * $output = shell_exec($command);
