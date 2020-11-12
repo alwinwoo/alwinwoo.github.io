@@ -28,6 +28,7 @@ Here's a glimpse of the various areas of programming that one can explore or dab
 # [Programming for Interactivity - PHP and Javascript](https://alwinwoo.github.io/pages/java.html)
   * coding for interactive websites
   * server vs client processing
+  * dealing with UTF-8 codes
 
 # [Programming for Apple - Swift](https://alwinwoo.github.io/pages/swift.html)
   * Applications on Apple Store
