@@ -30,6 +30,16 @@
 
 - Strength Finders
 
+# Decision Making
+
+  - Daniel Kahneman, Thinking Fast and Slow 
+  https://suebehaviouraldesign.com/kahneman-fast-slow-thinking/
+
+# Communications
+
+  - Matt Abrahams, Think Fast, Talk Smart
+  https://www.gsb.stanford.edu/insights/think-fast-talk-smart-podcast
+  
 # Teams
 
   - Belbin Team Roles
