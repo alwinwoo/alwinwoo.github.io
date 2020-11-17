@@ -33,12 +33,17 @@
 # Decision Making
 
   - Daniel Kahneman, Thinking Fast and Slow 
-  https://suebehaviouraldesign.com/kahneman-fast-slow-thinking/
+    - https://suebehaviouraldesign.com/kahneman-fast-slow-thinking/
+
+  - Rolfe et al
+    - https://liberationist.org/what-so-what-now-what/
+    - https://cetl.uconn.edu/what-so-what-now-what-model/
+  
 
 # Communications
 
   - Matt Abrahams, Think Fast, Talk Smart
-  https://www.gsb.stanford.edu/insights/think-fast-talk-smart-podcast
+    - https://www.gsb.stanford.edu/insights/think-fast-talk-smart-podcast
   
 # Teams
 
