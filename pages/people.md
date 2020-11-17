@@ -36,11 +36,12 @@
   - Daniel Kahneman, Thinking Fast and Slow 
     - https://suebehaviouraldesign.com/kahneman-fast-slow-thinking/
 
-  - Rolfe et al
+  - Rolfe et al, What? So What? Now What?
     - https://liberationist.org/what-so-what-now-what/
     - https://cetl.uconn.edu/what-so-what-now-what-model/
   
-
+  - John Doeer, Measure What Matters
+    
 # Communications
 
   - Matt Abrahams, Think Fast, Talk Smart
