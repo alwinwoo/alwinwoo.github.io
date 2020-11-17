@@ -49,14 +49,18 @@
 # Teams
   - https://www.mindtools.com/pages/article/newLDR_83.htm
   - Belbin Team Roles
-    - Monitor Evaluator (thought-oriented)
-    - Specialist (thought-oriented)
-    - Plant (thought-oriented)
-    - Shaper (action-oriented)
-    - Implementer (action-oriented)
-    - Completer/Finisher (action-oriented)
-    - Coordinator (people-oriented)
-    - Team Worker (people-oriented)
+    - Action-Oriented
+      - Shaper (Challenges the team to improve)
+      - Implementer (Puts ideas into action)
+      - Completer/Finisher (Ensures thorough, timely completion)
+    - People-Oriented
+      - Coordinator (Acts as a chairperson)
+      - Team Worker (Encourages cooperation)
+      - Resource Investigator (Explores outside opportunities)
+    - Thought-Oriented
+      - Plant (Presents new ideas and approaches)
+      - Monitor Evaluator (Analyzes the options)
+      - Specialist (Provides specialized skills)
   
 # Difference between Coaching, Mentoring, Consulting, Training and Counselling
   - Coaching: Partnering in a thought-provoking and creative process to maximize personal and professional potential. The ‘client’ and the respective ‘goal’ for coaching could be at individual, group, team or organizational levels.  
