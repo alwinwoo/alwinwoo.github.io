@@ -47,8 +47,16 @@
     - https://www.gsb.stanford.edu/insights/think-fast-talk-smart-podcast
   
 # Teams
-
+  - https://www.mindtools.com/pages/article/newLDR_83.htm
   - Belbin Team Roles
+    - Monitor Evaluator (thought-oriented)
+    - Specialist (thought-oriented)
+    - Plant (thought-oriented)
+    - Shaper (action-oriented)
+    - Implementer (action-oriented)
+    - Completer/Finisher (action-oriented)
+    - Coordinator (people-oriented)
+    - Team Worker (people-oriented)
   
 # Difference between Coaching, Mentoring, Consulting, Training and Counselling
   - Coaching: Partnering in a thought-provoking and creative process to maximize personal and professional potential. The ‘client’ and the respective ‘goal’ for coaching could be at individual, group, team or organizational levels.  
