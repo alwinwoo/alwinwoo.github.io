@@ -49,8 +49,9 @@
     - https://www.gsb.stanford.edu/insights/think-fast-talk-smart-podcast
   
 # Teams
-  - https://www.mindtools.com/pages/article/newLDR_83.htm
+  
   - Belbin Team Roles
+    - https://www.mindtools.com/pages/article/newLDR_83.htm
     - Action-Oriented
       - Shaper (Challenges the team to improve)
       - Implementer (Puts ideas into action)
