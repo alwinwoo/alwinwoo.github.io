@@ -4,6 +4,7 @@
 # Personality Tests
 
 - High 5
+  - https://high5test.com/wp-content/uploads/2018/04/HIGH5-Strengths-Sequence-Sample.pdf
   - Doing (Believer, Deliverer, Focus Expert, Problem Solver, Time Keeper)
   - Feeling (Chameleon, Coach, Empathiser, Optimist, Peace Keeper)
   - Motivating (Catalyst, Commander, Self-Believer, Storyteller, Winner)
