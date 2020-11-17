@@ -41,7 +41,8 @@
     - https://cetl.uconn.edu/what-so-what-now-what-model/
   
   - John Doeer, Measure What Matters
-    
+  - Jerry Z Muller, The Tyranny of Metrics
+  
 # Communications
 
   - Matt Abrahams, Think Fast, Talk Smart
