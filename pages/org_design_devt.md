@@ -6,6 +6,8 @@ With close to 60% of organizational restructuring and redesigns failing, the wor
 Building capabilities in this domain is absolutely critical for today and especially for our new future.
 
 - What is Org Design, Org Development and what's the difference?
+  - <b>Org Design</b> is the process and outcome of shaping an organisational structure to align it with the business purpose and context in which it exists
+  - <b>Org Development</b> is the planned and systematic enabling of sustained performance in an organisation through the involvement of its people
 - What's the difference between traditional OD and Dialogic OD?
   - https://medium.com/new-organizational-insights/what-is-dialogic-organization-development-part-i-cfbe72b82a52
   - Traditional OD typically has a diagnostic phase followed by an intervention
