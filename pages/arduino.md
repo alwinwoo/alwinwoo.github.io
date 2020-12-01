@@ -109,6 +109,7 @@
   - <https://randomnerdtutorials.com/esp8266-web-server/>
 
 # Projects
+  - <https://www.instructables.com/I2C-LCD-on-NodeMCU-V2-With-Arduino-IDE/>
   - <http://arduinolearning.com/digispark/basic-digispark-example.php>
   - <https://www.raspberry-pi-geek.com/Archive/2014/03/Adding-analog-input-to-the-Pi-using-the-Digispark>
 
