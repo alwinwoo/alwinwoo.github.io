@@ -1,0 +1,21 @@
+
+
+<body>
+
+<div id="myDIV" onclick="toggleDiv()">
+  This is my DIV element.
+</div>
+
+</body>
+
+<script>
+function toggleDiv() {
+
+	var x = document.getElementById(this.id);
+	if (x.style.display === "none") {
+		x.style.display = "block";
+	} else {
+		x.style.display = "none";
+	}
+}
+</script>
