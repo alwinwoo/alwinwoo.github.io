@@ -1,5 +1,5 @@
 # Hello World
 
 
-| JAN | FEB | MAR | APR |
-| --- | --- | --- | --- |
+ JAN | FEB | MAR | APR 
+ --- | --- | --- | ---
