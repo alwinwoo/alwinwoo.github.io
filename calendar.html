@@ -2,7 +2,7 @@
 
 <body>
 
-<div id="myDIV" onclick="toggleDiv();">
+<div id="myDIV" onclick="toggleDiv(myDIV);">
   This is my DIV element.
   <div>
 	This is my content.
@@ -12,9 +12,9 @@
 </body>
 
 <script>
-function toggleDiv() {
+function toggleDiv(id) {
 
-	var x = document.getElementById(this.id);
+	var x = document.getElementById(id);
 	if (x.style.display === "none") {
 		x.style.display = "block";
 	} else {
