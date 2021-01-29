@@ -1,13 +1,51 @@
 <title>Calendar</title>
+<style>
+.activity_title {
+	width:200px;
+	display:inline-block;
+}
+
+.activity_due {
+	width:200px;
+	display:inline-block;	
+}
+
+</style>
 <body>
 
-<table>
-<tr>
-	<td><button onclick="toggleDiv('Jan')">JAN</button></td>
-	<td id="Jan">
-		This is my content.
-	</td>
-</tr>
+<button onclick="toggleClass('workplan')">Workplan</button>
+<button onclick="toggleClass('vanguard')">Vanguard</button>
+
+<h1>LOD Activities</h1>
+<div style="overflow-x:scroll; white-space: nowrap;">
+	<div class="activity_title"><h3>Workstreams</h3></div>
+	<div class="activity_due"><h3>Jan</h3></div>
+	<div class="activity_due"><h3>Feb</h3></div>
+	<div class="activity_due"><h3>Mar</h3></div>
+	<div class="activity_due"><h3>Apr</h3></div>
+	<div class="activity_due"><h3>May</h3></div>
+	<div class="activity_due"><h3>Jun</h3></div>
+	<div class="activity_due"><h3>Jul</h3></div>
+	<div class="activity_due"><h3>Aug</h3></div>
+	<div class="activity_due"><h3>Sep</h3></div>
+	<div class="activity_due"><h3>Oct</h3></div>
+	<div class="activity_due"><h3>Nov</h3></div>
+	<div class="activity_due"><h3>Dec</h3></div>
+
+<div class="workplan">
+	<div class="activity_title">Workplan Submissions</div>
+	<div class="activity_due Jan">Submit Workplan<br></div>
+</div>
+<div class="vanguard">
+	<div class="activity_title">Vanguard</div>
+	<div class="activity_due">6 Understanding Self</div>
+</div>
+
+
+
+	
+</div>
+
 
 </table>
 </body>
@@ -22,4 +60,20 @@ function toggleDiv(id) {
 		x.style.display = "none";
 	}
 }
+
+function toggleClass(id) {
+	var myClasses = document.querySelectorAll('.'+id),
+		i = 0,
+		l = myClasses.length;
+
+		for (i; i < l; i++) {
+			if (myClasses[i].style.display == "none") {
+				myClasses[i].style.display = 'block';
+			} else {
+				myClasses[i].style.display = 'none';
+			}
+		}
+	
+}
+
 </script>
